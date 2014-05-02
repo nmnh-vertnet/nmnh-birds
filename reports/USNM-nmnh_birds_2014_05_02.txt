@@ -1,0 +1,162 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 1286
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 68
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 6
+	Date: 2014-04-03 ; Times: 2
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-05 ; Times: 1
+	Date: 2014-04-07 ; Times: 1
+	Date: 2014-04-08 ; Times: 1
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 6
+	Date: 2014-04-11 ; Times: 12
+	Date: 2014-04-12 ; Times: 4
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-14 ; Times: 1
+	Date: 2014-04-15 ; Times: 3
+	Date: 2014-04-16 ; Times: 1
+	Date: 2014-04-17 ; Times: 20
+	Date: 2014-04-19 ; Times: 7
+	Date: 2014-04-21 ; Times: 2
+	Date: 2014-04-22 ; Times: 3
+	Date: 2014-04-23 ; Times: 6
+	Date: 2014-04-24 ; Times: 3
+	Date: 2014-04-25 ; Times: 5
+	Date: 2014-04-26 ; Times: 6
+	Date: 2014-04-28 ; Times: 1
+	Date: 2014-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:albifacies genus:myioborus" ; Times: 2
+	Query: "Syndactyla rufosuperciliata" ; Times: 1
+	Query: "Carriker country:"colombia" year >= 1940 year <= 1942" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "country:"colombia" specificepithet:nacunda genus:Podager year >= 1940 year <= 1942" ; Times: 1
+	Query: "gulgula" ; Times: 1
+	Query: "ptaritepui" ; Times: 1
+	Query: "6 may 1904 sterna" ; Times: 1
+	Query: "USNM 200812" ; Times: 1
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "molothrus ater wyoming" ; Times: 1
+	Query: "Amazilia viridicauda" ; Times: 2
+	Query: "Calliphlox evelynae" ; Times: 2
+	Query: "Podiceps taczanowskii" ; Times: 1
+	Query: "class:Aves hastypestatus:1 distance(location,geopoint(43.70759350405294,-104.94140625))<504426" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 6
+	Query: "stiphrornis" ; Times: 1
+	Query: "type:specimen genus:Oxyruncus year >= 1950 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:chrysogaster genus:basileuterus" ; Times: 1
+	Query: "specificepithet:coronata. year >= 1892 year <= 1892" ; Times: 1
+	Query: "ocreatus" ; Times: 2
+	Query: "Icterus cucullatus riverside" ; Times: 1
+	Query: "Ninox philippensis" ; Times: 2
+	Query: "country:"colombia" specificepithet:nacunda genus:Podager" ; Times: 1
+	Query: "stateprovince:"Nevada" (Otus)" ; Times: 4
+	Query: "quia" ; Times: 3
+	Query: "Turdus assimilis" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "(evelynae) year <= 2014" ; Times: 1
+	Query: "lipaugus streptophorus" ; Times: 8
+	Query: "formicivora grisea" ; Times: 1
+	Query: "b34135" ; Times: 1
+	Query: "USNM 458789" ; Times: 1
+	Query: "Gallirallus australis" ; Times: 1
+	Query: "balaeniceps" ; Times: 1
+	Query: "Myioborus albifacies" ; Times: 1
+	Query: "Geotrygon carrikeri" ; Times: 4
+	Query: "Gallirallus owstoni (skin OR feather OR fluid)" ; Times: 1
+	Query: "genus:Vultur" ; Times: 6
+	Query: "Gallirallus wakensis" ; Times: 2
+	Query: "piaya minuta" ; Times: 2
+	Query: "Micrathene whitneyi graysoni" ; Times: 1
+	Query: "shasta county hammondii" ; Times: 1
+	Query: "Gallirallus owstoni" ; Times: 1
+	Query: "anous minutus" ; Times: 1
+	Query: "Dryotriorchis spectabilis" ; Times: 1
+	Query: "type:specimen specificepithet:cardonai genus:myioborus" ; Times: 1
+	Query: "Gallirallus okinawae" ; Times: 2
+	Query: "stateprovince:"New Mexico" institutioncode:NMNH year <= 2013" ; Times: 1
+	Query: "Porzana fusca taiwan" ; Times: 1
+	Query: "USNM 327384" ; Times: 2
+	Query: "bendire california" ; Times: 1
+	Query: "county:"inyo" stateprovince:"california" genus:eremophila institutioncode:nmnh" ; Times: 1
+	Query: "genus:Limnoctites" ; Times: 1
+	Query: "genus:vultur" ; Times: 4
+	Query: "Gallirallus dieffenbachii" ; Times: 2
+	Query: "bendire 1867" ; Times: 1
+	Query: "terminalis" ; Times: 1
+	Query: "Cabinda" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 433 download events in this period)
+Total number of records downloaded: 33754 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 33527
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 1
+	Date: 2014-04-02 ; Times: 1
+	Date: 2014-04-10 ; Times: 3
+	Date: 2014-04-17 ; Times: 5
+	Date: 2014-04-18 ; Times: 2
+	Date: 2014-04-21 ; Times: 2
+	Date: 2014-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "Actitis macularia" ; Times: 1
+	Query: "genus:Vultur" ; Times: 3
+	Query: "type:specimen genus:Oxyruncus year >= 1950 year <= 2014" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "genus:vultur" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "Valladares" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 98
+Total number of records retrieved from searches: 1286
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 33754
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 98
+Total number of records retrieved from searches: 1286
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 33754
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
