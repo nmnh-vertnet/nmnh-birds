@@ -1,0 +1,256 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 3007
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Costa Rica ; Times: 9
+	Country: Germany ; Times: 30
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 145
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 7
+	Date: 2014-08-03 ; Times: 3
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-06 ; Times: 2
+	Date: 2014-08-07 ; Times: 11
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-09 ; Times: 9
+	Date: 2014-08-10 ; Times: 15
+	Date: 2014-08-11 ; Times: 16
+	Date: 2014-08-12 ; Times: 14
+	Date: 2014-08-13 ; Times: 13
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-15 ; Times: 6
+	Date: 2014-08-16 ; Times: 11
+	Date: 2014-08-18 ; Times: 5
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-20 ; Times: 6
+	Date: 2014-08-21 ; Times: 4
+	Date: 2014-08-22 ; Times: 11
+	Date: 2014-08-23 ; Times: 9
+	Date: 2014-08-24 ; Times: 6
+	Date: 2014-08-25 ; Times: 2
+	Date: 2014-08-26 ; Times: 4
+	Date: 2014-08-27 ; Times: 6
+	Date: 2014-08-28 ; Times: 16
+	Date: 2014-08-29 ; Times: 10
+	Date: 2014-08-30 ; Times: 7
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bryant year >= 1800 year <= 1870" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "specificepithet:axillaris genus:Aramides" ; Times: 2
+	Query: "county:"new guinea" class:aves year >= 1908 year <= 1912" ; Times: 1
+	Query: "nutria" ; Times: 3
+	Query: "centropus milo type:specimen" ; Times: 1
+	Query: "Colluricincla harmonica hastypestatus:1" ; Times: 1
+	Query: "country:"indonesia" class:aves year >= 1938 year <= 1938" ; Times: 1
+	Query: "muscicapa epulata" ; Times: 2
+	Query: "hepburn year >= 1800 year <= 1870" ; Times: 1
+	Query: "Aegotheles" ; Times: 1
+	Query: "country:"myanmar" class:aves year >= 1881 year <= 1881" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 3
+	Query: "county:"Alameda" stateprovince:"California" class:aves recordedby:burleigh year >= 1962 year <= 1965" ; Times: 1
+	Query: "country:"russia" specificepithet:corax genus:corvus year >= 1900 year <= 2014" ; Times: 1
+	Query: "country:"Jamaica" year >= 1866 year <= 1866" ; Times: 1
+	Query: "quindio" ; Times: 1
+	Query: "Neocossyphus poensis poensis" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "recordedby:van D year >= 1850 year <= 1900" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica NOT States NOT Peru NOT Haiti)" ; Times: 9
+	Query: "orloff may 1940" ; Times: 1
+	Query: "ectopistes migratorius egg" ; Times: 1
+	Query: "heermann year >= 1800 year <= 1870" ; Times: 1
+	Query: "specificepithet:varia sartorii genus:Strix" ; Times: 1
+	Query: "country:"uganda" class:aves year >= 1906 year <= 1906" ; Times: 1
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Parotia wahnesi" ; Times: 2
+	Query: "Galbula cyanescens" ; Times: 2
+	Query: "specificepithet:ireneae genus:Otus year >= 1820" ; Times: 1
+	Query: "class:aves recordedby:silver" ; Times: 4
+	Query: "stateprovince:"montana" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"saskatchewan" specificepithet:corax genus:corvus AND (NOT sound NOT churchill)" ; Times: 1
+	Query: "country:"Pakistan" year >= 1910 year <= 1925" ; Times: 1
+	Query: "country:"Mexico" genus:Aquila" ; Times: 1
+	Query: "Oriolus monacha meneliki" ; Times: 1
+	Query: "aegolius harrisii" ; Times: 1
+	Query: "bleda" ; Times: 1
+	Query: "anas wyvilliana type:specimen" ; Times: 3
+	Query: "orloff 2 may" ; Times: 1
+	Query: "(quindio)" ; Times: 8
+	Query: "pyriglena atra" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 14
+	Query: "Chlorophoneus multicolor" ; Times: 1
+	Query: "Cepphus columba kaiurka" ; Times: 2
+	Query: "astrolabe country:"Papua New Guinea" class:aves" ; Times: 1
+	Query: "Cepphus columba adianta" ; Times: 2
+	Query: "country:"malaysia" class:aves year >= 1951 year <= 1951" ; Times: 1
+	Query: "country:"Mexico" genus:Gymnogyps" ; Times: 4
+	Query: "Rhynchopsitta" ; Times: 4
+	Query: "Spheniscus demersus" ; Times: 3
+	Query: "type:specimen specificepithet:wyvilliana" ; Times: 1
+	Query: "country:"india" class:aves year >= 1911 year <= 1911" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen (nest)" ; Times: 2
+	Query: "Stizorhina" ; Times: 2
+	Query: "hepburn year >= 1850 year <= 1870" ; Times: 1
+	Query: "country:"Pakistan" class:aves year >= 1910 year <= 1925" ; Times: 2
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "class:aves recordedby:de schauensee year >= 1930 year <= 1940" ; Times: 1
+	Query: "ara tricolor" ; Times: 3
+	Query: "Diomedea exulans" ; Times: 3
+	Query: "type:specimen (Ectopistes migratorius nest)" ; Times: 1
+	Query: "type:specimen specificepithet:owstoni genus:Gallirallus year >= 1820" ; Times: 2
+	Query: "usnm 91091" ; Times: 1
+	Query: "sa pa" ; Times: 1
+	Query: "Phyllastrephus debilis rabai" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 3
+	Query: "Philemon citreogularis" ; Times: 1
+	Query: "country:"indonesia" class:aves year >= 1955 year <= 1955" ; Times: 1
+	Query: "(Jamaica) year >= 1866 year <= 1866" ; Times: 1
+	Query: "Grallaria capitalis" ; Times: 2
+	Query: "class:aves recordedby:schauensee year >= 1930 year <= 1940" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Otus ireneae" ; Times: 5
+	Query: "dendragapus stateprovince:"arizona"" ; Times: 1
+	Query: "Nutria" ; Times: 1
+	Query: "country:"russia" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Crinifer" ; Times: 1
+	Query: "Oriolus flavocinctus migrator" ; Times: 2
+	Query: "stateprovince:"dakota" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Gymnoderus foetidus" ; Times: 1
+	Query: "recordedby:H. bryant year >= 1800 year <= 1870" ; Times: 1
+	Query: "grayson year >= 1850 year <= 1870" ; Times: 1
+	Query: "specificepithet:excelsior genus:cinclodes" ; Times: 2
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus AND (NOT sound)" ; Times: 1
+	Query: "mizque" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "class:aves year >= 1866 year <= 1866" ; Times: 1
+	Query: "recordedby:goldie year >= 1879 year <= 1879" ; Times: 1
+	Query: "Pitta oatesi bolovenensis" ; Times: 1
+	Query: "Pinarornis" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 4
+	Query: ""Jamaica" year >= 1866 year <= 1866" ; Times: 1
+	Query: "country:"thailand" class:aves year >= 1960 year <= 1960" ; Times: 1
+	Query: "stateprovince:"montana" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "distance(location,geopoint(-0.058592845717697,-1.669921875))<100000" ; Times: 1
+	Query: "country:"thailand" class:aves recordedby:siah" ; Times: 1
+	Query: "passerina rositae" ; Times: 1
+	Query: "Plectorhyncha lanceolata" ; Times: 2
+	Query: "Hartertula flavoviridis" ; Times: 3
+	Query: "Lanioturdus" ; Times: 1
+	Query: "country:"south america" class:aves year >= 1850 year <= 1870" ; Times: 3
+	Query: "orloff 1940" ; Times: 2
+	Query: "grayson year >= 1860 year <= 1890" ; Times: 1
+	Query: "recordedby:grayson year >= 1800 year <= 1870" ; Times: 1
+	Query: "country:"russia" class:aves year >= 1940 year <= 1960" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 6
+	Query: "country:"canada" specificepithet:corax genus:corvus year >= 1920 year <= 2014" ; Times: 1
+	Query: "Pseudocalyptomena graueri" ; Times: 7
+	Query: "country:"indonesia" class:aves year >= 1951 year <= 1951" ; Times: 1
+	Query: "Phyllastrephus rabai" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 273 download events in this period)
+Total number of records downloaded: 27065 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 15109
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 8
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-12 ; Times: 3
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-17 ; Times: 1
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 5
+	Date: 2014-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "pomatorhinus ruficollis" ; Times: 1
+	Query: "ALCIPPE BRUNNEA" ; Times: 1
+	Query: "grayson year >= 1850 year <= 1870" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "mizque" ; Times: 1
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pallens genus:Vireo" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "recordedby:grayson year >= 1800 year <= 1870" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "dendragapus stateprovince:"arizona"" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "paradoxornis" ; Times: 2
+	Query: "Dipodomys" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1006
+Total number of records retrieved from searches: 14790
+Number of download events that retrieved data from the resource: 142
+Total number of records downloaded: 122917
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1006
+Total number of records retrieved from searches: 14790
+Number of download events that retrieved data from the resource: 142
+Total number of records downloaded: 122917
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
