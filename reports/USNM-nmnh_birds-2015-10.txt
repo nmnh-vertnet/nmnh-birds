@@ -1,0 +1,640 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 681
+Number of records retrieved in searches: 5278
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 44
+	Country: Canada ; Times: 11
+	Country: Unknown ; Times: 53
+	Country: Hungary ; Times: 3
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 8
+	Country: Argentina ; Times: 4
+	Country: Bolivia ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 28
+	Country: Chile ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 9
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 374
+	Country: Thailand ; Times: 19
+	Country: Russia ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 23
+	Country: Azerbaijan ; Times: 1
+	Country: United Kingdom ; Times: 49
+	Country: Colombia ; Times: 12
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 31
+	Date: 2015-10-17 ; Times: 6
+	Date: 2015-10-14 ; Times: 58
+	Date: 2015-10-15 ; Times: 55
+	Date: 2015-10-12 ; Times: 29
+	Date: 2015-10-13 ; Times: 26
+	Date: 2015-10-10 ; Times: 5
+	Date: 2015-10-11 ; Times: 32
+	Date: 2015-10-18 ; Times: 21
+	Date: 2015-10-19 ; Times: 18
+	Date: 2015-10-29 ; Times: 15
+	Date: 2015-10-28 ; Times: 25
+	Date: 2015-10-27 ; Times: 20
+	Date: 2015-10-26 ; Times: 16
+	Date: 2015-10-25 ; Times: 8
+	Date: 2015-10-24 ; Times: 17
+	Date: 2015-10-23 ; Times: 24
+	Date: 2015-10-22 ; Times: 11
+	Date: 2015-10-21 ; Times: 24
+	Date: 2015-10-20 ; Times: 6
+	Date: 2015-10-05 ; Times: 24
+	Date: 2015-10-04 ; Times: 12
+	Date: 2015-10-07 ; Times: 20
+	Date: 2015-10-06 ; Times: 14
+	Date: 2015-10-01 ; Times: 28
+	Date: 2015-10-03 ; Times: 9
+	Date: 2015-10-02 ; Times: 35
+	Date: 2015-10-09 ; Times: 61
+	Date: 2015-10-08 ; Times: 13
+	Date: 2015-10-30 ; Times: 17
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sabah Columbidae" ; Times: 1
+	Query: "pachycephala lorentzi" ; Times: 2
+	Query: "chaetura (skel OR skeleton)" ; Times: 1
+	Query: "usnm 163988" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "Nyctiphrynus ocellatus mappable:1" ; Times: 1
+	Query: "paradisaea raggiana female" ; Times: 3
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Saltator azarae" ; Times: 2
+	Query: "Big Hatchet Mountains" ; Times: 1
+	Query: "usnm 324117" ; Times: 2
+	Query: "country:&#34;Peru&#34; recordedby:Anderson" ; Times: 2
+	Query: "Colinus cristatus thomas" ; Times: 2
+	Query: "emberiza schoeniclus" ; Times: 2
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "Psarisomus dalhousiae" ; Times: 1
+	Query: "francolinus levaillantoides" ; Times: 2
+	Query: "arborophila cambodiana skin" ; Times: 1
+	Query: "Guttera pucherani year &gt;= 1950" ; Times: 1
+	Query: "USNM 429785.4091963" ; Times: 1
+	Query: "grecia costa rica" ; Times: 2
+	Query: "pomatorhinus schisticeps" ; Times: 4
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "usnm 431787" ; Times: 1
+	Query: "Odontophorus leucolaemus institutioncode:USNM" ; Times: 1
+	Query: "francolinus capensis preparations:skin institutioncode:USNM" ; Times: 1
+	Query: "correndera usnm" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 1
+	Query: "baku" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "atelornis (skel OR skeleton)" ; Times: 1
+	Query: "usnm 255342" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "usnm 216359" ; Times: 1
+	Query: "Athene blewitti country:&#34;India&#34;" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "usnm 243667" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Ortyxelos" ; Times: 2
+	Query: "francolinus levaillantii" ; Times: 1
+	Query: "parus major" ; Times: 2
+	Query: "ammodramus savannarum floridanus" ; Times: 1
+	Query: "guttera year &gt;= 1990" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Chloropipo unicolor" ; Times: 1
+	Query: "heliornis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "ortyxelos" ; Times: 1
+	Query: "Apus affinis Karnataka" ; Times: 1
+	Query: "genus:Icteria stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 2
+	Query: "usnm 360643" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1960" ; Times: 1
+	Query: "Eurylaimus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "phalacrocorax coronatus" ; Times: 1
+	Query: "sylvietta ruficapilla" ; Times: 1
+	Query: "odontophorus atrifrons" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rutter" ; Times: 1
+	Query: "usnm 518976" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "anthreptes somereni" ; Times: 1
+	Query: "USNM-316168" ; Times: 1
+	Query: "dendrortyx leucophrys costa rica" ; Times: 1
+	Query: "pellorneum pyrrogenys" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Anderson" ; Times: 1
+	Query: "Guttera edouardi" ; Times: 1
+	Query: "573690" ; Times: 1
+	Query: "continentalis" ; Times: 1
+	Query: "struthio camelus (skel OR skeleton)" ; Times: 1
+	Query: "sporophila plumbea" ; Times: 3
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "Guttera year &gt;= 1950" ; Times: 2
+	Query: "ammoperdix" ; Times: 1
+	Query: "Probosciger aterrimus (skel OR skeleton)" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Garlepp" ; Times: 2
+	Query: "paradisaea rubra female" ; Times: 2
+	Query: "Odontophorus leucolaemus" ; Times: 2
+	Query: "parus major mahrattarum" ; Times: 1
+	Query: "megalaima rubricapilla" ; Times: 1
+	Query: "tapera (skel OR skeleton)" ; Times: 1
+	Query: "Psittacula India skin roseata" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aramides cajanea" ; Times: 2
+	Query: "Florida Phoenicopterus" ; Times: 4
+	Query: "muscicapa muttui" ; Times: 5
+	Query: "Pionus maximiliani institutioncode:USNM" ; Times: 1
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "412356" ; Times: 1
+	Query: "emberiza cineracea" ; Times: 1
+	Query: "Capito wallacei" ; Times: 1
+	Query: "genus:culicivora" ; Times: 1
+	Query: "lophorina (skel OR skeleton)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rich" ; Times: 2
+	Query: "batrachostomus" ; Times: 1
+	Query: "Guttera pucherani year &lt;= 1950" ; Times: 1
+	Query: "Otus sunia country:&#34;India&#34;" ; Times: 1
+	Query: "usnm 375880" ; Times: 1
+	Query: "usnm 386829" ; Times: 1
+	Query: "Seicercus castaniceps" ; Times: 3
+	Query: "colinus virginianus graysoni usnm" ; Times: 1
+	Query: "hypocolius" ; Times: 1
+	Query: "&#34;callipepla squamata squamata&#34;" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "Lanius phoenicuroides country:&#34;India&#34;" ; Times: 1
+	Query: "nectarinia minima" ; Times: 1
+	Query: "Oxyruncus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Hylocharis cyanus mappable:1" ; Times: 1
+	Query: "specificepithet:griseus genus:limnodromus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;Indonesia&#34; year &gt;= 1880 year &lt;= 1886" ; Times: 3
+	Query: "Geotrygon carrikeri" ; Times: 1
+	Query: "Schiffornis (skel OR skeleton)" ; Times: 1
+	Query: "usnm 214859" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "usnm 214855" ; Times: 1
+	Query: "usnm 214850" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Garlepp AND (NOT Cuzco)" ; Times: 1
+	Query: "Penelope superciliaris superciliaris" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 2
+	Query: "USNM 12601" ; Times: 2
+	Query: "loxigilla barbadensis" ; Times: 4
+	Query: "Lepidocolaptes (skel OR skeleton)" ; Times: 1
+	Query: "monias benschi" ; Times: 1
+	Query: "USNM 346561" ; Times: 1
+	Query: "xiphidiopicus percussus" ; Times: 2
+	Query: "seicercus castaniceps" ; Times: 1
+	Query: "Guttera year &gt;= 1960" ; Times: 2
+	Query: "Melanopareia" ; Times: 1
+	Query: "Apus affinis nipalensis" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 8
+	Query: "monster" ; Times: 6
+	Query: "sylvietta isabellina" ; Times: 1
+	Query: "odontophorus speciosus" ; Times: 1
+	Query: "Psittacula India skin" ; Times: 2
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Orton" ; Times: 2
+	Query: "usnm 334301" ; Times: 1
+	Query: "Pinaroloxias (skel OR skeleton)" ; Times: 1
+	Query: "Amazilia castaneiventris" ; Times: 2
+	Query: "USNM 613310.4265994" ; Times: 1
+	Query: "Neophron" ; Times: 5
+	Query: "sitta tephronota" ; Times: 2
+	Query: "pulsatrix koeniswaldiana" ; Times: 2
+	Query: "pulsatrix country:&#34;panama&#34; institutioncode:USNM" ; Times: 1
+	Query: "Changapajanagam" ; Times: 1
+	Query: "Xiphorhynchus triangularis mappable:1" ; Times: 1
+	Query: "colinus virginianus graysoni" ; Times: 2
+	Query: "Zenaida macroura clarionensis" ; Times: 1
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "perdicula argoondah" ; Times: 2
+	Query: "podilymbus gigas" ; Times: 2
+	Query: "Francolinus pintadeanus" ; Times: 2
+	Query: "pachycephala orpheus" ; Times: 1
+	Query: "Myiobius (skel OR skeleton) sex:female" ; Times: 1
+	Query: "usnm 383473" ; Times: 1
+	Query: "Lessonia (aves) mappable:1" ; Times: 1
+	Query: "126521" ; Times: 1
+	Query: "Synthliboramphus scrippsi Miguel" ; Times: 1
+	Query: "Seicercus grammiceps" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "coracina atriceps" ; Times: 1
+	Query: "pulsatrix" ; Times: 3
+	Query: "Rhynchocyclus (skel OR skeleton)" ; Times: 1
+	Query: "francolinus jacksoni" ; Times: 1
+	Query: "usnm 518941" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "myrmornis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "odontophorus columbianus" ; Times: 5
+	Query: "Hymenops (skel OR skeleton) sex:female" ; Times: 1
+	Query: "ammoperdix griseogularis year &gt;= 1960" ; Times: 1
+	Query: "crax globulosa" ; Times: 2
+	Query: "Odontophorus capueira year &gt;= 1980" ; Times: 1
+	Query: "Pseudoseisura lophotes" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 2
+	Query: "carduelis cucullata" ; Times: 11
+	Query: "usnm 214866" ; Times: 1
+	Query: "usnm 214862" ; Times: 1
+	Query: "usnm 201332" ; Times: 1
+	Query: "Synthliboramphus hypoleucus California" ; Times: 2
+	Query: "usnm 254088" ; Times: 1
+	Query: "USNM 12498" ; Times: 2
+	Query: "terenura (skel OR skeleton) sex:female" ; Times: 1
+	Query: "specificepithet:dufresniana genus:Amazona" ; Times: 3
+	Query: "Zosterops palpebrosus" ; Times: 2
+	Query: "coturnix skeleton" ; Times: 3
+	Query: "Paradisaea rudolphi type:specimen" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Accipiter nanus" ; Times: 2
+	Query: "class:aves (rio grande do sul) institutioncode:USNM" ; Times: 1
+	Query: "Pteruthius aenobarbus" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 2
+	Query: "parus major india" ; Times: 3
+	Query: "type:specimen specificepithet:cornutus genus:Eunymphicus" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Sclater" ; Times: 1
+	Query: "Leptopoecile type:specimen" ; Times: 1
+	Query: "naranjo costa rica" ; Times: 1
+	Query: "pulsatrix institutioncode:USNM" ; Times: 1
+	Query: "colinus panama" ; Times: 2
+	Query: "phaethornis (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen specificepithet:fischeri genus:Tauraco country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "crax alector alector" ; Times: 1
+	Query: "Alcedo hercules country:&#34;India&#34;" ; Times: 1
+	Query: "colinus littoralis" ; Times: 6
+	Query: "Waterstradt 1902 AND (&#34;Indonesia&#34;)" ; Times: 1
+	Query: "hemitriccus granadensis" ; Times: 4
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Lophotriccus vitiosus mappable:1" ; Times: 1
+	Query: "Sitta castanea" ; Times: 1
+	Query: "usnm 487077" ; Times: 1
+	Query: "type:specimen (melanopareia)" ; Times: 3
+	Query: "parus nuchalis" ; Times: 17
+	Query: "Synthliboramphus hypoleucus San Miguel" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 1
+	Query: "guttera pucherani year &gt;= 1960" ; Times: 1
+	Query: "211677" ; Times: 1
+	Query: "recordedby:Clissold institutioncode:USNM" ; Times: 1
+	Query: "melanopareia type:specimen" ; Times: 4
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "Vireo pallens browningi type:specimen country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "arachnothera modesta" ; Times: 2
+	Query: "Nestor meridionalis" ; Times: 9
+	Query: "albania" ; Times: 1
+	Query: "usnm 93528" ; Times: 2
+	Query: "guttera" ; Times: 1
+	Query: "coracina ingens" ; Times: 1
+	Query: "falco minnesota egg" ; Times: 1
+	Query: "type:specimen genus:Peltops" ; Times: 1
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "Chloropipo unicolor type:specimen" ; Times: 1
+	Query: "gavia oregon" ; Times: 1
+	Query: "ammoperdix griseogularis" ; Times: 1
+	Query: "specificepithet:dufresniana genus:Amazona institutioncode:USNM" ; Times: 2
+	Query: "Synthliboramphus scrippsi Channel" ; Times: 1
+	Query: "cyanocompsa cyanoides country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ortalis guttata guttata" ; Times: 2
+	Query: "Pterocles orientalis India skin" ; Times: 4
+	Query: "ara rubrogenys" ; Times: 1
+	Query: "Pitta cyanea" ; Times: 2
+	Query: "corythaeola (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Lathrotriccus euleri flaviventris" ; Times: 1
+	Query: "jugger" ; Times: 2
+	Query: "Lophotriccus pileatus mappable:1" ; Times: 1
+	Query: "Motacilla flava country:&#34;india&#34;" ; Times: 2
+	Query: "Sclerurus (skel OR skeleton)" ; Times: 1
+	Query: "Rupicola (skel OR skeleton) sex:female" ; Times: 1
+	Query: "plateni" ; Times: 1
+	Query: "francolinus capensis" ; Times: 6
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "phylloscopus cantator" ; Times: 6
+	Query: "burlington class:Aves country:&#34;united states&#34; year &gt;= 1892 year &lt;= 1894" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 3
+	Query: "USNM 636038" ; Times: 1
+	Query: "Nyctiphrynus ocellatus" ; Times: 2
+	Query: "colinus virginianus salvini" ; Times: 1
+	Query: "489351.4104179" ; Times: 1
+	Query: "Picumnus minutissimus guyana" ; Times: 1
+	Query: "Sitta leucopsis" ; Times: 2
+	Query: "nectarinia axantha" ; Times: 1
+	Query: "Campylopterus largipennis mappable:1" ; Times: 2
+	Query: "nothoprocta ornata" ; Times: 2
+	Query: "Picidae (Newfoundland or Labrador)" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1960" ; Times: 1
+	Query: "anthreptes collaris somereni" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "pachycephala rufogularis" ; Times: 1
+	Query: "mergus octosetaceus" ; Times: 1
+	Query: "archilochus (skel OR skeleton)" ; Times: 1
+	Query: "Cyrtonyx montezumae Chihuahua" ; Times: 2
+	Query: "guttera pucherani" ; Times: 1
+	Query: "Conopophaga castaneiceps AND (NOT boliviana) mappable:1" ; Times: 1
+	Query: "211632" ; Times: 1
+	Query: "paradisaea rudolphi female" ; Times: 2
+	Query: "USNM 528219" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 10
+	Query: "Rhipidura dryas" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 5
+	Query: "Synthliboramphus hypoleucus Miguel" ; Times: 1
+	Query: "USNM 120096" ; Times: 1
+	Query: "Basileuterus ignotus type:specimen" ; Times: 1
+	Query: "USNM 120093" ; Times: 1
+	Query: "sericulus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 2
+	Query: "tuvalu" ; Times: 2
+	Query: "usnm 313172" ; Times: 1
+	Query: "paradoxornis feae" ; Times: 5
+	Query: "aegypius" ; Times: 1
+	Query: "rollandia microptera" ; Times: 1
+	Query: "Francolinus sephaena" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Whitely" ; Times: 5
+	Query: "specificepithet:kirtlandii stateprovince:&#34;michigan&#34; AND (NOT UMMZ) year &gt;= 1900 year &lt;= 1943" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "Guttera pucherani" ; Times: 1
+	Query: "Eurostopodus (skel OR skeleton)" ; Times: 1
+	Query: "paradisaea minor female" ; Times: 7
+	Query: "paradoxornis" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "Micrastur (skel OR skeleton)" ; Times: 1
+	Query: "empidonax extimus" ; Times: 1
+	Query: "Malacoptila semicincta" ; Times: 1
+	Query: "Sittasomus griseicapillus gracileus type:specimen" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Hauxwell" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 4
+	Query: "calypte anna type:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Vireo pallens type:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Stercorarius stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "usnm 588017" ; Times: 2
+	Query: "Indicator indicator 327" ; Times: 1
+	Query: "usnm 167415" ; Times: 1
+	Query: "pachycephala caledonica" ; Times: 1
+	Query: "usnm 167413" ; Times: 1
+	Query: "Rhynchocyclus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "usnm 313174" ; Times: 3
+	Query: "usnm 167419" ; Times: 1
+	Query: "Francolinus sephaena usnm" ; Times: 1
+	Query: "Calyptomena (skel OR skeleton) sex:female" ; Times: 1
+	Query: "paradoxornis poliotis" ; Times: 8
+	Query: "USNM 226579" ; Times: 2
+	Query: "melanoperdix" ; Times: 1
+	Query: "specificepithet:fischeri genus:Tauraco country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:mcmillan" ; Times: 3
+	Query: "jynx (skel OR skeleton)" ; Times: 1
+	Query: "xanthogonys" ; Times: 2
+	Query: "Muscicapa Thailand" ; Times: 1
+	Query: "Conopophaga castaneiceps mappable:1" ; Times: 1
+	Query: "Motacilla citreola country:&#34;india&#34;" ; Times: 2
+	Query: "dendrortyx leucophrys" ; Times: 1
+	Query: "Chiroxiphia pareola AND (NOT boliviana) mappable:1" ; Times: 1
+	Query: "ortalis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1920" ; Times: 1
+	Query: "Amaurornis akool akool" ; Times: 1
+	Query: "skeleton specificepithet:harrisi family:Phalacrocoracidae" ; Times: 1
+	Query: "rostratula (skel OR skeleton) sex:female" ; Times: 1
+	Query: "usnm 159514" ; Times: 1
+	Query: "crax fasciolata fasciolata" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "criniger calurus" ; Times: 1
+	Query: "tapera (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Chelidoptera sex:female (skel OR skeleton)" ; Times: 1
+	Query: "Deroptyus (skel OR skeleton)" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "Synthliboramphus scrippsi Santa Barbara" ; Times: 1
+	Query: "tigrisoma sex:female (skel OR skeleton)" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 3
+	Query: "USNM 194066" ; Times: 1
+	Query: "USNM 194067" ; Times: 1
+	Query: "Terenura (skel OR skeleton)" ; Times: 1
+	Query: "skeleton specificepithet:sandvicensis family:Anatidae" ; Times: 1
+	Query: "Asio stygius" ; Times: 1
+	Query: "diglossa carbonaria" ; Times: 2
+	Query: "parus xanthogenys" ; Times: 5
+	Query: "Odontophorus capueira" ; Times: 3
+	Query: "USNM 194068" ; Times: 1
+	Query: "larus institutioncode:USNM" ; Times: 2
+	Query: "francolinus icterorhynchus" ; Times: 7
+	Query: "francolinus harwoodi" ; Times: 4
+	Query: "Chloroceryle sex:female (skel OR skeleton)" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 1
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 2
+	Query: "odontophorus speciosus ecuador" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "ptilopachus petrosus" ; Times: 4
+	Query: "Neophron type:specimen" ; Times: 1
+	Query: "ortalis (skel OR skeleton)" ; Times: 1
+	Query: "usnm 112368" ; Times: 1
+	Query: "Emberiza bruniceps country:&#34;india&#34;" ; Times: 2
+	Query: "criniger chloronotus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tumbes&#34; country:&#34;Peru&#34; recordedby:Watkins" ; Times: 1
+	Query: "Rupicola (skel OR skeleton)" ; Times: 1
+	Query: "Sierra Madre near Guadalupe" ; Times: 2
+	Query: "USNM 534124" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rutter institutioncode:USNM" ; Times: 1
+	Query: "francolinus castaneicollis" ; Times: 1
+	Query: "Bucorvus" ; Times: 1
+	Query: "pipra fasciicauda" ; Times: 2
+	Query: "Turdus obscurus country:&#34;India&#34;" ; Times: 1
+	Query: "Garrulax chinensis" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "anthus berthelotii" ; Times: 2
+	Query: "Phylloscopus laurae" ; Times: 1
+	Query: "colinus costa rica" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:Lessonia mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; (Dendragapus obscurus)" ; Times: 1
+	Query: "Brachyramphus marmoratus year &gt;= 1993" ; Times: 1
+	Query: "Thalurania ridgwayi" ; Times: 1
+	Query: "genus:Pholidornis" ; Times: 1
+	Query: "USNM 207873" ; Times: 1
+	Query: "usnm 89968" ; Times: 2
+	Query: "Lako" ; Times: 2
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "genus:Passerculus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Lampornis amethystinus nobilis type:specimen" ; Times: 1
+	Query: "archilochus (skel OR skeleton) institutioncode:USNM" ; Times: 1
+	Query: "Hemitriccus granadensis" ; Times: 1
+	Query: "chunga (skel OR skeleton)" ; Times: 1
+	Query: "usnm 519228" ; Times: 1
+	Query: "Eremophila bilopha" ; Times: 2
+	Query: "micropygia (skel OR skeleton) sex:female institutioncode:USNM" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "USNM 243654" ; Times: 2
+	Query: "Anthus godlewskii country:&#34;india&#34;" ; Times: 1
+	Query: "usnm 117887" ; Times: 1
+	Query: "Calyptomena (skel OR skeleton)" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "usnm 329666" ; Times: 1
+	Query: "usnm 329667" ; Times: 1
+	Query: "USNM 207771" ; Times: 3
+	Query: "USNM 371372" ; Times: 3
+	Query: "ihering" ; Times: 2
+	Query: "pachycephala sulfuriventer" ; Times: 1
+	Query: "Schiffornis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "242887" ; Times: 1
+	Query: "Awash" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 101 (out of 823 download events in this period)
+Total number of records downloaded: 41494
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 42
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 21
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Jamaica ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Thailand ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 6
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-18 ; Times: 5
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 10
+	Date: 2015-10-27 ; Times: 7
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 4
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-07 ; Times: 10
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 12
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sabah Columbidae" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1980" ; Times: 1
+	Query: "Nyctiphrynus ocellatus mappable:1" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "Harpactes erythrocephalus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Stercorarius stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Anderson" ; Times: 1
+	Query: "Lophotriccus vitiosus mappable:1" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Campephilus haematogaster mappable:1" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "melanopareia type:specimen" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "sylhet" ; Times: 1
+	Query: "Conopophaga castaneiceps mappable:1" ; Times: 1
+	Query: "Aptenodytes type:specimen institutioncode:USNM" ; Times: 1
+	Query: "locality:San Antonio stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "Chiroxiphia pareola AND (NOT boliviana) mappable:1" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "cyanocompsa cyanoides country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 1
+	Query: "Pinaroloxias (skel OR skeleton)" ; Times: 1
+	Query: "Amazilia castaneiventris" ; Times: 2
+	Query: "Campephilus rubricollis mappable:1" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1960" ; Times: 1
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 2
+	Query: "geospiza (skel OR skeleton)" ; Times: 1
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "Dendrortyx macroura" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Campylorhynchus gularis" ; Times: 1
+	Query: "Garrulax chinensis" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Vireo osburni" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "Mionectes olivaceus mappable:1" ; Times: 1
+	Query: "Thalurania ridgwayi" ; Times: 1
+	Query: "specificepithet:pinus genus:Dendroica stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Coccothraustes abeillei" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "motacilla citreola" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Schunke" ; Times: 1
+	Query: "Sitta oenochlamys" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "tuvalu" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Phaethornis yaruqui mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "aeneus" ; Times: 1
+	Query: "Campylopterus largipennis mappable:1" ; Times: 2
+
+
+End of report.
