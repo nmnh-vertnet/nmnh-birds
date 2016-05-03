@@ -1,0 +1,1110 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1490
+Number of records retrieved in searches: 12527
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 224
+	Country: Canada ; Times: 267
+	Country: Unknown ; Times: 95
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 20
+	Country: Peru ; Times: 16
+	Country: Argentina ; Times: 7
+	Country: Norway ; Times: 10
+	Country: Montenegro ; Times: 1
+	Country: Germany ; Times: 52
+	Country: Spain ; Times: 7
+	Country: Netherlands ; Times: 7
+	Country: Denmark ; Times: 6
+	Country: United States ; Times: 670
+	Country: Russia ; Times: 16
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 20
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Austria ; Times: 11
+	Country: Colombia ; Times: 43
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 24
+	Date: 2016-04-28 ; Times: 10
+	Date: 2016-04-07 ; Times: 99
+	Date: 2016-04-06 ; Times: 32
+	Date: 2016-04-05 ; Times: 86
+	Date: 2016-04-04 ; Times: 56
+	Date: 2016-04-21 ; Times: 29
+	Date: 2016-04-20 ; Times: 25
+	Date: 2016-04-23 ; Times: 43
+	Date: 2016-04-22 ; Times: 128
+	Date: 2016-04-25 ; Times: 10
+	Date: 2016-04-24 ; Times: 29
+	Date: 2016-04-09 ; Times: 50
+	Date: 2016-04-26 ; Times: 53
+	Date: 2016-04-08 ; Times: 229
+	Date: 2016-04-27 ; Times: 52
+	Date: 2016-04-18 ; Times: 14
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 60
+	Date: 2016-04-15 ; Times: 48
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 35
+	Date: 2016-04-10 ; Times: 37
+	Date: 2016-04-11 ; Times: 55
+	Date: 2016-04-12 ; Times: 58
+	Date: 2016-04-13 ; Times: 209
+	Date: 2016-04-03 ; Times: 7
+	Date: 2016-04-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "skin type:specimen specificepithet:coerulescens genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "class:Aves locality:San Antonio country:&#34;Colombia&#34; recordedby:Palmer" ; Times: 1
+	Query: "(reddington)" ; Times: 1
+	Query: "aplonis cinerascens" ; Times: 1
+	Query: "type:specimen specificepithet:chrysomelas genus:Chrysothlypis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:jacarina genus:Volatinia sex:male institutioncode:USNM" ; Times: 1
+	Query: "Dumetella carolinensis (British Columbia)" ; Times: 2
+	Query: "sclerurus scansor" ; Times: 1
+	Query: "USNM 286928" ; Times: 1
+	Query: "USNM 579621" ; Times: 1
+	Query: "USNM 579623" ; Times: 1
+	Query: "sitta canadensis Mexico AND (new )" ; Times: 1
+	Query: "skin type:specimen specificepithet:pileata genus:Nemosia sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:passerinii genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:lineola genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "columba rufina" ; Times: 3
+	Query: "myrmothera simplex type:specimen" ; Times: 1
+	Query: "Dendrortyx barbatus" ; Times: 2
+	Query: "skin type:specimen specificepithet:diadematus genus:Stephanophorus sex:male institutioncode:USNM" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Synthliboramphus AND &#34;SAnta Barbara Island&#34;" ; Times: 1
+	Query: "dubusia taeniata" ; Times: 3
+	Query: "Noa" ; Times: 1
+	Query: "skin type:specimen specificepithet:maximus genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "skin type:specimen specificepithet:cayana genus:Dacnis sex:male institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-108.427516))&lt;15000" ; Times: 3
+	Query: "Empidonax traillii extimus" ; Times: 3
+	Query: "magnolia newfoundland" ; Times: 2
+	Query: "skin type:specimen specificepithet:cassinii genus:Mitrospingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "193721 institutioncode:USNM" ; Times: 1
+	Query: "Incaspiza laeta" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario" ; Times: 10
+	Query: "type:specimen specificepithet:albifrons genus:Conirostrum sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "terpsiphone corvina" ; Times: 1
+	Query: "type:specimen genus:Starnoenas" ; Times: 2
+	Query: "type:specimen specificepithet:caesar genus:Poospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "grallaricula loricata type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:flaveola genus:Coereba sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:aureodorsalis genus:Buthraupis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "Thamnistes anabatinus year &lt;= 1860" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-106.557516))&lt;15000" ; Times: 6
+	Query: "strigiceps" ; Times: 1
+	Query: "skin type:specimen specificepithet:atriceps genus:Phrygilus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:albilatera genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-106.727516))&lt;15000" ; Times: 4
+	Query: "usnm 387453" ; Times: 1
+	Query: "polychopterus cinereiventris" ; Times: 1
+	Query: "locality:San Antonio stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34; recordedby:Palmer" ; Times: 1
+	Query: "San Nicolas Island AND 1863" ; Times: 1
+	Query: "skin type:specimen specificepithet:duidae genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 299247" ; Times: 2
+	Query: "USNM 299248" ; Times: 1
+	Query: "USNM 299249" ; Times: 2
+	Query: "skin type:specimen specificepithet:rufus genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 2
+	Query: "skin type:specimen specificepithet:labradorides genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:ornata genus:Poospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "aegotheles bennettii" ; Times: 1
+	Query: "USNM 227712" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "aburria aburri" ; Times: 9
+	Query: "USNM 224888" ; Times: 2
+	Query: "561981 institutioncode:USNM" ; Times: 1
+	Query: "USNM 224887" ; Times: 1
+	Query: "USNM 198042" ; Times: 2
+	Query: "USNM 224885" ; Times: 1
+	Query: "USNM 224882" ; Times: 2
+	Query: "USNM 224883" ; Times: 1
+	Query: "Dolichonyx oryzivorus Ontario 1" ; Times: 1
+	Query: "USNM 579622" ; Times: 1
+	Query: "skin type:specimen specificepithet:violacea genus:Loxigilla sex:male institutioncode:USNM" ; Times: 1
+	Query: "STREATOR AND ISLAND" ; Times: 1
+	Query: "Cranioleuca albicapilla" ; Times: 1
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "Thamnistes anabatinus" ; Times: 1
+	Query: "pnoepyga albiventer" ; Times: 1
+	Query: "USNM 579624" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 2
+	Query: "skin type:specimen specificepithet:zena genus:Spindalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:ixobrychus recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:guildingii genus:amazona institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:jelskii genus:Iridosornis sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:castaneiventris genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:sayaca genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:ruficapilla genus:Hemithraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "phylloscartes flaviventris type:specimen" ; Times: 1
+	Query: "Aepypodius arfakianus" ; Times: 1
+	Query: "gallinula chloropus skeleton africa" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County egg" ; Times: 1
+	Query: "nipponia" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "USNM 193671" ; Times: 1
+	Query: "dicaeum intermedium" ; Times: 1
+	Query: "Myrmeciza longipes" ; Times: 1
+	Query: "Athene cunicularia Ontario 1" ; Times: 1
+	Query: "Cooper AND San Nicolas Island" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+	Query: "Coeligena orina" ; Times: 2
+	Query: "USNM 139951" ; Times: 2
+	Query: "USNM 139950" ; Times: 2
+	Query: "Archangel" ; Times: 1
+	Query: "Howell AND 1911 AND Island" ; Times: 1
+	Query: "myrmeciza palliata type:specimen" ; Times: 1
+	Query: "phalacrocorax coronatus" ; Times: 1
+	Query: "170562" ; Times: 1
+	Query: "roraimia type:specimen" ; Times: 1
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "108467" ; Times: 1
+	Query: "USNM 258218" ; Times: 1
+	Query: "type:specimen specificepithet:rubrirostris genus:Cnemoscopus sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "USNM 258215" ; Times: 1
+	Query: "USNM 258217" ; Times: 1
+	Query: "USNM 258213" ; Times: 3
+	Query: "Asio flammeus Ontario" ; Times: 10
+	Query: "angeli" ; Times: 1
+	Query: "skin type:specimen specificepithet:rosea genus:Rhodinocichla sex:male" ; Times: 1
+	Query: "skin type:specimen specificepithet:laeta genus:Incaspiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "170933" ; Times: 1
+	Query: "genus:perdix country:&#34;china&#34; recordedby:graham catalognumber:325173.4066977 institutioncode:USNM" ; Times: 1
+	Query: "USNM 263471" ; Times: 2
+	Query: "turdoides earlei" ; Times: 1
+	Query: "Howell AND San Clemente Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:ruficervix genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 117639" ; Times: 4
+	Query: "skin specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "skin type:specimen specificepithet:watkinsi genus:Incaspiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 3
+	Query: "skin type:specimen specificepithet:intermedia genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "USNM 117634" ; Times: 2
+	Query: "skin type:specimen specificepithet:mexicana genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "pelecanus rufescens" ; Times: 1
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "thamnophilus atrinucha institutioncode:USNM" ; Times: 4
+	Query: "San Nicolas Island AND 1931" ; Times: 2
+	Query: "type:specimen specificepithet:rufigula genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Atlapetes canigenis" ; Times: 1
+	Query: "xenerpestes minlosi type:specimen sex:male" ; Times: 1
+	Query: "dicaeum assimile" ; Times: 4
+	Query: "phylloscartes superciliaris type:specimen" ; Times: 1
+	Query: "314970" ; Times: 2
+	Query: "Bucephala islandica year &gt;= 1860 year &lt;= 1865" ; Times: 1
+	Query: "skin type:specimen specificepithet:spiza genus:Chlorophanes sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:rustica genus:Haplospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "Noa Island" ; Times: 1
+	Query: "nettapus skeleton" ; Times: 2
+	Query: "skin type:specimen specificepithet:atriceps genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "egretta rufescens institutioncode:USNM" ; Times: 1
+	Query: "286640 institutioncode:USNM" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 2
+	Query: "gallinula chloropus (kenya)" ; Times: 1
+	Query: "skin type:specimen specificepithet:ruficeps genus:Thlypopsis sex:male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:otus genus:asio class:aves stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Buteo lineatus Ontario" ; Times: 10
+	Query: "genus:ara (militaris)" ; Times: 1
+	Query: "USNM 166716" ; Times: 2
+	Query: "skin type:specimen specificepithet:albocristata genus:Sericossypha sex:male institutioncode:USNM" ; Times: 1
+	Query: "Puffinus country:&#34;Turkey&#34;" ; Times: 9
+	Query: "distance(location,geopoint(20.589036,-107.917516))&lt;15000" ; Times: 3
+	Query: "USNM 263470" ; Times: 2
+	Query: "skin type:specimen specificepithet:cyanoventris genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 30091" ; Times: 2
+	Query: "skin type:specimen specificepithet:arthus genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "myrmeciza longipes type:specimen" ; Times: 1
+	Query: "oriolus sipora" ; Times: 2
+	Query: "Atlapetes nationi" ; Times: 1
+	Query: "recurvirostra skeleton africa" ; Times: 1
+	Query: "CICCABA ALBITARSUS" ; Times: 7
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "class:Aves locality:San Antonio country:&#34;Colombia&#34; recordedby:Chapman" ; Times: 1
+	Query: "schiffornis virescens" ; Times: 2
+	Query: "Larus philadelphia (British Columbia)" ; Times: 1
+	Query: "skin type:specimen specificepithet:superciliaris genus:Hemispingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 136712 Streator" ; Times: 1
+	Query: "pennsylvania bennett" ; Times: 1
+	Query: "cercomacra parkeri type:specimen" ; Times: 1
+	Query: "skin type:specimen specificepithet:parzudakii genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Myiornis auricularis" ; Times: 2
+	Query: "USNM 578862" ; Times: 2
+	Query: "Myrmotherula axillaris institutioncode:USNM" ; Times: 2
+	Query: "Chordeiles minor Ontario" ; Times: 10
+	Query: "skin type:specimen specificepithet:portoricensis genus:Loxigilla sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:bresilius genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "Wilsonia canadensis  Ontario" ; Times: 10
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "sarkidiornis skeleton" ; Times: 5
+	Query: "skin type:specimen specificepithet:nigrorufa genus:Poospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "myrmotherula longipennis type:specimen sex:male" ; Times: 1
+	Query: "taoniscus" ; Times: 1
+	Query: "USNM 535814" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:eximia genus:Buthraupis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "STREATOR AND San Miguel Island" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "USNM 6760" ; Times: 2
+	Query: "pachyramphus aglaiae nicaragua" ; Times: 1
+	Query: "type:specimen genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "skin type:specimen specificepithet:heinei genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Wright AND Santa Barbara Island" ; Times: 1
+	Query: "type:specimen specificepithet:campestris genus:Euneornis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "recordedby:thoresen" ; Times: 1
+	Query: "skin type:specimen specificepithet:caerulescens genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:punctata genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pachyramphus polychopterus venezuela" ; Times: 1
+	Query: "USNM 16134" ; Times: 2
+	Query: "USNM 136709 Streator" ; Times: 1
+	Query: "grallaria varia" ; Times: 1
+	Query: "type:specimen specificepithet:leucopyga genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:lacrymosus genus:Anisognathus sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "Pomarea dimidiata" ; Times: 7
+	Query: "skin type:specimen specificepithet:fulvus genus:Lanio sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:edwardsi genus:Buthraupis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "martinsburg pennsylvania" ; Times: 3
+	Query: "Lanius ludovicianus migrans Ontario" ; Times: 10
+	Query: "type:specimen specificepithet:ferrugineiventre genus:Conirostrum sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "skin type:specimen specificepithet:lucidus genus:Cyanerpes sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:Ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "588045 institutioncode:USNM" ; Times: 1
+	Query: "184396" ; Times: 1
+	Query: "Pachyramphus polychopterus spixii brazil" ; Times: 1
+	Query: "USNM 117676" ; Times: 2
+	Query: "USNM 117677" ; Times: 2
+	Query: "USNM 117675" ; Times: 2
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:major genus:Diglossa sex:Male institutioncode:USNM" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "410793" ; Times: 1
+	Query: "Dicaeum vincens" ; Times: 2
+	Query: "Oreoscoptes montanus Ontario" ; Times: 10
+	Query: "skin type:specimen specificepithet:verticalis genus:Hemispingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 117678" ; Times: 2
+	Query: "skin type:specimen specificepithet:gayi genus:Phrygilus sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:eucosma genus:Charitospiza sex:male (skin) institutioncode:USNM" ; Times: 2
+	Query: "family:Cathartidae country:&#34;Colombia&#34;" ; Times: 5
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta" ; Times: 2
+	Query: "skin type:specimen specificepithet:cucullata genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Townsend AND Santa Barbara Island" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta mappable:1" ; Times: 2
+	Query: "222388" ; Times: 1
+	Query: "wumizusume" ; Times: 1
+	Query: "skin type:specimen specificepithet:versicolor genus:Lanio sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 563343" ; Times: 1
+	Query: "skin type:specimen specificepithet:episcopus genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 304357" ; Times: 2
+	Query: "USNM 117656" ; Times: 2
+	Query: "USNM 152452" ; Times: 2
+	Query: "skin type:specimen specificepithet:melanotis genus:Coryphaspiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "fort india 1946" ; Times: 1
+	Query: "Athene cunicularia ONTARIO 1" ; Times: 2
+	Query: "phylloscopus sindianus" ; Times: 3
+	Query: "type:specimen specificepithet:carbonarius genus:Phrygilus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 136398" ; Times: 1
+	Query: "type:specimen specificepithet:leucothorax genus:Lanio sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:rufigula genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "San Miguel Island AND 1897" ; Times: 1
+	Query: "tachycineta euchrysea" ; Times: 1
+	Query: "skin type:specimen genus:Nephelornis sex:male" ; Times: 1
+	Query: "USNM Birds 117671" ; Times: 1
+	Query: "USNM Birds 117672" ; Times: 1
+	Query: "USNM 319797" ; Times: 1
+	Query: "seicercus poliogenys" ; Times: 1
+	Query: "skin type:specimen specificepithet:nigricollis genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "phasidus niger" ; Times: 1
+	Query: "USNM 232001" ; Times: 2
+	Query: "skin type:specimen specificepithet:flavicollis genus:Hemithraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "pelecanus onocrotalus (africa)" ; Times: 1
+	Query: "pachyramphus aglaiae costa rica" ; Times: 1
+	Query: "type:specimen specificepithet:fastuosa genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 258185" ; Times: 2
+	Query: "USNM 258186" ; Times: 2
+	Query: "USNM 258187" ; Times: 2
+	Query: "Leptasthenura xenothorax" ; Times: 1
+	Query: "Pica pica Ontario 1" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.047516))&lt;15000" ; Times: 2
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "saltator speratus" ; Times: 1
+	Query: "Townsend AND San Nicolas Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:desmaresti genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "arachnothera pars" ; Times: 1
+	Query: "NMNH Townsend 1888" ; Times: 2
+	Query: "pyrrhura frontalis" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-108.087516))&lt;15000" ; Times: 3
+	Query: "specificepithet:calendula genus:regulus year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "USNM 44767" ; Times: 2
+	Query: "skin type:specimen specificepithet:nigrogularis genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:speculiferus genus:Nesospingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "pulsatrix koeniswaldiana" ; Times: 3
+	Query: "skin type:specimen specificepithet:griseocristatus genus:Lophospingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:lafresnayii genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cristatus genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:xanthogastra genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Brevard County" ; Times: 1
+	Query: "&#34;La Garita&#34;" ; Times: 1
+	Query: "genus:piranga stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "USNM Birds 149943" ; Times: 1
+	Query: "type:specimen genus: Amazona (imperialis)" ; Times: 1
+	Query: "	Cyanopsitta spixii	 1" ; Times: 1
+	Query: "monster" ; Times: 19
+	Query: "sylvietta isabellina" ; Times: 2
+	Query: "Estancia San Jose" ; Times: 1
+	Query: "501775" ; Times: 1
+	Query: "Pica pica ONTARIO 1" ; Times: 2
+	Query: "coccyzus ferrugineus" ; Times: 5
+	Query: "type:specimen genus:Psittacula (columboides)" ; Times: 1
+	Query: "skin type:specimen specificepithet:inornata genus:Pinaroloxias sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:plumbea genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:xanthogramma genus:Melanodera sex:Male institutioncode:USNM" ; Times: 1
+	Query: "phylloscartes eximius" ; Times: 1
+	Query: "skin type:specimen specificepithet:seledon genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:luteola genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:olivacea genus:Certhidea sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:leucogenys genus:Conirostrum sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 55393" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario 1" ; Times: 1
+	Query: "skin type:specimen specificepithet:ruficollis genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "skin type:specimen specificepithet:bonariensis genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:velia genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 578863" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Townsend AND Santa Rosa Island" ; Times: 1
+	Query: "pteroglossus inscriptus" ; Times: 3
+	Query: "eubucco bourcierii country:&#34;Colombia&#34;" ; Times: 3
+	Query: "skin type:specimen specificepithet:ruficeps genus:Pyrrhocoma sex:male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "USNM 236669" ; Times: 1
+	Query: "USNM 236668" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 3
+	Query: "USNM 236665" ; Times: 2
+	Query: "USNM 236664" ; Times: 2
+	Query: "USNM 236667" ; Times: 1
+	Query: "USNM 236666" ; Times: 1
+	Query: "USNM 236661" ; Times: 1
+	Query: "USNM 236660" ; Times: 2
+	Query: "USNM 236663" ; Times: 1
+	Query: "USNM 236662" ; Times: 2
+	Query: "kerearako" ; Times: 1
+	Query: "zoothera dauma india" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "skin type:specimen specificepithet:speculigera genus:Conothraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "Hylocichla mustelina Ontario" ; Times: 10
+	Query: "specificepithet:striatus genus:Accipiter country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "skin type:specimen specificepithet:albogularis genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "skin type:specimen specificepithet:cyanea genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "Vliet Santiago" ; Times: 3
+	Query: "561077 institutioncode:USNM" ; Times: 2
+	Query: "gallinula angulata skeleton africa" ; Times: 1
+	Query: "STREATOR AND San Miguel Island 139954" ; Times: 1
+	Query: "USNM 139948" ; Times: 2
+	Query: "USNM 139949" ; Times: 2
+	Query: "STREATOR AND San Miguel Island 139953" ; Times: 1
+	Query: "STREATOR AND San Miguel Island 139952" ; Times: 1
+	Query: "skin type:specimen specificepithet:flaveola genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "lampornis nobilis" ; Times: 1
+	Query: "USNM 139943" ; Times: 2
+	Query: "skin type:specimen specificepithet:chrysotis genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "tachybaptus (africa skeleton)" ; Times: 1
+	Query: "skin type:specimen specificepithet:concolor genus:Xenospingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:albicollis genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "Hemispingus parodii" ; Times: 1
+	Query: "skin type:specimen specificepithet:cinerea genus:Poospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "attila torridus type:specimen" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 2
+	Query: "USNM 136708 Streator" ; Times: 1
+	Query: "dendrexetastes" ; Times: 1
+	Query: "B44991" ; Times: 1
+	Query: "locality:Lincoln stateprovince:&#34;Maine&#34; year &gt;= 1895 year &lt;= 1897" ; Times: 1
+	Query: "Euphagus carolinus Ontario" ; Times: 10
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "Nandayus" ; Times: 1
+	Query: "Athene cunicularia Ontario" ; Times: 10
+	Query: "skin type:specimen specificepithet:icterocephala genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 576215" ; Times: 2
+	Query: "type:specimen specificepithet:analis genus:Catamenia sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cyanoptera genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; (Maria)" ; Times: 1
+	Query: "skin type:specimen specificepithet:coronatus genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:speciosum genus:Conirostrum sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 117643" ; Times: 2
+	Query: "USNM 117642" ; Times: 2
+	Query: "USNM 117641" ; Times: 2
+	Query: "USNM 117640" ; Times: 2
+	Query: "USNM 564810" ; Times: 2
+	Query: "USNM 564811" ; Times: 2
+	Query: "USNM 564812" ; Times: 2
+	Query: "USNM 564813" ; Times: 1
+	Query: "USNM 564814" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "USNM 564818" ; Times: 2
+	Query: "USNM 564819" ; Times: 2
+	Query: "Starnoenas" ; Times: 1
+	Query: "USNM 224889" ; Times: 1
+	Query: "USNM 136809" ; Times: 1
+	Query: "skin type:specimen specificepithet:xanthocephala genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "type:specimen specificepithet:melanodera genus:Melanodera sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 140079 Streator" ; Times: 1
+	Query: "skin type:specimen specificepithet:uropygialis genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 224884" ; Times: 1
+	Query: "myrmeciza palliata type:specimen sex:female" ; Times: 2
+	Query: "Dolichonyx oryzivorus ONTARIO 1" ; Times: 2
+	Query: "skin type:specimen specificepithet:nigrocincta genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:viguieri genus:Dacnis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "MYIOBIUS ATRICAUDUS" ; Times: 8
+	Query: "Howell AND 1910" ; Times: 1
+	Query: "skin type:specimen specificepithet:luctuosus genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:herbicola genus:Emberizoides sex:male institutioncode:USNM" ; Times: 1
+	Query: "falco puebla" ; Times: 2
+	Query: "skin type:specimen specificepithet:baritula genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta" ; Times: 2
+	Query: "psittacula eupatria india" ; Times: 1
+	Query: "USNM 198038" ; Times: 2
+	Query: "USNM 395696" ; Times: 1
+	Query: "genus:perdix country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "USNM 179463" ; Times: 1
+	Query: "skin type:specimen specificepithet:olivacea genus:Tiaris sex:male institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-108.427516))&lt;15000" ; Times: 2
+	Query: "USNM 198037" ; Times: 2
+	Query: "USNM 198036" ; Times: 2
+	Query: "type:specimen specificepithet:arthus genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 538549" ; Times: 2
+	Query: "buteo jamaicensis puebla" ; Times: 1
+	Query: "Howell AND 1 May 1908" ; Times: 1
+	Query: "Jackson 1917 Africa" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 3
+	Query: "zoothera wardii" ; Times: 9
+	Query: "genus:botaurus country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:duidae genus:Diglossa sex:male" ; Times: 1
+	Query: "fregata aquila" ; Times: 1
+	Query: "type:specimen specificepithet:baeri genus:Poospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:margaritae genus:Conirostrum sex:male institutioncode:USNM" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "ornithion inerme" ; Times: 3
+	Query: "87674" ; Times: 1
+	Query: "anhinga rufa madagascar" ; Times: 1
+	Query: "skin type:specimen specificepithet:unicolor genus:Phrygilus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:minuta genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 313258" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "type:specimen specificepithet:inornata genus:Catamenia sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:caerulescens genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cyanotis genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "Capito hypoleucus" ; Times: 6
+	Query: "USNM 140080 Streator" ; Times: 1
+	Query: "skin type:specimen specificepithet:xanthopygius genus:Heterospingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:melanopis genus:Schistochlamys sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cayana genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Howard AND Santa Catalina Island NOT Holmgren" ; Times: 1
+	Query: "Graham pectoralis" ; Times: 1
+	Query: "rallus caerulescens" ; Times: 1
+	Query: "skin type:specimen specificepithet:citrina genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:riefferii genus:Chlorornis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:larvata genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "Leptopogon taczanowskii" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "skin type:specimen specificepithet:taeniata genus:Dubusia sex:male institutioncode:USNM" ; Times: 1
+	Query: "Law AND Melospiza AND Santa BArbara Island" ; Times: 1
+	Query: "Podiceps grisegena Ontario" ; Times: 10
+	Query: "Pharomachrus pavoninus Brazil" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "Iridosornis reinhardti" ; Times: 1
+	Query: "skin type:specimen specificepithet:atropileus genus:Hemispingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "B28445" ; Times: 1
+	Query: "parus nuchalis" ; Times: 1
+	Query: "115117 institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:nitidus genus:Cyanerpes sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 38150" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 3
+	Query: "skin type:specimen specificepithet:cyanocephala genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "rallus caerulescens skin" ; Times: 1
+	Query: "USNM 566294" ; Times: 1
+	Query: "USNM 566295" ; Times: 1
+	Query: "USNM 566292" ; Times: 1
+	Query: "USNM 566293" ; Times: 1
+	Query: "Tyto alba ONTARIO 1" ; Times: 2
+	Query: "Agelaius phoeniceus Florida orange County" ; Times: 1
+	Query: "skin type:specimen specificepithet:melanotis genus:Hemispingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "cinereiventris" ; Times: 1
+	Query: "USNM 375500" ; Times: 1
+	Query: "euscarthmus meloryphus" ; Times: 5
+	Query: "Amazona viridigenalis" ; Times: 2
+	Query: "skin type:specimen specificepithet:flammigerus genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "myrmotherula surinamensis type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:fringilloides genus:Dolospingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Vanellus cinereus" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-108.597516))&lt;15000" ; Times: 4
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "skin type:specimen specificepithet:melanonota genus:Pipraeidea sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:ornata genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:fasciata genus:Neothraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "eulipoa" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica (juvenile)" ; Times: 1
+	Query: "pycnonotus leucogenys india" ; Times: 2
+	Query: "skin type:specimen specificepithet:columbiana genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "Wright AND Santa Catalina Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:bicolor genus:Conirostrum sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:difficilis genus:Geospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:parina genus:Xenodacnis sex:male institutioncode:USNM" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 3
+	Query: "skin type:specimen specificepithet:angolensis genus:Oryzoborus sex:male institutioncode:USNM" ; Times: 1
+	Query: "Zimmerius viridiflavus" ; Times: 1
+	Query: "175440" ; Times: 1
+	Query: "skin type:specimen specificepithet:bicolor genus:Tiaris sex:male institutioncode:USNM" ; Times: 1
+	Query: "	Caprimulgus hirundinaceus	 1" ; Times: 1
+	Query: "San Nicolas Island AND birds AND 1931" ; Times: 1
+	Query: "San Miguel Island AND 1900" ; Times: 1
+	Query: "USNM 232401" ; Times: 2
+	Query: "Incaspiza watkinsi" ; Times: 1
+	Query: "USNM 232403" ; Times: 1
+	Query: "USNM 232404" ; Times: 1
+	Query: "USNM 145277" ; Times: 1
+	Query: "skin type:specimen specificepithet:flaviventer genus:Dacnis sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:nitidissima genus:Chlorochrysa sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Crax rubra" ; Times: 11
+	Query: "skin type:specimen specificepithet:gyrola genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen genus:Psittacus (timneh)" ; Times: 2
+	Query: "sturnus contra india" ; Times: 1
+	Query: "USNM 565513" ; Times: 1
+	Query: "Dickenson county virginia" ; Times: 1
+	Query: "USNM 565517" ; Times: 1
+	Query: "USNM 565514" ; Times: 1
+	Query: "161142" ; Times: 1
+	Query: "USNM 565518" ; Times: 1
+	Query: "skin type:specimen specificepithet:guira genus:Hemithraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:orenocensis genus:Saltator sex:Male institutioncode:USNM" ; Times: 1
+	Query: "pelecanus rufescens (africa skeleton)" ; Times: 1
+	Query: "skin type:specimen specificepithet:verticalis genus:Creurgops sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:delatrii genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "usnm 135376" ; Times: 1
+	Query: "San Nicolas Island AND 1889" ; Times: 2
+	Query: "skin type:specimen specificepithet:speculiferus genus:Nesospingus sex:male" ; Times: 1
+	Query: "type:specimen specificepithet:rufum genus:Conirostrum sex:Male institutioncode:USNM" ; Times: 1
+	Query: "terpsiphone bourbonnensis" ; Times: 1
+	Query: "sarkidiornis" ; Times: 1
+	Query: "STREATOR AND Santa Rosa Island" ; Times: 2
+	Query: "skin type:specimen specificepithet:spiza genus:Chlorophanes sex:male" ; Times: 1
+	Query: "skin type:specimen specificepithet:preciosa genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:cyanoptera genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 362156" ; Times: 1
+	Query: "USNM 565516" ; Times: 1
+	Query: "phylloscopus reguloides india" ; Times: 2
+	Query: "USNM 30292" ; Times: 1
+	Query: "USNM 30291" ; Times: 1
+	Query: "Myrmotherula axillaris country:&#34;Panama&#34; institutioncode:USNM" ; Times: 2
+	Query: "Melampitta" ; Times: 1
+	Query: "skin type:specimen specificepithet:vassorii genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:nigroviridis genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 6
+	Query: "USNM 164414" ; Times: 2
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "skin type:specimen specificepithet:luctuosa genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "Caprimulgus eximius" ; Times: 1
+	Query: "588683" ; Times: 1
+	Query: "588682" ; Times: 1
+	Query: "Pterodroma hasitata institutioncode:USNM" ; Times: 1
+	Query: "Athene AND Clemente Island" ; Times: 1
+	Query: "423162" ; Times: 1
+	Query: "USNM 121466" ; Times: 1
+	Query: "USNM Birds 101942" ; Times: 1
+	Query: "STREATOR AND Santa Catalina Island" ; Times: 1
+	Query: "Cranioleuca baroni" ; Times: 1
+	Query: "536177.10965293" ; Times: 1
+	Query: "Trogon surrucura" ; Times: 1
+	Query: "Haliaeetus leucocephalus ONTARIO 1" ; Times: 2
+	Query: "type:specimen specificepithet:analis genus:Catamenia sex:Male institutioncode:USNM" ; Times: 1
+	Query: "429066" ; Times: 1
+	Query: "type:specimen specificepithet:ypiranganus genus:Emberizoides sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:flavinuchus genus:Anisognathus sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:trifasciatus genus:Hemispingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:rufigenis genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "locality:Antiga Estancia stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.557516))&lt;15000" ; Times: 1
+	Query: "USNM 236670" ; Times: 1
+	Query: "USNM 236671" ; Times: 1
+	Query: "skin type:specimen specificepithet:chloricterus genus:Orthogonys sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:caeruleus genus:Cyanerpes sex:male institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34; recordedby:chapman" ; Times: 1
+	Query: "skin type:specimen specificepithet:aurantiirostris genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "Accipiter striatus venator" ; Times: 1
+	Query: "skin type:specimen specificepithet:phoenicius genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "429070" ; Times: 2
+	Query: "Pica pica Ontario" ; Times: 10
+	Query: "USNM 286926" ; Times: 1
+	Query: "USNM 331345" ; Times: 2
+	Query: "USNM 331346" ; Times: 1
+	Query: "type:specimen specificepithet:oleagineus genus:Mitrospingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Larus argentatus (British Columbia)" ; Times: 2
+	Query: "oriolus mentawi" ; Times: 3
+	Query: "Birds 103433" ; Times: 2
+	Query: "falco sparverius puebla" ; Times: 2
+	Query: "type:specimen specificepithet:fulviceps genus:Thlypopsis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:brunneiventris genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;virginia&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "inezia tenuirostris type:specimen" ; Times: 1
+	Query: "skin type:specimen specificepithet:surinamus genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:luteocephala genus:Sicalis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus Ontario" ; Times: 10
+	Query: "STREATOR AND San Miguel Island 139946" ; Times: 1
+	Query: "STREATOR AND San Miguel Island 139947" ; Times: 1
+	Query: "STREATOR AND San Miguel Island 139944" ; Times: 1
+	Query: "STREATOR AND San Miguel Island 139945" ; Times: 1
+	Query: "nectarinia minima" ; Times: 1
+	Query: "USNM 63925" ; Times: 2
+	Query: "Dendroica cerulea Ontario" ; Times: 10
+	Query: "San Nicolas Island AND birds AND 1897" ; Times: 1
+	Query: "Corvus AND San Clemente Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:sanguinolentus genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "176835 usnm" ; Times: 1
+	Query: "232425 institutioncode:USNM" ; Times: 1
+	Query: "USNM 163506" ; Times: 2
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "type:specimen specificepithet:cinnamomea genus:Sporophila sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 10
+	Query: "USNM 136710 Streator" ; Times: 1
+	Query: "skin type:specimen specificepithet:lateralis genus:Poospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:aurantius genus:Lanio sex:male institutioncode:USNM" ; Times: 1
+	Query: "pachyramphus polychopterus nigriventris" ; Times: 2
+	Query: "phoenicoparrus" ; Times: 1
+	Query: "myrmeciza longipes type:specimen sex:female" ; Times: 1
+	Query: "thapsinillas" ; Times: 3
+	Query: "skin type:specimen specificepithet:penicillata genus:Eucometis sex:male institutioncode:USNM" ; Times: 1
+	Query: "STREATOR AND Santa Catalina Island 139471" ; Times: 1
+	Query: "Athene cunicularia Canada 1" ; Times: 2
+	Query: "523868" ; Times: 1
+	Query: "523869" ; Times: 1
+	Query: "USNM 136707 Streator" ; Times: 1
+	Query: "USNM 117658" ; Times: 2
+	Query: "Colinus virginianus insignis type:specimen" ; Times: 1
+	Query: "scytalopus micropterus" ; Times: 8
+	Query: "skin type:specimen specificepithet:venusta genus:Dacnis sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 195853" ; Times: 2
+	Query: "USNM 117650" ; Times: 2
+	Query: "USNM 117651" ; Times: 2
+	Query: "USNM 117652" ; Times: 2
+	Query: "columba subvinacea" ; Times: 2
+	Query: "313258 usnm" ; Times: 1
+	Query: "skin type:specimen specificepithet:cyaneus genus:Cyanerpes sex:male institutioncode:USNM" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (roseus)" ; Times: 1
+	Query: "type:specimen specificepithet:psittacula genus:Camarhynchus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "genus:tringa country:&#34;china&#34; recordedby:rock" ; Times: 1
+	Query: "Hemispingus rufosuperciliaris" ; Times: 1
+	Query: "Thanh Hoa" ; Times: 1
+	Query: "skin type:specimen specificepithet:palmeri genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 579865" ; Times: 1
+	Query: "skin type:specimen specificepithet:guttata genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "phylloscartes lanyoni type:specimen" ; Times: 1
+	Query: "luscinioides" ; Times: 1
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "dendrexetastes rufigula paraensis" ; Times: 1
+	Query: "genus:scolopax country:&#34;china&#34; recordedby:graham catalognumber:325180.4183961 institutioncode:USNM" ; Times: 2
+	Query: "USNM 110305" ; Times: 2
+	Query: "Townsend AND San Clemente Island" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "USNM Birds 117657" ; Times: 1
+	Query: "skin type:specimen specificepithet:dimidiatus genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "glaucidium tephronotum" ; Times: 1
+	Query: "sula granti" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 1 month &lt;= 3" ; Times: 2
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "skin type:specimen specificepithet:obscura genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:rufivertex genus:Iridosornis sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:melanoleuca genus:Lamprospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:schrankii genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 198022" ; Times: 2
+	Query: "USNM 198023" ; Times: 2
+	Query: "USNM 164255" ; Times: 2
+	Query: "Streator AND Santa Rosa Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:hirundinacea genus:Cypsnagra sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:similis genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:frontalis genus:Hemispingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "oriolus lamprochryseus" ; Times: 2
+	Query: "skin type:specimen specificepithet:lineata genus:Dacnis sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 538550" ; Times: 2
+	Query: "USNM 538551" ; Times: 1
+	Query: "goudoti" ; Times: 2
+	Query: "USNM 224892" ; Times: 1
+	Query: "Athene AND San Clemente Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:atripennis genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 164413" ; Times: 2
+	Query: "Tyto alba Ontario 1" ; Times: 1
+	Query: "USNM 164415" ; Times: 2
+	Query: "Van Rossem AND Anacapa" ; Times: 2
+	Query: "Tyto alba Ontario" ; Times: 10
+	Query: "type:specimen specificepithet:salmoni genus:Chrysothlypis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "pitta brachyura" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 2
+	Query: "USNM 139398" ; Times: 2
+	Query: "USNM 18278" ; Times: 2
+	Query: "skin type:specimen specificepithet:schistacea genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "San Nicolas Island AND 1897" ; Times: 3
+	Query: "San Nicolas Island AND birds AND 1889" ; Times: 1
+	Query: "USNM 337534" ; Times: 2
+	Query: "genus:scolopax country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 2
+	Query: "skin type:specimen specificepithet:rosea genus:Rhodinocichla sex:male institutioncode:USNM" ; Times: 1
+	Query: "ARchangel" ; Times: 1
+	Query: "Riparia riparia Ontario 1" ; Times: 1
+	Query: "USNM 224891" ; Times: 1
+	Query: "USNM 224890" ; Times: 1
+	Query: "skin type:specimen specificepithet:albifrons genus:Donacospiza sex:male" ; Times: 1
+	Query: "USNM 224895" ; Times: 1
+	Query: "pachyramphus polychopterus tenebrosus" ; Times: 1
+	Query: "skin type:specimen specificepithet:albifrons genus:Donacospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cyanocephala genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "saltator melicus" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "Xenicus longipes" ; Times: 1
+	Query: "Bucephala clangula year &gt;= 1860 year &lt;= 1865" ; Times: 2
+	Query: "Townsend AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:homochroa genus:Catamenia sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "turdus obscurus india" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "skin type:specimen specificepithet:ornata genus:Thlypopsis sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:vitriolina genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "gallinula chloropus skeleton egypt" ; Times: 1
+	Query: "Oxyruncus cristatus frater" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:Sporophila sex:Male institutioncode:USNM" ; Times: 1
+	Query: "USNM 258214" ; Times: 1
+	Query: "Leptosittaca branickii" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 2
+	Query: "MacFarlane year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "graueria" ; Times: 1
+	Query: "skin type:specimen specificepithet:sitticolor genus:Conirostrum sex:male institutioncode:USNM" ; Times: 1
+	Query: "Phylloscopus cebuensis" ; Times: 2
+	Query: "skin type:specimen specificepithet:luteocephala genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "eubucco bourcierii country:&#34;Colombia&#34; year &gt;= 1950 year &lt;= 1969" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Camarhynchus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "chrysoptera minnesota" ; Times: 4
+	Query: "skin type:specimen specificepithet:diuca genus:Diuca sex:male institutioncode:USNM" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 13
+	Query: "ornithion" ; Times: 2
+	Query: "Xenornis setifrons" ; Times: 4
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 2
+	Query: "type:specimen specificepithet:falcirostris genus:Sporophila sex:Male institutioncode:USNM" ; Times: 1
+	Query: "STREATOR AND Santa Catalina Island 136963" ; Times: 1
+	Query: "Law AND MElospiza" ; Times: 1
+	Query: "skin type:specimen specificepithet:chloricterus genus:Orthogonys sex:male" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 5
+	Query: "USNM 563484" ; Times: 1
+	Query: "Sheldon AND Santa ROsa Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:chilensis genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:leveriana genus:Cissopis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:calliparaea genus:Chlorochrysa sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "Cinclodes taczanowskii" ; Times: 1
+	Query: "skin type:specimen specificepithet:melanops genus:Trichothraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 1
+	Query: "O. Howard AND Santa Catalina" ; Times: 1
+	Query: "type:specimen specificepithet:pulcherrima genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Contopus borealis Ontario" ; Times: 10
+	Query: "Coeligena bonapartei consita" ; Times: 2
+	Query: "skin type:specimen genus:Calyptophilus sex:male" ; Times: 1
+	Query: "STREATOR AND Santa Cruz Island" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 23
+	Query: "type:specimen specificepithet:stolzmanni genus:Urothraupis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:scandens genus:Geospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Nephelornis oneilli" ; Times: 1
+	Query: "USNM 19850" ; Times: 2
+	Query: "starnoenas" ; Times: 1
+	Query: "type:specimen specificepithet:richardsoni genus:Melanospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "halcyon ruficollaris" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 5
+	Query: "type:specimen specificepithet:conirostris genus:Geospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "haliaeetus (africa skeleton)" ; Times: 1
+	Query: "STREATOR AND San Miguel Island 139399" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "skin type:specimen specificepithet:sordida genus:Thlypopsis sex:male institutioncode:USNM" ; Times: 1
+	Query: "phalacrocorax africanus (kenya skeleton)" ; Times: 1
+	Query: "skin type:specimen specificepithet:olivascens genus:Sicalis sex:male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "San Miguel Island AND 1892" ; Times: 1
+	Query: "USNM 258188" ; Times: 2
+	Query: "skin type:specimen specificepithet:glauca genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "Pomatorhinus ochraceiceps" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus genus:Camarhynchus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:dowii genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "gallinula chloropus skeleton tanzania" ; Times: 1
+	Query: "skin type:specimen specificepithet:varia genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-108.257516))&lt;15000" ; Times: 1
+	Query: "skin type:specimen specificepithet:coronata genus:Paroaria sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:anoxanthus genus:Loxipasser sex:male institutioncode:USNM" ; Times: 1
+	Query: "175440 USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:inornata genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "Puffinus country:&#34;Russia&#34;" ; Times: 1
+	Query: "USNM 573576" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "skin type:specimen specificepithet:magnirostris genus:Geospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "Luscinia pectoralis confusa" ; Times: 1
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "179836" ; Times: 1
+	Query: "phalacrocorax africanus (africa skeleton)" ; Times: 1
+	Query: "USNM 136711 Streator" ; Times: 1
+	Query: "Luscinia pectoralis" ; Times: 13
+	Query: "USNM 136713 Streator" ; Times: 1
+	Query: "family:Picidae county:&#34;China&#34;" ; Times: 1
+	Query: "skin type:specimen specificepithet:telasco genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "Anisognathus melanogenys type:specimen sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:gularis genus:Paroaria sex:male institutioncode:USNM" ; Times: 1
+	Query: "Law AND Santa Barbara Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:rufiventer genus:Tachyphonus sex:male institutioncode:USNM" ; Times: 1
+	Query: "turdus unicolor india" ; Times: 1
+	Query: "USNM 167223" ; Times: 2
+	Query: "type:specimen specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "skin type:specimen specificepithet:carbo genus:Ramphocelus sex:male institutioncode:USNM" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 2
+	Query: "type:specimen specificepithet:phoenicotis genus:Chlorochrysa sex:Male institutioncode:USNM" ; Times: 1
+	Query: "myiobius atricaudus" ; Times: 4
+	Query: "thamnophilus nigrocinereus type:specimen" ; Times: 1
+	Query: "Oxyruncus cristatus brooksi" ; Times: 1
+	Query: "Bulweria bulwerii institutioncode:USNM" ; Times: 1
+	Query: "ramphocinclus" ; Times: 2
+	Query: "skin type:specimen specificepithet:carbonaria genus:Diglossa sex:male institutioncode:USNM" ; Times: 1
+	Query: "165880" ; Times: 1
+	Query: "type:specimen specificepithet:goeringi genus:Hemispingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:leucoptera genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:lavinia genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "MacFarlane year &gt;= 1860 year &lt;= 1865" ; Times: 1
+	Query: "type:specimen specificepithet:igniventris genus:Anisognathus sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Ramphocelus melanogaster" ; Times: 1
+	Query: "genus:botaurus country:&#34;china&#34; recordedby:graham catalognumber:332564.4068439 institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:torqueola genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:crassirostris genus:Oryzoborus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Tyrannus verticalis Ontario" ; Times: 10
+	Query: "USNM 258148" ; Times: 1
+	Query: "skin type:specimen specificepithet:fortis genus:Geospiza sex:male institutioncode:USNM" ; Times: 1
+	Query: "103433" ; Times: 2
+	Query: "skin type:specimen specificepithet:florida genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:palmarum genus:Thraupis sex:male institutioncode:USNM" ; Times: 1
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "aegotheles albertisi" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "specificepithet:bakkamoena genus:otus country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "Saltator cinctus" ; Times: 1
+	Query: "Howell AND 1913-3-30" ; Times: 1
+	Query: "skin type:specimen specificepithet:alaudinus genus:Phrygilus sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cyanicollis genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "podargus ocellatus" ; Times: 3
+	Query: "Poospiza nigrorufa" ; Times: 4
+	Query: "phalacrocorax carbo (africa skeleton)" ; Times: 1
+	Query: "aimophila ruficeps kerr texas" ; Times: 1
+	Query: "type:specimen specificepithet:reyi genus:Hemispingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:viridicollis genus:Tangara sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 101041" ; Times: 2
+	Query: "Riparia riparia ONTARIO 1" ; Times: 2
+	Query: "Poospiza caesar" ; Times: 1
+	Query: "type:specimen specificepithet:loricata genus:Compsothraupis sex:male (skin) institutioncode:USNM" ; Times: 1
+	Query: "eubucco bourcierii country:&#34;Colombia&#34; year &gt;= 1900 year &lt;= 1969" ; Times: 1
+	Query: "Tinamus major" ; Times: 2
+	Query: "USNM 15943" ; Times: 2
+	Query: "Collector unknown Luscinia pectoralis" ; Times: 1
+	Query: "skin type:specimen specificepithet:orenocensis genus:Saltator sex:male institutioncode:USNM" ; Times: 1
+	Query: "Tijeras Moscopan" ; Times: 1
+	Query: "B41992" ; Times: 1
+	Query: "polychopterus dorsalis" ; Times: 1
+	Query: "type:specimen specificepithet:duidae genus:Emberizoides sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:noctis genus:Loxigilla sex:male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:cinereum genus:Conirostrum sex:male institutioncode:USNM" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 3
+	Query: "skin type:specimen specificepithet:pileatus genus:Coryphospingus sex:male institutioncode:USNM" ; Times: 1
+	Query: "USNM 117661" ; Times: 2
+	Query: "myrmotherula behni type:specimen" ; Times: 1
+	Query: "pelecanus onocrotalus (africa skeleton)" ; Times: 1
+	Query: "type:specimen specificepithet:johannae genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "skin type:specimen specificepithet:americana genus:Sporophila sex:male institutioncode:USNM" ; Times: 1
+	Query: "Howard AND Santa Catalina Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 127 (out of 1312 download events in this period)
+Total number of records downloaded: 10135
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 95
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 11
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-11 ; Times: 11
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-27 ; Times: 14
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 46
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:edwardsi genus:Buthraupis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:analis genus:Catamenia sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:major genus:Diglossa sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:salmoni genus:Chrysothlypis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "type:specimen specificepithet:caesar genus:Poospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "genus:scolopax country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta mappable:1" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 2
+	Query: "terpsiphone corvina" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "type:specimen specificepithet:carbonarius genus:Phrygilus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "type:specimen specificepithet:leucothorax genus:Lanio sex:Male institutioncode:USNM" ; Times: 1
+	Query: "strigiceps" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "locality:San Antonio stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34; recordedby:Palmer" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fringilloides genus:Dolospingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:fastuosa genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:Sporophila sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:ornata genus:Poospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;seneca&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:pallidus genus:Camarhynchus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Poospiza nigrorufa" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 1
+	Query: "type:specimen specificepithet:falcirostris genus:Sporophila sex:Male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:ixobrychus recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "type:specimen specificepithet:nitidissima genus:Chlorochrysa sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "type:specimen specificepithet:xanthogramma genus:Melanodera sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:orenocensis genus:Saltator sex:Male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:rufum genus:Conirostrum sex:Male institutioncode:USNM" ; Times: 1
+	Query: "terpsiphone bourbonnensis" ; Times: 1
+	Query: "genus:botaurus country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "type:specimen specificepithet:cyanoptera genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "type:specimen specificepithet:richardsoni genus:Melanospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "type:specimen specificepithet:conirostris genus:Geospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus genus:Camarhynchus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:pulcherrima genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "genus:perdix country:&#34;china&#34; recordedby:graham catalognumber:325173.4066977 institutioncode:USNM" ; Times: 1
+	Query: "Melierax gabar" ; Times: 1
+	Query: "type:specimen specificepithet:ypiranganus genus:Emberizoides sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:rufigenis genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:rufigula genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "class:Aves locality:San Antonio country:&#34;Colombia&#34; recordedby:Palmer" ; Times: 1
+	Query: "type:specimen specificepithet:oleagineus genus:Mitrospingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "falco sparverius puebla" ; Times: 2
+	Query: "type:specimen specificepithet:fulviceps genus:Thlypopsis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "class:Aves locality:San Antonio country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "type:specimen specificepithet:phoenicotis genus:Chlorochrysa sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:luteocephala genus:Sicalis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:duidae genus:Emberizoides sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:goeringi genus:Hemispingus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Melampitta" ; Times: 1
+	Query: "type:specimen specificepithet:stolzmanni genus:Urothraupis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen specificepithet:cinnamomea genus:Sporophila sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:scandens genus:Geospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:melanodera genus:Melanodera sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:viguieri genus:Dacnis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:bakkamoena genus:otus country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:psittacula genus:Camarhynchus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "genus:tringa country:&#34;china&#34; recordedby:rock" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "eubucco bourcierii country:&#34;Colombia&#34; year &gt;= 1900 year &lt;= 1969" ; Times: 1
+	Query: "Doricha eliza" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "type:specimen specificepithet:leucogenys genus:Conirostrum sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:campestris genus:Euneornis sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:baeri genus:Poospiza sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:crassirostris genus:Oryzoborus sex:Male institutioncode:USNM" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "type:specimen specificepithet:johannae genus:Tangara sex:Male institutioncode:USNM" ; Times: 1
+	Query: "type:specimen specificepithet:reyi genus:Hemispingus sex:Male institutioncode:USNM" ; Times: 1
+
+
+End of report.
