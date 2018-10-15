@@ -1,0 +1,1649 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2031
+Number of records retrieved in searches: 11918
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: Brazil ; Times: 57
+	Country: Italy ; Times: 8
+	Country: Unknown ; Times: 109
+	Country: France ; Times: 103
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 29
+	Country: Bolivia ; Times: 3
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Finland ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 960
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Portugal ; Times: 517
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 27
+	Country: Colombia ; Times: 41
+	Country: Japan ; Times: 74
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 149
+	Date: 2018-02-08 ; Times: 60
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 49
+	Date: 2018-02-01 ; Times: 46
+	Date: 2018-02-07 ; Times: 48
+	Date: 2018-02-06 ; Times: 89
+	Date: 2018-02-05 ; Times: 153
+	Date: 2018-02-04 ; Times: 26
+	Date: 2018-02-21 ; Times: 36
+	Date: 2018-02-20 ; Times: 280
+	Date: 2018-02-23 ; Times: 47
+	Date: 2018-02-22 ; Times: 36
+	Date: 2018-02-25 ; Times: 38
+	Date: 2018-02-24 ; Times: 11
+	Date: 2018-02-27 ; Times: 308
+	Date: 2018-02-26 ; Times: 34
+	Date: 2018-02-28 ; Times: 17
+	Date: 2018-02-14 ; Times: 20
+	Date: 2018-02-15 ; Times: 43
+	Date: 2018-02-16 ; Times: 61
+	Date: 2018-02-17 ; Times: 34
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-11 ; Times: 16
+	Date: 2018-02-12 ; Times: 265
+	Date: 2018-02-13 ; Times: 111
+	Date: 2018-02-18 ; Times: 20
+	Date: 2018-02-19 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:521834 institutioncode:USNM" ; Times: 1
+	Query: "Larus fuscus" ; Times: 2
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "Aratinga aurea mappable:1" ; Times: 3
+	Query: "catalognumber:228165 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521809 institutioncode:USNM" ; Times: 1
+	Query: "empidonax vigensis" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta" ; Times: 1
+	Query: "USNM 205572" ; Times: 4
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:202477 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:fucata genus:alopochelidon country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Ara macao Mexico" ; Times: 1
+	Query: "196013" ; Times: 1
+	Query: "catalognumber:17628 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:169899 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:597334" ; Times: 1
+	Query: "catalognumber:57057 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:166812 institutioncode:USNM" ; Times: 1
+	Query: "Picoides villosus alberta" ; Times: 1
+	Query: "catalognumber:B3795 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:147187 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:168787 institutioncode:USNM" ; Times: 1
+	Query: "Timaliidae Cameroon" ; Times: 2
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:320190 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521817 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:pyrrhophrys genus:Chlorophonia hastissue:0" ; Times: 1
+	Query: "specificepithet:tristrami class:aves (makira) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "Padda oryzivora mappable:1" ; Times: 3
+	Query: "specificepithet:maccormicki class:aves" ; Times: 3
+	Query: "Pyrrhura rhodogaster" ; Times: 1
+	Query: "Ara macao" ; Times: 5
+	Query: "catalognumber:521855 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:seiurus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "catalognumber:596655 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves recordedby:*Cory*" ; Times: 3
+	Query: "catalognumber:521810 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521838 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:521816 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521811 institutioncode:USNM" ; Times: 1
+	Query: "Inglis Cachar" ; Times: 1
+	Query: "catalognumber:142274 institutioncode:USNM" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "catalognumber:17627 institutioncode:USNM" ; Times: 1
+	Query: "biatas nigropectus" ; Times: 1
+	Query: "class:aves locality:moller stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:230060 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:38566 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:332898 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:608554 institutioncode:USNM" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "dicrurus hottentottus brevirostris thailand" ; Times: 1
+	Query: "Piranga leucoptera mappable:1" ; Times: 4
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:180729 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus county:&#34;Okanogan&#34; recordedby:cantwell year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:80438 institutioncode:USNM" ; Times: 1
+	Query: "Halcyon chloris mappable:1" ; Times: 5
+	Query: "catalognumber:562842 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:228007 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:215479 institutioncode:USNM" ; Times: 1
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:cajanea genus:Aramides continent:North America" ; Times: 1
+	Query: "Accipitridae+Cameroon" ; Times: 2
+	Query: "catalognumber:596639 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:56050 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:287115 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:181089 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:213137 institutioncode:USNM" ; Times: 1
+	Query: "604671" ; Times: 1
+	Query: "Oceanodroma leucorhoa cheimomnestes" ; Times: 1
+	Query: "catalognumber:B43530 institutioncode:USNM" ; Times: 1
+	Query: "Amazona oratrix mappable:1" ; Times: 3
+	Query: "(B39187) institutioncode:USNM" ; Times: 1
+	Query: "class:aves recordedby:*cory year &gt;= 1850 year &lt;= 1950" ; Times: 2
+	Query: "catalognumber:238735 institutioncode:USNM" ; Times: 2
+	Query: "Serinus atrogularis mappable:1" ; Times: 3
+	Query: "class:Aves locality:Sabinas stateprovince:&#34;Coahuila&#34; (Nelson) institutioncode:USNM" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:USNM" ; Times: 5
+	Query: "catalognumber:31036 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:205977 institutioncode:USNM" ; Times: 1
+	Query: "224721" ; Times: 2
+	Query: "catalognumber:A9034 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521818 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:12542 institutioncode:USNM" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "Aythya baeri basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "pyrrhura rhodogaster vntype:specimen" ; Times: 1
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "catalognumber:210244 institutioncode:USNM" ; Times: 1
+	Query: "pharomachrus mocinno Guatemala" ; Times: 1
+	Query: "Pionites melanocephala mappable:1" ; Times: 3
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "Alcedinidae+Cameroon" ; Times: 3
+	Query: "catalognumber:176738 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:205888 institutioncode:USNM" ; Times: 1
+	Query: "melospiza adusta" ; Times: 2
+	Query: "catalognumber:521827 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:242501 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Brotogeris chiriri mappable:1" ; Times: 3
+	Query: "catalognumber:A9065 institutioncode:USNM" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 4
+	Query: "Aratinga leucophthalmus mappable:1" ; Times: 3
+	Query: "Sphyrapicus ruber placer county" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 2
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 4
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 2
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus locality:Guadalupe stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "guiraca caerulea chiapas" ; Times: 1
+	Query: "Dicruridae+Cameroon" ; Times: 2
+	Query: "catalognumber:19697 institutioncode:USNM" ; Times: 1
+	Query: "USNM 374742" ; Times: 4
+	Query: "catalognumber:30084 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:562846 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:205954 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A9038 institutioncode:USNM" ; Times: 1
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "Batis mixta" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34; preparations:egg" ; Times: 1
+	Query: "Chondrohierax wilsonii" ; Times: 8
+	Query: "catalognumber:57687 institutioncode:USNM" ; Times: 1
+	Query: "Sturnella loyca mappable:1" ; Times: 4
+	Query: "Prionops scopifrons" ; Times: 2
+	Query: "myiagra townsendi" ; Times: 1
+	Query: "nasica" ; Times: 1
+	Query: "specificepithet:fuscans genus:Lonchura" ; Times: 1
+	Query: "catalognumber:521804 institutioncode:USNM" ; Times: 1
+	Query: "progne elegans" ; Times: 1
+	Query: "catalognumber:177487 institutioncode:USNM" ; Times: 1
+	Query: "aegithalos niveogularis" ; Times: 9
+	Query: "catalognumber:160282 institutioncode:USNM" ; Times: 1
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "Tephrodornis affinis" ; Times: 1
+	Query: "catalognumber:B18289 institutioncode:USNM" ; Times: 1
+	Query: "Corvus hawaiiensis (skin)" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "catalognumber:243156" ; Times: 2
+	Query: "catalognumber:499090 institutioncode:USNM" ; Times: 1
+	Query: "turnagra" ; Times: 1
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 1
+	Query: "catalognumber:56049 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A5771 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:263315 institutioncode:USNM" ; Times: 1
+	Query: "Columbina cruziana mappable:1" ; Times: 4
+	Query: "catalognumber:169754 institutioncode:USNM" ; Times: 1
+	Query: "thamnistes saturatus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Myioborus" ; Times: 1
+	Query: "catalognumber:596650 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596631 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "catalognumber:455024 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596653 institutioncode:USNM" ; Times: 1
+	Query: "hirundo rustica transitiva" ; Times: 1
+	Query: "Pycnonotus leucogenys mappable:1" ; Times: 3
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "catalognumber:30083 institutioncode:USNM" ; Times: 1
+	Query: "recordedby:audubon year &gt;= 1785 year &lt;= 1851" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "specificepithet:hirsutum genus:Tricholaema country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "catalognumber:17620 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521850 institutioncode:USNM" ; Times: 1
+	Query: "Zosteropidae Cameroon" ; Times: 2
+	Query: "hemithraupis huambina" ; Times: 1
+	Query: "catalognumber:B37105 institutioncode:USNM" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "(4026) institutioncode:USNM" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "catalognumber:521863 institutioncode:USNM" ; Times: 1
+	Query: "albitarsus" ; Times: 1
+	Query: "catalognumber:521853 institutioncode:USNM" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "catalognumber:B17386 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:224835" ; Times: 1
+	Query: "catalognumber:65910 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:congensis genus:afropavo" ; Times: 1
+	Query: "catalognumber:465920 institutioncode:USNM" ; Times: 2
+	Query: "myrmotherula sordida" ; Times: 1
+	Query: "catalognumber:596654 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:223165 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:135035 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:191441 institutioncode:USNM" ; Times: 1
+	Query: "Fregetta grallaria titan" ; Times: 1
+	Query: "catalognumber:38276 institutioncode:USNM" ; Times: 1
+	Query: "Pogoniulus chrysoconus xanthostictus" ; Times: 1
+	Query: "Anodorhynchus glaucus" ; Times: 1
+	Query: "catalognumber:181096 institutioncode:USNM" ; Times: 1
+	Query: "Streptopelia roseogrisea mappable:1" ; Times: 4
+	Query: "Ploceus galbula mappable:1" ; Times: 4
+	Query: "locality:Sabinas stateprovince:&#34;Coahuila&#34; (Nelson) institutioncode:USNM" ; Times: 1
+	Query: "Upupidae+Cameroon" ; Times: 1
+	Query: "catalognumber:230630 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:238143 institutioncode:USNM" ; Times: 1
+	Query: "Dendrocygna javanica basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Turdus rufitorques" ; Times: 1
+	Query: "copsychus nigricauda" ; Times: 3
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Oxyura maccoa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "usnm trochilidae" ; Times: 1
+	Query: "Lophotis ruficrista" ; Times: 3
+	Query: "catalognumber:A8809 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:55256 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17632 institutioncode:USNM" ; Times: 1
+	Query: "spelaeornis troglodytoides" ; Times: 4
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus locality:San Benito stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:flavivertex genus:Myioborus" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "specificepithet:maccormicki class:Aves institutioncode:USNM" ; Times: 4
+	Query: "catalognumber:169300 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:88249 institutioncode:USNM" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "catalognumber:521802 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:229722 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561360 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:230370 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:55475 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521852 institutioncode:USNM" ; Times: 1
+	Query: "genus:buteo catalognumber:141137 institutioncode:USNM" ; Times: 1
+	Query: "Emberiza caesia mappable:1" ; Times: 4
+	Query: "123022" ; Times: 1
+	Query: "catalognumber:32690 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:613574 institutioncode:USNM" ; Times: 1
+	Query: "zosterops hypolais" ; Times: 1
+	Query: "catalognumber:561375 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:108765 institutioncode:USNM" ; Times: 1
+	Query: "Corvidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male hastypestatus:1" ; Times: 1
+	Query: "catalognumber:521826 institutioncode:USNM" ; Times: 1
+	Query: "Buteo polyosoma mappable:1" ; Times: 3
+	Query: "catalognumber:561362 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:178944 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:265075 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:562843 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:171440 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:dahli genus:rhipidura class:aves year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "catalognumber:205955 institutioncode:USNM" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 2
+	Query: "lophozosterops superciliaris" ; Times: 2
+	Query: "catalognumber:309248 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17618 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B37219 institutioncode:USNM" ; Times: 1
+	Query: "class:aves (p. w. woodward)" ; Times: 3
+	Query: "ramphastos brevis" ; Times: 6
+	Query: "catalognumber:229818 institutioncode:USNM" ; Times: 1
+	Query: "carduelis carduelis brevirostris" ; Times: 2
+	Query: "Platysteira chalybea" ; Times: 1
+	Query: "catalognumber:198852 institutioncode:USNM" ; Times: 2
+	Query: "Rallidae+Cameroon" ; Times: 2
+	Query: "catalognumber:220402 institutioncode:USNM" ; Times: 2
+	Query: "ptyonoprogne concolor" ; Times: 2
+	Query: "haplospiza arcana" ; Times: 1
+	Query: "pomatorhinus melanurus" ; Times: 1
+	Query: "catalognumber:294178 institutioncode:USNM" ; Times: 2
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:230369 institutioncode:USNM" ; Times: 1
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Lonchura maja mappable:1" ; Times: 4
+	Query: "locality: trenton county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:andrei genus:Chaetura country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34;" ; Times: 2
+	Query: "pseudochelidon sirintarae" ; Times: 3
+	Query: "(Spizella wortheni) institutioncode:USNM" ; Times: 1
+	Query: "AMPELICEPS CORONATUS India" ; Times: 1
+	Query: "catalognumber:232029 institutioncode:USNM" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "catalognumber:521844 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B23998 institutioncode:USNM" ; Times: 1
+	Query: "genus:Icterus stateprovince:&#34;Coahuila&#34;" ; Times: 5
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "catalognumber:177460 institutioncode:USNM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rich" ; Times: 3
+	Query: "class:aves locality:glass* stateprovince:&#34;maryland&#34;" ; Times: 1
+	Query: "catalognumber:455021 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521830 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:sp. genus:pipilo" ; Times: 1
+	Query: "catalognumber:177499 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:230568 institutioncode:USNM" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "catalognumber:B23999 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596643 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cantillans genus:Sylvia preparations:skin institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:315116 collectioncode:birds" ; Times: 1
+	Query: "catalognumber:521846 institutioncode:USNM" ; Times: 1
+	Query: "Passer luteus mappable:1" ; Times: 4
+	Query: "catalognumber:38286 institutioncode:USNM" ; Times: 1
+	Query: "USNM 402923" ; Times: 1
+	Query: "catalognumber:56002 institutioncode:USNM" ; Times: 1
+	Query: "USNM 402921" ; Times: 1
+	Query: "phedina brazzae" ; Times: 1
+	Query: "catalognumber:9356 institutioncode:USNM" ; Times: 1
+	Query: "Aratinga holochlora mappable:1" ; Times: 3
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Sicalis luteocephala" ; Times: 1
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:192530 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:32894 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34;" ; Times: 2
+	Query: "genus:carduelis country:&#34;iran&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:521807 institutioncode:USNM" ; Times: 1
+	Query: "recordedby:Van Balen" ; Times: 1
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "catalognumber:A19139 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cyanocampter genus:cossypha country:&#34;liberia&#34;" ; Times: 1
+	Query: "catalognumber:170406 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:41782 institutioncode:USNM" ; Times: 1
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Sarkidiornis melanotos mappable:1" ; Times: 4
+	Query: "Polyborus plancus mappable:1" ; Times: 3
+	Query: "catalognumber:181095 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:166436 institutioncode:USNM" ; Times: 1
+	Query: "class:aves recordedby:meanley year &gt;= 1930 year &lt;= 1975" ; Times: 1
+	Query: "Oxyura leucocephala basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "riparia diluta" ; Times: 2
+	Query: "catalognumber:562844 institutioncode:USNM" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 3
+	Query: "Dolichonyx country:&#34;Brazil&#34;" ; Times: 5
+	Query: "catalognumber:38285 institutioncode:USNM" ; Times: 1
+	Query: "locality:Dobroyd" ; Times: 1
+	Query: "Sitta canadensis Mexico" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger country:&#34;liberia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "catalognumber:521856 institutioncode:USNM" ; Times: 1
+	Query: "USNM 197299" ; Times: 1
+	Query: "catalognumber:270515 institutioncode:USNM" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "catalognumber:521851 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Hymenolaimus malacorhynchos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tephrodornis sylvicola" ; Times: 1
+	Query: "anderson 1860" ; Times: 1
+	Query: "Grallaria varia" ; Times: 1
+	Query: "catalognumber:19136 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561390 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:537785 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:swainsoni genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "catalognumber:271749 institutioncode:USNM" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 2
+	Query: "peucedramus jaliscensis" ; Times: 1
+	Query: "catalognumber:208577 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus recordedby:cantwell year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:210144 institutioncode:USNM" ; Times: 1
+	Query: "pericrocotus yvettae" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; collectioncode:birds institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:180719 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:450073 institutioncode:USNM" ; Times: 2
+	Query: "Ara nobilis mappable:1" ; Times: 3
+	Query: "catalognumber:228966 institutioncode:USNM" ; Times: 1
+	Query: "Prionops poliolophus" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:phylloscopus" ; Times: 1
+	Query: "Quelea quelea mappable:1" ; Times: 4
+	Query: "catalognumber:178942 institutioncode:USNM" ; Times: 1
+	Query: "cyanocitta phillipsi" ; Times: 3
+	Query: "specificepithet:erythropleurus genus:Zosterops" ; Times: 1
+	Query: "Amazona albifrons mappable:1" ; Times: 3
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophotis ruficrista USNM" ; Times: 1
+	Query: "catalognumber:65911 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:554240 institutioncode:USNM" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "catalognumber:598576 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:38295 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves country:&#34;Tajikistan&#34;" ; Times: 1
+	Query: "Oriolidae+Cameroon" ; Times: 2
+	Query: "catalognumber:108764 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:65894 institutioncode:USNM" ; Times: 1
+	Query: "Toscana" ; Times: 1
+	Query: "catalognumber:561388 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521812 institutioncode:USNM" ; Times: 1
+	Query: "riparia chinensis" ; Times: 2
+	Query: "Emberizidae+Cameroon" ; Times: 1
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+	Query: "catalognumber:521860 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34;" ; Times: 1
+	Query: "catalognumber:596656 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:202475 institutioncode:USNM" ; Times: 1
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:596651 institutioncode:USNM" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 3
+	Query: "Prionops rufiventris" ; Times: 1
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "skin vntype:specimen genus:Meleagris continent:North America sex:Male hastypestatus:1" ; Times: 1
+	Query: "catalognumber:180985 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:270506 institutioncode:USNM" ; Times: 1
+	Query: "calliphlox evelynae" ; Times: 2
+	Query: "Geopelia striata mappable:1" ; Times: 2
+	Query: "toscana" ; Times: 1
+	Query: "Quelea erythrops mappable:1" ; Times: 4
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 2
+	Query: "catalognumber:57683 institutioncode:USNM" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "catalognumber:B37218 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:180728 institutioncode:USNM" ; Times: 2
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 10
+	Query: "catalognumber:521819 institutioncode:USNM" ; Times: 1
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "catalognumber:160275 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:309353 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:559591 institutioncode:USNM" ; Times: 1
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:A9028 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:393 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521821 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:300025 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:170394 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521835 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:55288 institutioncode:USNM" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "catalognumber:69925 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B15606 institutioncode:USNM" ; Times: 1
+	Query: "293492" ; Times: 1
+	Query: "Musophagidae+Cameroon" ; Times: 2
+	Query: "catalognumber:613577 institutioncode:USNM" ; Times: 1
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "285753" ; Times: 1
+	Query: "catalognumber:A2893 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:178939 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;sierra leone&#34;" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Sitta magna" ; Times: 1
+	Query: "catalognumber:228130 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:449595" ; Times: 1
+	Query: "catalognumber:140658 institutioncode:USNM" ; Times: 1
+	Query: "galapagos specificepithet:modesta genus:progne" ; Times: 2
+	Query: "luscinia saturatior" ; Times: 1
+	Query: "ara tricolor" ; Times: 2
+	Query: "transitiva vntype:specimen specificepithet:rustica genus:hirundo" ; Times: 1
+	Query: "catalognumber:521849 institutioncode:USNM" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "catalognumber:31 institutioncode:USNM" ; Times: 1
+	Query: "lathrotriccus flaviventris" ; Times: 2
+	Query: "Columba livia egg" ; Times: 2
+	Query: "Anas aucklandica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:A9036 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521820 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cantillans genus:Sylvia institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:229723 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561389 institutioncode:USNM" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Eurylaimidae+Cameroon" ; Times: 2
+	Query: "catalognumber:62367 institutioncode:USNM" ; Times: 1
+	Query: "Serpophaga hypoleuca" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Cypsiurus Tanganyika" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 4
+	Query: "catalognumber:169674 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:562845 institutioncode:USNM" ; Times: 1
+	Query: "delichon nipalensis" ; Times: 1
+	Query: "specificepithet:congensis genus:Afropavo" ; Times: 1
+	Query: "catalognumber:18916 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:191440 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:205906 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:178947 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:230086 institutioncode:USNM" ; Times: 1
+	Query: "recordedby:sarg" ; Times: 1
+	Query: "Oxyura australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves (p. woodward)" ; Times: 1
+	Query: "catalognumber:521858 institutioncode:USNM" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "Oxyruncus cristatus" ; Times: 2
+	Query: "catalognumber:170391 institutioncode:USNM" ; Times: 1
+	Query: "Ardeidae+Cameroon" ; Times: 1
+	Query: "catalognumber:521837 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A10880 institutioncode:USNM" ; Times: 1
+	Query: "Netta peposaca mappable:1" ; Times: 4
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Platysteiridae+Cameroon" ; Times: 2
+	Query: "catalognumber:169756 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A11366 institutioncode:USNM" ; Times: 1
+	Query: "Glareolidae+Cameroon" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 4
+	Query: "Pelecanidae+Cameroon" ; Times: 1
+	Query: "catalognumber:B583 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "catalognumber:221718 institutioncode:USNM" ; Times: 1
+	Query: "Actophilornis africana mappable:1" ; Times: 3
+	Query: "catalognumber:160338 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521806 institutioncode:USNM" ; Times: 1
+	Query: "lophornis" ; Times: 1
+	Query: "catalognumber:596658 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17623 institutioncode:USNM" ; Times: 1
+	Query: "Aratinga wagleri mappable:1" ; Times: 3
+	Query: "Remizidae Cameroon" ; Times: 1
+	Query: "catalognumber:202481 institutioncode:USNM" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "dryolimnas cuvieri abbotti" ; Times: 1
+	Query: "catalognumber:170408 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561361 institutioncode:USNM" ; Times: 1
+	Query: "222778" ; Times: 1
+	Query: "zosterops anomalus" ; Times: 1
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "catalognumber:521822 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A1884 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:270425 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "catalognumber:170407 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:228169 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17625 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:582702 institutioncode:USNM" ; Times: 2
+	Query: "Grallaria gigantea" ; Times: 1
+	Query: "Sylviidae+Cameroon" ; Times: 2
+	Query: "specificepithet:tenebrosa genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:444235 institutioncode:USNM" ; Times: 3
+	Query: "catalognumber:B15638 institutioncode:USNM" ; Times: 1
+	Query: "usnm 608652" ; Times: 1
+	Query: "catalognumber:A9066 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521808 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:166440 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:332899 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:212137 institutioncode:USNM" ; Times: 1
+	Query: "sitta lilacea" ; Times: 1
+	Query: "Cranioleuca muelleri" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "catalognumber:128910 institutioncode:USNM" ; Times: 1
+	Query: "Buteo augur" ; Times: 1
+	Query: "catalognumber:160272 institutioncode:USNM" ; Times: 1
+	Query: "Threskiornithidae+Cameroon" ; Times: 1
+	Query: "catalognumber:17624 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17634 institutioncode:USNM" ; Times: 1
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Birds" ; Times: 2
+	Query: "catalognumber:170421 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A11363 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:170405 institutioncode:USNM" ; Times: 1
+	Query: "258270" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 2
+	Query: "class:aves recordedby:*meanley*" ; Times: 1
+	Query: "catalognumber:596633 institutioncode:USNM" ; Times: 1
+	Query: "pyrrhura stateprovince:&#34;Para&#34;" ; Times: 1
+	Query: "family:Icteridae locality:Alabama" ; Times: 2
+	Query: "leucopeza semperi" ; Times: 2
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "genus:Calidris class:Aves recordedby:Palsson" ; Times: 1
+	Query: "catalognumber:230581 institutioncode:USNM" ; Times: 1
+	Query: "146501" ; Times: 1
+	Query: "USNM 579805" ; Times: 1
+	Query: "Anas poecilorhyncha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:521823 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17626 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:613575 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:168826 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B15605 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:202479 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17617 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:202724 institutioncode:USNM" ; Times: 1
+	Query: "Serinus dorsostriatus mappable:1" ; Times: 3
+	Query: "specificepithet:leucorrhoa genus:tachycineta country:&#34;paraguay&#34;" ; Times: 1
+	Query: "catalognumber:521832 institutioncode:USNM" ; Times: 1
+	Query: "Aplonis metallica mappable:1" ; Times: 4
+	Query: "thamnophilus oecotonophilus" ; Times: 1
+	Query: "Apodidae+Cameroon" ; Times: 2
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:168650 institutioncode:USNM" ; Times: 1
+	Query: "Phasianidae+Cameroon" ; Times: 2
+	Query: "catalognumber:596634 institutioncode:USNM" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "Oceanites gracilis gracilis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sporophila colombiana" ; Times: 1
+	Query: "specificepithet:sinaloae genus:Progne" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "luscinia przevalskii" ; Times: 1
+	Query: "catalognumber:17619 institutioncode:USNM" ; Times: 1
+	Query: "Cypseloides rothschildi" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus recordedby:Taylor year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:55474 institutioncode:USNM" ; Times: 1
+	Query: "Lonchura bicolor mappable:1" ; Times: 3
+	Query: "Euplectes nigroventris mappable:1" ; Times: 4
+	Query: "Ara chloroptera mappable:1" ; Times: 3
+	Query: "catalognumber:17621 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:11345 institutioncode:USNM" ; Times: 1
+	Query: "Corvus ruficollis mappable:1" ; Times: 4
+	Query: "catalognumber:228304 institutioncode:USNM" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 30
+	Query: "catalognumber:191446 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521824 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:227703 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ghana&#34;" ; Times: 1
+	Query: "Accipiter badius mappable:1" ; Times: 4
+	Query: "class:aves stateprovince:&#34;Minas Gerais&#34; institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:160380 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A19320 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:481811 institutioncode:USNM" ; Times: 2
+	Query: "spelaeornis badeigularis" ; Times: 2
+	Query: "catalognumber:205280 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B15637 institutioncode:USNM" ; Times: 1
+	Query: "Celaenops" ; Times: 1
+	Query: "napothera bakeri" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 3
+	Query: "locality:Dobroyd country:&#34;Australia&#34;" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1" ; Times: 3
+	Query: "class:aves (fakarava) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alopochelidon fucata" ; Times: 1
+	Query: "catalognumber:205956 institutioncode:USNM" ; Times: 1
+	Query: "Dendragapus obscurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:137302 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Carolina&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ramphastos sulfuratus mappable:1" ; Times: 4
+	Query: "catalognumber:396826 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521831 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:191439 institutioncode:USNM" ; Times: 1
+	Query: "zosterops albogularis" ; Times: 1
+	Query: "catalognumber:55290 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B23997 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:596649 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:455011 institutioncode:USNM" ; Times: 1
+	Query: "USNM 402897" ; Times: 1
+	Query: "catalognumber:A1905 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B3858 institutioncode:USNM" ; Times: 1
+	Query: "picumnus confusus" ; Times: 1
+	Query: "Anatidae+Cameroon" ; Times: 1
+	Query: "Aratinga pertinax mappable:1" ; Times: 3
+	Query: "catalognumber:B17382 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521825 institutioncode:USNM" ; Times: 1
+	Query: "Motacillidae+Cameroon" ; Times: 2
+	Query: "catalognumber:205953 institutioncode:USNM" ; Times: 1
+	Query: "Lonchura punctulata mappable:1" ; Times: 4
+	Query: "oriolus richmondi" ; Times: 2
+	Query: "Amadina fasciata mappable:1" ; Times: 4
+	Query: "catalognumber:561373 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:85984 institutioncode:USNM" ; Times: 1
+	Query: "USNM 403536" ; Times: 1
+	Query: "catalognumber:252734 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:11344 institutioncode:USNM" ; Times: 1
+	Query: "Picathartidae Cameroon" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 2
+	Query: "Rhodopechys obsoleta mappable:1" ; Times: 3
+	Query: "Cacatua sulphurea mappable:1" ; Times: 3
+	Query: "Pytilia melba mappable:1" ; Times: 4
+	Query: "catalognumber:60619 institutioncode:USNM" ; Times: 1
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "Batis perkeo" ; Times: 2
+	Query: "catalognumber:191435 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:465924 institutioncode:USNM" ; Times: 2
+	Query: "class:aves (A19407)" ; Times: 1
+	Query: "catalognumber:561386 institutioncode:USNM" ; Times: 1
+	Query: "genus:Sylvia institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:rutila genus:Emberiza" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "catalognumber:613573 institutioncode:USNM" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "holsti" ; Times: 1
+	Query: "catalognumber:169252 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596641 institutioncode:USNM" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 3
+	Query: "catalognumber:61747 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cyaneoviridis genus:tachycineta" ; Times: 1
+	Query: "catalognumber:55734 institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; recordedby:*weber* year &gt;= 1942 year &lt;= 1942" ; Times: 1
+	Query: "Zosterops rendovae" ; Times: 1
+	Query: "catalognumber:178946 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:103837 institutioncode:USNM" ; Times: 1
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "gypaetus" ; Times: 1
+	Query: "catalognumber:B17385 institutioncode:USNM" ; Times: 1
+	Query: "Estrilda rhodopyga mappable:1" ; Times: 4
+	Query: "Psittacidae+Cameroon" ; Times: 2
+	Query: "catalognumber:B9705 institutioncode:USNM" ; Times: 1
+	Query: "Amazona amazonica mappable:1" ; Times: 3
+	Query: "catalognumber:18878 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:60621 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:22613 institutioncode:USNM" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 2
+	Query: "catalognumber:608553 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:zosterops genus:Xanthomixis hasmass:0" ; Times: 1
+	Query: "catalognumber:177488 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:sinaloae genus:progne" ; Times: 2
+	Query: "catalognumber:521839 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:379617 institutioncode:USNM" ; Times: 2
+	Query: "Moa class:Aves" ; Times: 1
+	Query: "Lonchura cantans mappable:1" ; Times: 5
+	Query: "Corvus albus mappable:1" ; Times: 4
+	Query: "catalognumber:521836 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:270505 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:11334 institutioncode:USNM" ; Times: 1
+	Query: "Numenius madagascariensis" ; Times: 5
+	Query: "catalognumber:179112 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:575100 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521843 institutioncode:USNM" ; Times: 1
+	Query: "pyrrhura rhodogaster" ; Times: 2
+	Query: "catalognumber:140699 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B33979 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:191443 institutioncode:USNM" ; Times: 1
+	Query: "Ajaia ajaja mappable:1" ; Times: 4
+	Query: "catalognumber:B17438 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:613576 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:170396 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:208578 institutioncode:USNM" ; Times: 1
+	Query: "serpophaga hypoleuca" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 1
+	Query: "Picoides mahrattensis Thailand" ; Times: 1
+	Query: "pyrrhura stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "catalognumber:177497 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:537784 institutioncode:USNM" ; Times: 2
+	Query: "biatas" ; Times: 1
+	Query: "Burhinidae+Cameroon" ; Times: 1
+	Query: "Dendrocolaptes medius" ; Times: 1
+	Query: "catalognumber:40210 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:270507 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A9031 institutioncode:USNM" ; Times: 1
+	Query: "Chauna torquata mappable:1" ; Times: 4
+	Query: "Meropidae+Cameroon" ; Times: 2
+	Query: "catalognumber:127382 institutioncode:USNM" ; Times: 1
+	Query: "Campephilus principalis bairdii" ; Times: 1
+	Query: "catalognumber:202476 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521803 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596640 institutioncode:USNM" ; Times: 1
+	Query: "Laniidae+Cameroon" ; Times: 2
+	Query: "catalognumber:455008 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:177498 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:308865 institutioncode:USNM" ; Times: 2
+	Query: "hirundo lucida" ; Times: 1
+	Query: "catalognumber:126372 institutioncode:USNM" ; Times: 3
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:160340 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521847 institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;Coahuila&#34; recordedby:Marsh year &gt;= 1935 year &lt;= 1937" ; Times: 1
+	Query: "catalognumber:548013 institutioncode:USNM" ; Times: 1
+	Query: "Amazona leucocephala mappable:1" ; Times: 3
+	Query: "Zosterops griseonota" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "Merganetta armata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "catalognumber:160378 institutioncode:USNM" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "catalognumber:65895 institutioncode:USNM" ; Times: 1
+	Query: "progne cryptoleuca" ; Times: 1
+	Query: "catalognumber:205940 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17635 institutioncode:USNM" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 1
+	Query: "catalognumber:521840 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:167892 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:186472 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A5770 institutioncode:USNM" ; Times: 1
+	Query: "R-194073" ; Times: 1
+	Query: "B34203" ; Times: 1
+	Query: "rhynchocyclus mirus" ; Times: 1
+	Query: "Tachybaptus rufolavatus" ; Times: 1
+	Query: "Lamprotornis chloropterus mappable:1" ; Times: 4
+	Query: "Anas gibberifrons basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "zosterops anjouanensis" ; Times: 1
+	Query: "tinamus major chiapas" ; Times: 1
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Bucerotidae+Cameroon" ; Times: 2
+	Query: "Lonchura malabarica mappable:1" ; Times: 3
+	Query: "specificepithet:dahli genus:rhipidura class:aves year &gt;= 1990 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cyanocorax mystacalis mappable:1" ; Times: 4
+	Query: "catalognumber:202267 institutioncode:USNM" ; Times: 1
+	Query: "156047" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 2
+	Query: "catalognumber:20687 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:65872 institutioncode:USNM" ; Times: 1
+	Query: "genus:tachycineta institutioncode:USNM" ; Times: 1
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "Serinus mozambicus mappable:1" ; Times: 3
+	Query: "catalognumber:191437 institutioncode:USNM" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 3
+	Query: "Jacana jacana mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;florida&#34; recordedby:*weber* year &gt;= 1925 year &lt;= 1960" ; Times: 3
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:cinereiceps genus:Xanthomixis hasmass:0" ; Times: 1
+	Query: "catalognumber:202473 institutioncode:USNM" ; Times: 1
+	Query: "196029" ; Times: 2
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ciconiidae+Cameroon" ; Times: 1
+	Query: "Ara macao Guatemala" ; Times: 1
+	Query: "catalognumber:521833 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:177486 institutioncode:USNM" ; Times: 1
+	Query: "sporophila country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:230087 institutioncode:USNM" ; Times: 1
+	Query: "columba plumbea" ; Times: 1
+	Query: "catalognumber:170398 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:465927 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 3
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tauraco hartlaubi mappable:1" ; Times: 4
+	Query: "specificepithet:guttatus genus:catharus institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 1
+	Query: "catalognumber:179103 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:178943 institutioncode:USNM" ; Times: 1
+	Query: "Charadriidae+Cameroon" ; Times: 2
+	Query: "pseudochelidon" ; Times: 3
+	Query: "catalognumber:613572 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "catalognumber:B15639 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta country:&#34;chile&#34;" ; Times: 1
+	Query: "catalognumber:331063" ; Times: 1
+	Query: "catalognumber:208580 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:179515 institutioncode:USNM" ; Times: 1
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "139594" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 2
+	Query: "catalognumber:229801 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:242502 institutioncode:USNM" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "catalognumber:455009 institutioncode:USNM" ; Times: 1
+	Query: "Tulare County colaptes" ; Times: 1
+	Query: "Hypsipetes leucocephalus mappable:1" ; Times: 4
+	Query: "specificepithet:niger genus:Cypseloides month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "catalognumber:561401 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:496649 institutioncode:USNM" ; Times: 1
+	Query: "genus:dicaeum class:aves (makira) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:130978 institutioncode:USNM" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 2
+	Query: "catalognumber:62262 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:20528 institutioncode:USNM" ; Times: 1
+	Query: "Oxyruncus cristatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:65342 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596638 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:191436 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:521861 institutioncode:USNM" ; Times: 1
+	Query: "Ectopistes migratorius minnesota" ; Times: 1
+	Query: "catalognumber:171336 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B3857 institutioncode:USNM" ; Times: 1
+	Query: "Gyps coprotheres mappable:1" ; Times: 4
+	Query: "catalognumber:228167 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A2890 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596648 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:209718 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:microptera genus:Rollandia" ; Times: 2
+	Query: "catalognumber:56047 institutioncode:USNM" ; Times: 1
+	Query: "Mimus gilvus mappable:1" ; Times: 4
+	Query: "catalognumber:582524 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:170395 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:390793 collectioncode:birds" ; Times: 2
+	Query: "locality:Sebastopol county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:178941 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:455010 institutioncode:USNM" ; Times: 1
+	Query: "recordedby:f. powell" ; Times: 2
+	Query: "specificepithet:nitens genus:malimbus country:&#34;ghana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Plectropterus gambensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Diomedea institutioncode:USNM" ; Times: 1
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:151549 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:168651 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B33978 institutioncode:USNM" ; Times: 1
+	Query: "genus:nucifraga caryocatactes rothschildi" ; Times: 1
+	Query: "catalognumber:137316 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:grossus genus:Pitylus" ; Times: 2
+	Query: "327715" ; Times: 3
+	Query: "catalognumber:230323 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:205957 institutioncode:USNM" ; Times: 1
+	Query: "Laguna San Rafael" ; Times: 1
+	Query: "Anas poecilorhyncha mappable:1" ; Times: 4
+	Query: "catalognumber:17629 institutioncode:USNM" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "catalognumber:180718 institutioncode:USNM" ; Times: 1
+	Query: "Euplectes orix mappable:1" ; Times: 4
+	Query: "catalognumber:598596 institutioncode:USNM" ; Times: 1
+	Query: "Francolinus francolinus mappable:1" ; Times: 4
+	Query: "catalognumber:521854 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:lucida genus:hirundo" ; Times: 2
+	Query: "catalognumber:30615 institutioncode:USNM" ; Times: 1
+	Query: "Cypseloides cherriei" ; Times: 2
+	Query: "carrikeri" ; Times: 2
+	Query: "paradoxornis flavirostris" ; Times: 1
+	Query: "catalognumber:521828 institutioncode:USNM" ; Times: 1
+	Query: "174405" ; Times: 1
+	Query: "Anas flavirostris mappable:1" ; Times: 4
+	Query: "catalognumber:191442 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;liberia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:596636 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:230371 institutioncode:USNM" ; Times: 1
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "zosterops finschii" ; Times: 1
+	Query: "Muscicapidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male preparations:skin hastypestatus:1" ; Times: 1
+	Query: "catalognumber:166439 institutioncode:USNM" ; Times: 1
+	Query: "Lonchura striata mappable:1" ; Times: 4
+	Query: "Diomedea epomophora sanfordi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:166441 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:pulcherrimus genus:psephotus" ; Times: 3
+	Query: "catalognumber:521805 institutioncode:USNM" ; Times: 1
+	Query: "Mergus India" ; Times: 1
+	Query: "catalognumber:B5117 institutioncode:USNM" ; Times: 1
+	Query: "Ploceus intermedius mappable:1" ; Times: 4
+	Query: "Cacicus cela mappable:1" ; Times: 4
+	Query: "Erythrura trichroa mappable:1" ; Times: 4
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "class:aves country:&#34;french polynesia&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:208579 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521842 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596657 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596637 institutioncode:USNM" ; Times: 1
+	Query: "Coturnix japonica mappable:1" ; Times: 4
+	Query: "catalognumber:38348 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:160379 institutioncode:USNM" ; Times: 1
+	Query: "Leiothrix lutea mappable:1" ; Times: 4
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Batis minulla" ; Times: 1
+	Query: "catalognumber:A19136 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:319881 institutioncode:USNM" ; Times: 1
+	Query: "chondrohierax uncinatus chiapas" ; Times: 1
+	Query: "melospiza melodia insignis" ; Times: 1
+	Query: "Emberizidae Cameroon" ; Times: 1
+	Query: "zosterops semperi" ; Times: 3
+	Query: "Nettapus coromandelianus basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Dendrocygna guttata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "Forpus passerinus mappable:1" ; Times: 3
+	Query: "PYCNONOTUS ATRICEPS" ; Times: 2
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "specificepithet:anselli" ; Times: 1
+	Query: "USNM 403524" ; Times: 1
+	Query: "catalognumber:596635 institutioncode:USNM" ; Times: 1
+	Query: "Anas georgica niceforoi" ; Times: 1
+	Query: "Bolborhynchus aymara mappable:1" ; Times: 3
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "catalognumber:613571 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:126241 institutioncode:USNM" ; Times: 3
+	Query: "Trogonidae+Cameroon" ; Times: 1
+	Query: "Phoebetria palpebrata skeleton (Phoebetria palpebrata skeleton)" ; Times: 1
+	Query: "catalognumber:179113 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:40 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521845 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561402 institutioncode:USNM" ; Times: 2
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "catalognumber:229800 institutioncode:USNM" ; Times: 1
+	Query: "Acridotheres cristatellus mappable:1" ; Times: 4
+	Query: "catalognumber:230583 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:166437 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:65874 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:205978 institutioncode:USNM" ; Times: 1
+	Query: "brazzae" ; Times: 1
+	Query: "chinensis specificepithet:paludicola genus:Riparia" ; Times: 2
+	Query: "USNM 458706" ; Times: 1
+	Query: "catalognumber:412726 institutioncode:USNM" ; Times: 2
+	Query: "junco pontilis" ; Times: 2
+	Query: "stachyris melanothorax" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:sharp" ; Times: 1
+	Query: "catalognumber:521814 institutioncode:USNM" ; Times: 1
+	Query: "stoliczkae" ; Times: 1
+	Query: "Pyrrhura frontalis mappable:1" ; Times: 3
+	Query: "catalognumber:561372 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17633 institutioncode:USNM" ; Times: 1
+	Query: "manacus subpurus" ; Times: 1
+	Query: "catalognumber:561371 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:228168 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:202474 institutioncode:USNM" ; Times: 1
+	Query: "Ploceus luteolus mappable:1" ; Times: 4
+	Query: "Cyanoliseus patagonus mappable:1" ; Times: 3
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "Sulidae+Cameroon" ; Times: 1
+	Query: "catalognumber:19698 institutioncode:USNM" ; Times: 1
+	Query: "Streptopelia orientalis mappable:1" ; Times: 4
+	Query: "recordedby:f. w. powell" ; Times: 1
+	Query: "Ara auricollis mappable:1" ; Times: 3
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 549559" ; Times: 1
+	Query: "catalognumber:521829 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Malawi&#34;" ; Times: 1
+	Query: "hemispingus rufosuperciliaris" ; Times: 5
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:henslowii genus:Ammodramus year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "catalognumber:32826 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17622 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:B32894 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:481813 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;cameroon&#34;" ; Times: 5
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "catalognumber:596644 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:170393 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:347659 institutioncode:USNM" ; Times: 1
+	Query: "dicrurus celaenus" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (Para)" ; Times: 1
+	Query: "catalognumber:574515" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tephrodornis virgatus" ; Times: 1
+	Query: "Cypseloides niger; New Mexico" ; Times: 1
+	Query: "catalognumber:A7072 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561363 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:229802 institutioncode:USNM" ; Times: 1
+	Query: "Strigidae+Cameroon" ; Times: 2
+	Query: "Mergus octosetaceus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "geobates" ; Times: 1
+	Query: "genus:rhipidura class:aves (4974)" ; Times: 1
+	Query: "Chionis alba mappable:1" ; Times: 4
+	Query: "catalognumber:202482 institutioncode:USNM" ; Times: 1
+	Query: "ptilogonys otofuscus" ; Times: 1
+	Query: "Amandava amandava mappable:1" ; Times: 9
+	Query: "catalognumber:160274 institutioncode:USNM" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "catalognumber:17636 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:191448 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:561387 institutioncode:USNM" ; Times: 1
+	Query: "Garrulax leucolophus mappable:1" ; Times: 3
+	Query: "catalognumber:202478 institutioncode:USNM" ; Times: 1
+	Query: "spelaeornis longicaudatus" ; Times: 1
+	Query: "class:Aves (Aksai)" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platysteira tonsa" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "catalognumber:596647 institutioncode:USNM" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 2
+	Query: "catalognumber:240168 institutioncode:USNM" ; Times: 2
+	Query: "tyto alba-ecuador" ; Times: 2
+	Query: "catalognumber:228163 institutioncode:USNM" ; Times: 1
+	Query: "Anas andium basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:230567 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:191447 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "catalognumber:33865 institutioncode:USNM" ; Times: 3
+	Query: "catalognumber:607579 institutioncode:USNM" ; Times: 1
+	Query: "Gracula religiosa mappable:1" ; Times: 4
+	Query: "iole innectens" ; Times: 2
+	Query: "(B39189) institutioncode:USNM" ; Times: 1
+	Query: "Pycnonotus cafer mappable:1" ; Times: 4
+	Query: "catalognumber:166434 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:596652 institutioncode:USNM" ; Times: 1
+	Query: "USNM 364929" ; Times: 2
+	Query: "Muscicapa dauurica mappable:1" ; Times: 5
+	Query: "catalognumber:203192 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:fucata genus:alopochelidon" ; Times: 2
+	Query: "buthraupis aureodorsalis" ; Times: 1
+	Query: "catalognumber:521859 institutioncode:USNM" ; Times: 1
+	Query: "Amandava subflava mappable:1" ; Times: 5
+	Query: "lophozosterops dohertyi" ; Times: 1
+	Query: "USNM 456444" ; Times: 2
+	Query: "catalognumber:191438 institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34; recordedby:Loring" ; Times: 1
+	Query: "Sporophila palustris country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Amytornis woodwardi" ; Times: 1
+	Query: "catalognumber:160273 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "USNM 145268" ; Times: 1
+	Query: "catalognumber:160115 institutioncode:USNM" ; Times: 1
+	Query: "Ciconia abdimii mappable:1" ; Times: 4
+	Query: "genus:Sylvia preparations:skin institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "progne modesta" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "catalognumber:170397 institutioncode:USNM" ; Times: 1
+	Query: "Aburria cumanensis mappable:1" ; Times: 3
+	Query: "USNM 402629" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:56001 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:229711 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:230359 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:178940 institutioncode:USNM" ; Times: 1
+	Query: "zosterops salvadorii" ; Times: 1
+	Query: "Pittidae+Cameroon" ; Times: 1
+	Query: "catalognumber:166435 institutioncode:USNM" ; Times: 1
+	Query: "Scolopacidae+Cameroon" ; Times: 2
+	Query: "claravis mondetoura" ; Times: 74
+	Query: "Tockus nasutus mappable:1" ; Times: 3
+	Query: "catalognumber:169336 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:230372 institutioncode:USNM" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 25
+	Query: "Threskiornis aethiopicus mappable:1" ; Times: 3
+	Query: "catalognumber:45588 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves locality:Alabama" ; Times: 1
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "macgregoria" ; Times: 1
+	Query: "class:Aves locality:Sierra del Carmen stateprovince:&#34;Coahuila&#34; year &lt;= 1950" ; Times: 1
+	Query: "Minnesota Ectopistes migratorius" ; Times: 1
+	Query: "toxostoma rubricatum" ; Times: 1
+	Query: "catalognumber:228166 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:170392 institutioncode:USNM" ; Times: 1
+	Query: "aye aye" ; Times: 1
+	Query: "catalognumber:141477 institutioncode:USNM" ; Times: 1
+	Query: "Aratinga nana mappable:1" ; Times: 3
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Paridae Cameroon" ; Times: 1
+	Query: "catalognumber:191445 institutioncode:USNM" ; Times: 1
+	Query: "Philetairus socius" ; Times: 1
+	Query: "locality:*pampa stateprovince:&#34;Cusco&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:177459 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:A16460 institutioncode:USNM" ; Times: 1
+	Query: "Aratinga finschi mappable:1" ; Times: 3
+	Query: "catalognumber:439127 institutioncode:USNM" ; Times: 2
+	Query: "strix lucida" ; Times: 1
+	Query: "thamnophilus doliatus chiapas" ; Times: 1
+	Query: "Phoebetria palpebrata skeleton" ; Times: 1
+	Query: "Anas sibilatrix mappable:1" ; Times: 3
+	Query: "specificepithet:pusilla genus:spizella stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "catalognumber:202678 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:83250 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:69924 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:177470 institutioncode:USNM" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "catalognumber:169299 institutioncode:USNM" ; Times: 1
+	Query: "Ara severa mappable:1" ; Times: 3
+	Query: "pyrrhura vntype:specimen stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:169302 institutioncode:USNM" ; Times: 1
+	Query: "Nandayus nenday mappable:1" ; Times: 3
+	Query: "genus:rhipidura class:aves (san cristobal) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "catalognumber:103146 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521815 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:228320 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521862 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:71750 institutioncode:USNM" ; Times: 1
+	Query: "zosterops pallidus" ; Times: 1
+	Query: "catalognumber:65873 institutioncode:USNM" ; Times: 1
+	Query: "Cyanocorax chrysops mappable:1" ; Times: 4
+	Query: "catalognumber:B15663 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:168649 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:142323 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "crypturellus cinnamomeus chiapas" ; Times: 1
+	Query: "Cypsiurus Tanzania" ; Times: 2
+	Query: "strix nyctiphasma" ; Times: 2
+	Query: "catalognumber:177500 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521841 institutioncode:USNM" ; Times: 1
+	Query: "Sturnus malabaricus mappable:1" ; Times: 3
+	Query: "vntype:specimen class:Aves locality:sumatra country:&#34;indonesia&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:B582 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta stateprovince:&#34;magallanes&#34; country:&#34;chile&#34;" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 2
+	Query: "Dendragapus obscurus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "class:aves (B19137)" ; Times: 1
+	Query: "catalognumber:166438 institutioncode:USNM" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "USNM 402905" ; Times: 1
+	Query: "genus:accipiter institutioncode:USNM" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "catalognumber:229792 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:521813 institutioncode:USNM" ; Times: 1
+	Query: "Pteronetta hartlaubii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:177180 institutioncode:USNM" ; Times: 2
+	Query: "Rhodonessa caryophyllacea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:17630 institutioncode:USNM" ; Times: 1
+	Query: "Coraciidae+Cameroon" ; Times: 1
+	Query: "Diomedea nigripes" ; Times: 14
+	Query: "dicrurus hottentottus thailand" ; Times: 1
+	Query: "catalognumber:169898 institutioncode:USNM" ; Times: 1
+	Query: "Aratinga erythrogenys mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "Tinamus tao" ; Times: 1
+	Query: "vancouver pubescens" ; Times: 2
+	Query: "catalognumber:179516 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17578 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "ptyonoprogne obsoleta" ; Times: 4
+	Query: "Picidae+Cameroon" ; Times: 2
+	Query: "Onychorhynchus mappable:1" ; Times: 1
+	Query: "Eutoxeres condamini" ; Times: 1
+	Query: "Callonetta leucophrys mappable:1" ; Times: 4
+	Query: "zosterops flavus" ; Times: 1
+	Query: "type vntype:specimen year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "toxostoma trinitatis" ; Times: 1
+	Query: "Emberiza cioides mappable:1" ; Times: 4
+	Query: "dicrurus samarensis" ; Times: 6
+	Query: "Bradypterus major" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius institutioncode:USNM" ; Times: 1
+	Query: "lophozosterops javanicus" ; Times: 1
+	Query: "catalognumber:311292 institutioncode:USNM" ; Times: 2
+	Query: "Crax globulosa" ; Times: 1
+	Query: "catalognumber:12818 institutioncode:USNM" ; Times: 1
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "catalognumber:178945 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:17631 institutioncode:USNM" ; Times: 1
+	Query: "Anas bahamensis mappable:1" ; Times: 3
+	Query: "Phalacrocoracidae+Cameroon" ; Times: 1
+	Query: "catalognumber:202480 institutioncode:USNM" ; Times: 1
+	Query: "hirundo nigrorufa" ; Times: 1
+	Query: "catalognumber:121096 institutioncode:USNM" ; Times: 1
+	Query: "Pipile cumanensis mappable:1" ; Times: 6
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aratinga acuticaudata mappable:1" ; Times: 3
+	Query: "myadestes calophonus" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "catalognumber:521848 institutioncode:USNM" ; Times: 1
+	Query: "class:aves country:&#34;solomon&#34; (santa ana)" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "Lophorina superba" ; Times: 2
+	Query: "accipiter poliogaster" ; Times: 2
+	Query: "catalognumber:230650 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves country:&#34;Burkina Faso&#34;" ; Times: 1
+	Query: "Columba guinea mappable:1" ; Times: 4
+	Query: "catalognumber:B17437 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:170412 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:228164 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:29792 institutioncode:USNM" ; Times: 2
+	Query: "USNM 403520" ; Times: 1
+	Query: "class:aves (459945)" ; Times: 1
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 4
+	Query: "catalognumber:596642 institutioncode:USNM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 332 (out of 1892 download events in this period)
+Total number of records downloaded: 59906
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 191
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 61
+	Country: India ; Times: 13
+	Country: Sweden ; Times: 1
+	Country: France ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: Japan ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 11
+	Date: 2018-02-08 ; Times: 8
+	Date: 2018-02-02 ; Times: 27
+	Date: 2018-02-01 ; Times: 6
+	Date: 2018-02-07 ; Times: 11
+	Date: 2018-02-06 ; Times: 54
+	Date: 2018-02-05 ; Times: 74
+	Date: 2018-02-04 ; Times: 4
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 12
+	Date: 2018-02-23 ; Times: 39
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 19
+	Date: 2018-02-26 ; Times: 5
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 6
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 20
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 9
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Pycnonotidae+Cameroon" ; Times: 1
+	Query: "Pittidae+Cameroon" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "class:Aves country:&#34;Burkina Faso&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Liberia&#34;" ; Times: 1
+	Query: "Strigidae+Cameroon" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "Timaliidae Cameroon" ; Times: 1
+	Query: "stateprovince:&#34;Coahuila&#34; recordedby:Marsh year &gt;= 1935 year &lt;= 1937" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Minas Gerais&#34; institutioncode:USNM" ; Times: 1
+	Query: "class:Aves country:&#34;Chad&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Pyrrhura rhodogaster" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Motacillidae+Cameroon" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Picathartidae Cameroon" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "specificepithet:rutila genus:Emberiza" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Grallaria varia" ; Times: 1
+	Query: "Meropidae+Cameroon" ; Times: 1
+	Query: "Trogonidae+Cameroon" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Prionops poliolophus" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Tephrodornis sylvicola" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Tephrodornis virgatus" ; Times: 1
+	Query: "specificepithet:cajanea genus:Aramides continent:North America" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "class:Aves country:&#34;Sierra Leone&#34;" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "specificepithet:erythropleurus genus:Zosterops" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "class:Aves (Gilgit)" ; Times: 1
+	Query: "Anatidae+Cameroon" ; Times: 1
+	Query: "Psittacidae+Cameroon" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "class:Aves country:&#34;Tajikistan&#34;" ; Times: 1
+	Query: "Oriolidae+Cameroon" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Hemipus hirundinaceus" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "geobates" ; Times: 1
+	Query: "Prionops rufiventris" ; Times: 1
+	Query: "Platysteira chalybea" ; Times: 1
+	Query: "Platysteira blissetti" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "serpophaga hypoleuca" ; Times: 1
+	Query: "class:Aves country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Dendrocolaptes medius" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Platysteira tonsa" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "Ciconiidae+Cameroon" ; Times: 1
+	Query: "Dicruridae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "class:Aves country:&#34;Guinea&#34; AND (NOT Papua New Guinea)" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "Laniidae+Cameroon" ; Times: 1
+	Query: "Upupidae+Cameroon" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 1
+	Query: "Chondrohierax wilsonii" ; Times: 2
+	Query: "specificepithet:zoeae genus:Ducula" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "buren" ; Times: 1
+	Query: "Musophagidae+Cameroon" ; Times: 1
+	Query: "specificepithet:fuscans genus:Lonchura" ; Times: 1
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "Sitta magna" ; Times: 1
+	Query: "Tephrodornis affinis" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:psephotus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "Bourns" ; Times: 1
+	Query: "class:Aves country:&#34;Niger&#34;" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Sulidae+Cameroon" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "Eurylaimidae+Cameroon" ; Times: 1
+	Query: "Emberizidae+Cameroon" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "Serpophaga hypoleuca" ; Times: 1
+	Query: "pyrrhura vntype:specimen stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 4
+	Query: "vntype:specimen specificepithet:prasina genus:hylia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "Scolopacidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia gouldii genus:melospiza" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; collectioncode:birds institutioncode:USNM" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 1
+	Query: "Zosteropidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Bangladesh&#34;" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "Ardeidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Batis minor" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "Apodidae+Cameroon" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "Batis mixta" ; Times: 1
+	Query: "specificepithet:melodia sanaka genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves locality:Sabinas stateprovince:&#34;Coahuila&#34; (Nelson) institutioncode:USNM" ; Times: 1
+	Query: "Remizidae Cameroon" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Charadriidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34; preparations:egg" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Pelecanidae+Cameroon" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "Sylviidae+Cameroon" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "Onychorhynchus vntype:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "Corvidae+Cameroon" ; Times: 1
+	Query: "Threskiornithidae+Cameroon" ; Times: 1
+	Query: "Accipitridae+Cameroon" ; Times: 1
+	Query: "Muscicapidae Cameroon" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "Batis minulla" ; Times: 1
+	Query: "Glareolidae+Cameroon" ; Times: 1
+	Query: "Batis perkeo" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "Burhinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "Coraciidae+Cameroon" ; Times: 1
+	Query: "locality:Sebastopol county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "ramphastos brevis" ; Times: 2
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "Rallidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phalacrocoracidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "Batis diops" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1890 year &lt;= 1891 institutioncode:USNM" ; Times: 1
+	Query: "locality: trenton county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:melodia caurina genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Cranioleuca muelleri" ; Times: 1
+	Query: "Cypseloides rothschildi" ; Times: 1
+	Query: "class:Aves country:&#34;Bhutan&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:melodia maxima genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "Paridae Cameroon" ; Times: 1
+	Query: "Platysteira castanea" ; Times: 1
+
+
+End of report.
