@@ -1,0 +1,637 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 803
+Number of records retrieved in searches: 10448
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: Brazil ; Times: 58
+	Country: Italy ; Times: 7
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 43
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Norway ; Times: 14
+	Country: Ecuador ; Times: 7
+	Country: Australia ; Times: 4
+	Country: Iran ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: China ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Denmark ; Times: 44
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 4
+	Country: United States ; Times: 418
+	Country: Sweden ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 91
+	Country: India ; Times: 23
+	Country: United Kingdom ; Times: 19
+	Country: Colombia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 7
+	Date: 2018-09-23 ; Times: 37
+	Date: 2018-09-02 ; Times: 4
+	Date: 2018-09-03 ; Times: 24
+	Date: 2018-09-26 ; Times: 77
+	Date: 2018-09-01 ; Times: 14
+	Date: 2018-09-20 ; Times: 73
+	Date: 2018-09-21 ; Times: 42
+	Date: 2018-09-22 ; Times: 12
+	Date: 2018-09-05 ; Times: 37
+	Date: 2018-09-08 ; Times: 10
+	Date: 2018-09-09 ; Times: 17
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 9
+	Date: 2018-09-11 ; Times: 30
+	Date: 2018-09-10 ; Times: 33
+	Date: 2018-09-13 ; Times: 19
+	Date: 2018-09-12 ; Times: 19
+	Date: 2018-09-15 ; Times: 25
+	Date: 2018-09-14 ; Times: 30
+	Date: 2018-09-17 ; Times: 49
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 24
+	Date: 2018-09-18 ; Times: 42
+	Date: 2018-09-24 ; Times: 38
+	Date: 2018-09-25 ; Times: 22
+	Date: 2018-09-27 ; Times: 52
+	Date: 2018-09-06 ; Times: 31
+	Date: 2018-09-07 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "pipreola riefferii" ; Times: 1
+	Query: "country:&#34;India&#34; (Iole virescens AND India)" ; Times: 1
+	Query: "egg fort resolution Ross" ; Times: 1
+	Query: "Calandrella dukhunensis Jammu" ; Times: 1
+	Query: "class:Aves recordedby:Loucks" ; Times: 4
+	Query: "euplectes aureus" ; Times: 4
+	Query: "specificepithet:jelskii genus:iridosornis" ; Times: 1
+	Query: "vntype:specimen genus:Nasica" ; Times: 3
+	Query: "locality:Koliutschin country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "parus raddei" ; Times: 1
+	Query: "catalognumber:511807 institutioncode:USNM" ; Times: 2
+	Query: "Lamprolaima" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 8
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "coracina tonkeana" ; Times: 1
+	Query: "pachyramphus quimarinus" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus country:&#34;Colombia&#34;" ; Times: 2
+	Query: "pipreola riefferii occidentalis" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 1
+	Query: "catalognumber:510242 institutioncode:USNM" ; Times: 1
+	Query: "ailuroedus geislerorum" ; Times: 4
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:isabellae genus:oriolus" ; Times: 1
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Kennerly country:&#34;Mexico&#34; institutioncode:USNM" ; Times: 1
+	Query: "Saltatricula institutioncode:USNM" ; Times: 1
+	Query: "246221" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 2
+	Query: "specificepithet:schlegeli genus:arremon" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 3
+	Query: "westermanni" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "usnm 636936" ; Times: 1
+	Query: "catalognumber:510461 institutioncode:USNM" ; Times: 1
+	Query: "arachnothera rothschildi" ; Times: 2
+	Query: "specificepithet:schlegeli genus:Arremon" ; Times: 1
+	Query: "gallinago imperialis" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "anodorhynchus hyacinthinus skeleton" ; Times: 1
+	Query: "genus:Atrichornis preparations:skeleton" ; Times: 1
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "class:aves catalognumber:b29214" ; Times: 1
+	Query: "Nonnula rubecula vntype:specimen" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "Hyliota australis" ; Times: 4
+	Query: "egg 1873 minnesota" ; Times: 1
+	Query: "genus:rhipidura class:aves (samoa)" ; Times: 1
+	Query: "regulus caucasicus" ; Times: 1
+	Query: "specificepithet:malaitae genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "aegithalos niveogularis" ; Times: 2
+	Query: "grallaria capitalis" ; Times: 1
+	Query: "USNM 3090" ; Times: 1
+	Query: "catalognumber:382398" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ball institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cayana genus:cotinga" ; Times: 1
+	Query: "Carpodacus stoliczkae" ; Times: 5
+	Query: "genus:Pseudonestor class:Aves" ; Times: 2
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:trostler" ; Times: 2
+	Query: "catalognumber:511917 institutioncode:USNM" ; Times: 1
+	Query: "class:aves recordedby:bosley" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:pyrrhophia genus:Cranioleuca" ; Times: 1
+	Query: "malacoptila rufa" ; Times: 5
+	Query: "m. A. Smith institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:palache" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Pomarea" ; Times: 1
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "EMPIDONOMUS VARIUS" ; Times: 1
+	Query: "Colombia risaralda" ; Times: 1
+	Query: "genus:Phodilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscocinereus genus:lipaugus" ; Times: 1
+	Query: "246225" ; Times: 2
+	Query: "locality:sucharina country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 4
+	Query: "247643" ; Times: 1
+	Query: "catalognumber:510228 institutioncode:USNM" ; Times: 1
+	Query: "Geobates vntype:specimen" ; Times: 1
+	Query: "catalognumber:510884 institutioncode:USNM" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Gallinago imperialis" ; Times: 1
+	Query: "specificepithet:carbonaria genus:cercomacra" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "psophia crepitans" ; Times: 1
+	Query: "andaman chick" ; Times: 2
+	Query: "specificepithet:difficilis genus:Empidonax year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Dicrurus paradiseus Jammu" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:nitidissima genus:chlorochrysa" ; Times: 1
+	Query: "specificepithet:castanea genus:Dendroica stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Zoothera dauma Jammu" ; Times: 1
+	Query: "habia affinis" ; Times: 3
+	Query: "specificepithet:alinae" ; Times: 1
+	Query: "catalognumber:512094 institutioncode:USNM" ; Times: 1
+	Query: "genus:rallus class:aves recordedby:mearns" ; Times: 1
+	Query: "phylloscartes duidae" ; Times: 1
+	Query: "USNM 574556" ; Times: 1
+	Query: "ailuroedus melanocephalus" ; Times: 3
+	Query: "coracina nisoria" ; Times: 1
+	Query: "vntype:specimen specificepithet:Albiventer genus:Tachycineta" ; Times: 1
+	Query: "278942" ; Times: 1
+	Query: "specificepithet:gigas genus:Podilymbus" ; Times: 1
+	Query: "colinus segoviensis" ; Times: 1
+	Query: "genus:rhipidura class:aves (samoa) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailuroedus stonii" ; Times: 5
+	Query: "acatlan puebla" ; Times: 5
+	Query: "country:&#34;Brazil&#34; recordedby:holt" ; Times: 8
+	Query: "amazilia tzacatl Panama Isla" ; Times: 2
+	Query: "locality:wankarem country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:iliaca stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Numenius" ; Times: 2
+	Query: "egg corless" ; Times: 1
+	Query: "turdus campanicola" ; Times: 1
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:ornata genus:poospiza" ; Times: 1
+	Query: "Easter egg" ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatellus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:stricklandii genus:Gallinago" ; Times: 2
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "212301" ; Times: 1
+	Query: "439395" ; Times: 1
+	Query: "sterna dougallii (virginia OR carolina OR jersey)" ; Times: 1
+	Query: "malacocincla krishnarajui" ; Times: 1
+	Query: "catalognumber:510503 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:nivalis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "egg fort resolution mckenzie" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpina genus:Cranioleuca" ; Times: 2
+	Query: "sterna dougallii" ; Times: 1
+	Query: "Aplonis metallica circumscripta" ; Times: 1
+	Query: "turdus croizati" ; Times: 2
+	Query: "Heliangelus Micraster" ; Times: 3
+	Query: "Heliangelus usnm" ; Times: 5
+	Query: "family:Vireonidae stateprovince:&#34;minnesota&#34; preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysops genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "locality:chaun" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanomelas genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Progne modesta" ; Times: 5
+	Query: "specificepithet:imperialis genus:Gallinago" ; Times: 2
+	Query: "macronous kinneari" ; Times: 1
+	Query: "locality:pokhodsk country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:semirufus genus:Atlapetes" ; Times: 1
+	Query: "Acatlan puebla" ; Times: 3
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "Semioptera usnm" ; Times: 1
+	Query: "macropygia hypopercna" ; Times: 1
+	Query: "specificepithet:anais genus:mino" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "specificepithet:acunhae genus:nesospiza" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "287493" ; Times: 3
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "249059" ; Times: 2
+	Query: "specificepithet:cinereicollis genus:basileuterus" ; Times: 1
+	Query: "catalognumber:342300" ; Times: 1
+	Query: "unica unica" ; Times: 1
+	Query: "&#34;Pipra pipra&#34; vntype:specimen country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:violaceus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "USNM 560796" ; Times: 1
+	Query: "Kennerly stateprovince:&#34;New Mexico&#34; institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:154553 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:511373 institutioncode:USNM" ; Times: 1
+	Query: "class:Aves preparations:egg institutioncode:USNM" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "cochoa viridis" ; Times: 2
+	Query: "498316" ; Times: 1
+	Query: "country:&#34;Brazil&#34; recordedby:holt year &gt;= 1922 year &lt;= 1922" ; Times: 3
+	Query: "class:aves stateprovince:&#34;virginia&#34; recordedby:mearns" ; Times: 1
+	Query: "259059" ; Times: 2
+	Query: "specificepithet:atrimaxillaris genus:habia" ; Times: 1
+	Query: "leucopeza" ; Times: 1
+	Query: "216441" ; Times: 1
+	Query: "juninensis" ; Times: 1
+	Query: "catalognumber:511018 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:anomalus class:aves" ; Times: 1
+	Query: "orthotomus concinnus" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "Podiceps taczanowskii" ; Times: 1
+	Query: "catalognumber:511037 institutioncode:USNM" ; Times: 1
+	Query: "Thurber Island" ; Times: 1
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "macropygia elassa" ; Times: 1
+	Query: "Heliangelus Mavors usnm" ; Times: 1
+	Query: "malacocincla baweana" ; Times: 3
+	Query: "locality:chaun country:&#34;Russia&#34;" ; Times: 1
+	Query: "Diomedea exulans skeleton vntype:specimen hassex:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 3
+	Query: "accipiter bicolor" ; Times: 3
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "locality:baranov country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:dorbignyi genus:Asthenes" ; Times: 1
+	Query: "specificepithet:albiloris genus:oriolus" ; Times: 1
+	Query: "Kennerly stateprovince:&#34;texas&#34; institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen genus:pygochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen (vestiaria) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cardonai genus:myioborus" ; Times: 1
+	Query: "specificepithet:wilkinsi genus:nesospiza" ; Times: 2
+	Query: "Phylloscartes eximius" ; Times: 2
+	Query: "Accipiter gundlachi vntype:specimen" ; Times: 1
+	Query: "catalognumber:512105 institutioncode:USNM" ; Times: 1
+	Query: "recordedby:Christie year &gt;= 1891 year &lt;= 1896" ; Times: 1
+	Query: "catalognumber:511297 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:81413 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:fernandezianus genus:anairetes" ; Times: 3
+	Query: "sporophila lineola" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 19
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:palache" ; Times: 2
+	Query: "locality:Corinto" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "egg ligon" ; Times: 1
+	Query: "specificepithet:castanea genus:Dendroica stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "sterna dougallii (Puerto OR Florida) institutioncode:USNM" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 2
+	Query: "malacoptila fusca" ; Times: 6
+	Query: "catalognumber:309473" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "sporophila colombiana" ; Times: 4
+	Query: "recordedby:trostler" ; Times: 1
+	Query: "catalognumber:511795 institutioncode:USNM" ; Times: 1
+	Query: "dicaeum luzoniense" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; recordedby:e. holt collectioncode:birds" ; Times: 1
+	Query: "pachyramphus australis" ; Times: 1
+	Query: "class:Aves recordedby:Hoare year &gt;= 1917 year &lt;= 1917" ; Times: 2
+	Query: "specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "636936 institutioncode:USNM" ; Times: 1
+	Query: "Pterophanes" ; Times: 3
+	Query: "catalognumber:510300 institutioncode:USNM" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "napothera bakeri" ; Times: 1
+	Query: "locality:Diomede country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus" ; Times: 1
+	Query: "USNM 607510" ; Times: 1
+	Query: "287944" ; Times: 1
+	Query: "catalognumber:511293 institutioncode:USNM" ; Times: 1
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "hemithraupis huambina" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris hasmedia:1" ; Times: 1
+	Query: "malacoptila semicincta" ; Times: 2
+	Query: "synallaxis littoralis" ; Times: 2
+	Query: "oxyruncus brooksi" ; Times: 1
+	Query: "Iridosornis reinhardti" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "catalognumber:511305 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:510786 institutioncode:USNM" ; Times: 1
+	Query: "Carpodacus synoicus China" ; Times: 2
+	Query: "specificepithet:lugubris genus:quiscalus" ; Times: 2
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus" ; Times: 1
+	Query: "falco rupicolus" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "116396" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "278439" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "278934" ; Times: 3
+	Query: "Ploceus galbula" ; Times: 4
+	Query: "catalognumber:512060 institutioncode:USNM" ; Times: 1
+	Query: "genus:melichneutes" ; Times: 1
+	Query: "&#34;Pipra pipra&#34; vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:512125 institutioncode:USNM" ; Times: 1
+	Query: "Iole virescens India" ; Times: 1
+	Query: "Saltator institutioncode:USNM" ; Times: 3
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "Micropygia vntype:specimen" ; Times: 1
+	Query: "genus:ornithion country:&#34;guyana&#34;" ; Times: 7
+	Query: "brachypteryx mindorensis" ; Times: 2
+	Query: "genus:hylia institutioncode:USNM" ; Times: 7
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus year &gt;= 1900 year &lt;= 1919" ; Times: 1
+	Query: "rabbit fear creek" ; Times: 1
+	Query: "specificepithet:nemoricola genus:Gallinago" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 18
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "genus:Accipiter institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:167291 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cyornithopsis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 2
+	Query: "county:&#34;san bernardino&#34; recordedby:palmer" ; Times: 1
+	Query: "henicorhina anachoreta" ; Times: 1
+	Query: "Leptodon cayanensis vntype:specimen" ; Times: 1
+	Query: "nelson goldman class:Aves country:&#34;Mexico&#34; institutioncode:USNM" ; Times: 43
+	Query: "Osmaston 1907-07" ; Times: 1
+	Query: "vntype:specimen genus:Icterus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:512151 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:thilius genus:agelaius" ; Times: 1
+	Query: "441655" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "aenobarbus" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "megarynchus caniceps" ; Times: 1
+	Query: "catalognumber:511279 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:199005 institutioncode:USNM" ; Times: 1
+	Query: "USNM Birds 348152" ; Times: 1
+	Query: "catalognumber:7761 institutioncode:USNM" ; Times: 1
+	Query: "USNM 449721" ; Times: 1
+	Query: "vntype:specimen genus:cyanocitta stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aegithalos niveogularis skin" ; Times: 1
+	Query: "Halcyon coromanda" ; Times: 1
+	Query: "passer hispaniolensis" ; Times: 1
+	Query: "calandrella dukhunensis" ; Times: 1
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta" ; Times: 2
+	Query: "Heliangelus mavors usnm" ; Times: 3
+	Query: "Semioptera" ; Times: 3
+	Query: "locality:nijni kolymsk country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "Kennerly stateprovince:&#34;Sonora&#34; institutioncode:USNM" ; Times: 1
+	Query: "sarg" ; Times: 1
+	Query: "recordedby:Hoare year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Psittirostra psittacea vntype:specimen" ; Times: 1
+	Query: "B12108" ; Times: 1
+	Query: "usnm 1282" ; Times: 1
+	Query: "specificepithet:fusca genus:Melanitta country:&#34;Russia&#34;" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "Heliangelus clarisse usnm" ; Times: 5
+	Query: "vntype:specimen specificepithet:anomalus genus:Eleothreptus class:aves" ; Times: 2
+	Query: "Anthus nilghiriensis" ; Times: 1
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "Heliangelus Spencei usnm" ; Times: 1
+	Query: "brachypteryx malindangensis" ; Times: 3
+	Query: "specificepithet:azureocapilla genus:myiagra" ; Times: 1
+	Query: "249095" ; Times: 1
+	Query: "skeleton vntype:specimen genus:xenicus" ; Times: 1
+	Query: "genus:pseudocalyptomena" ; Times: 1
+	Query: "Pharomachrus auriceps" ; Times: 2
+	Query: "catalognumber:512119 institutioncode:USNM" ; Times: 1
+	Query: "sicalis mexicana" ; Times: 1
+	Query: "Dicrurus paradiseus Kashmir" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta" ; Times: 1
+	Query: "Guadalupe Island 1896" ; Times: 1
+	Query: "genus:Lophospingus" ; Times: 2
+	Query: "egg mississippi" ; Times: 2
+	Query: "vntype:specimen genus:xenicus" ; Times: 1
+	Query: "specificepithet:cyornithopsis genus:sheppardia" ; Times: 1
+	Query: "specificepithet:nicaraguensis genus:quiscalus" ; Times: 2
+	Query: "295059" ; Times: 1
+	Query: "Arroyo Seco class:Aves locality:Pasadena county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Circus institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:321846 institutioncode:USNM" ; Times: 2
+	Query: "ninox superciliaris" ; Times: 1
+	Query: "632202 institutioncode:USNM" ; Times: 1
+	Query: "&#34;pipreola riefferii riefferii&#34;" ; Times: 2
+	Query: "USNM 7761" ; Times: 1
+	Query: "catalognumber:199004 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris hasmedia:1" ; Times: 1
+	Query: "orochelidon" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "boars" ; Times: 2
+	Query: "Spizella passerina egg fort resolution mckenzie" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "catalognumber:510285 institutioncode:USNM" ; Times: 1
+	Query: "279843" ; Times: 1
+	Query: "skeleton vntype:specimen genus:peltops" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 3
+	Query: "Leucosticte dawsoni" ; Times: 1
+	Query: "specificepithet:bocagei genus:cossypha" ; Times: 1
+	Query: "specificepithet:superciliaris genus:drymodes" ; Times: 8
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "hypermelaena" ; Times: 1
+	Query: "recordedby:palache" ; Times: 1
+	Query: "harpactes wardi" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 5
+	Query: "634980 institutioncode:USNM" ; Times: 1
+	Query: "caurina specificepithet:occidentalis genus:strix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "arachnothera atita" ; Times: 1
+	Query: "Calidris alba Jammu" ; Times: 1
+	Query: "falkner" ; Times: 4
+	Query: "gallinago undulata" ; Times: 2
+	Query: "genus:Xenus preparations:skeleton" ; Times: 2
+	Query: "specificepithet:vitiensis genus:clytorhynchus" ; Times: 1
+	Query: "Diglossa Honduras" ; Times: 3
+	Query: "pipreola riefferii riefferii" ; Times: 1
+	Query: "391084" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "specificepithet:gunningi genus:sheppardia" ; Times: 3
+	Query: "specificepithet:atropileus genus:hemispingus" ; Times: 3
+	Query: "ober versicolor" ; Times: 1
+	Query: "lophozosterops superciliaris" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+	Query: "278493" ; Times: 1
+	Query: "buthraupis aureodorsalis" ; Times: 4
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "nephelornis" ; Times: 1
+	Query: "specificepithet:nigrescens genus:cercomacra" ; Times: 1
+	Query: "Falco severus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ball" ; Times: 1
+	Query: "genus:Phodilus preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macgregoria pulchra" ; Times: 1
+	Query: "catalognumber:236478 institutioncode:USNM" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ball year &gt;= 1916 year &lt;= 1916 institutioncode:USNM" ; Times: 2
+	Query: "246255" ; Times: 1
+	Query: "specificepithet:parodii genus:hemispingus" ; Times: 1
+	Query: "Heliangelus Clarisse usnm" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 6
+	Query: "caprimulgus decussatus" ; Times: 11
+	Query: "vntype:specimen genus:atticora class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "county:&#34;mexico&#34;" ; Times: 1
+	Query: "myiopsitta institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "Iole virescens" ; Times: 3
+	Query: "ducula langhornei" ; Times: 2
+	Query: "pseudocolopteryx flaviventris" ; Times: 1
+	Query: "Progne elegans" ; Times: 2
+	Query: "catalognumber:510029 institutioncode:USNM" ; Times: 1
+	Query: "melanodera melanodera" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "oceanodroma cheimomnestes" ; Times: 1
+	Query: "class:Aves recordedby:Hoare" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus year &gt;= 1908 year &lt;= 1919" ; Times: 1
+	Query: "locality:caparao" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "Farallon 1900" ; Times: 1
+	Query: "recordedby:shepherd year &gt;= 1800 year &lt;= 1900 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:rufivertex genus:iridosornis" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "catalognumber:511929 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:cruentus genus:oriolus" ; Times: 1
+	Query: "catalognumber:321845 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171844" ; Times: 1
+	Query: "melanodera xanthogramma" ; Times: 1
+	Query: "Aburria jacutinga" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "andaman nest" ; Times: 1
+	Query: "anthocephala berlepschi" ; Times: 2
+	Query: "Micropygia schomburgkii vntype:specimen" ; Times: 1
+	Query: "catalognumber:511565 institutioncode:USNM" ; Times: 1
+	Query: "cucullata versicolor" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "249088" ; Times: 1
+	Query: "egg spizella minnesota" ; Times: 1
+	Query: "specificepithet:torquata genus:poospiza" ; Times: 1
+	Query: "specificepithet:rubidiventris genus:parus" ; Times: 1
+	Query: "ara macao" ; Times: 35
+	Query: "country:&#34;Mexico&#34; recordedby:Lamb year &gt;= 1927 year &lt;= 1927 month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 4
+	Query: "corvus splendens" ; Times: 2
+	Query: "egg alaska call" ; Times: 2
+	Query: "specificepithet:albofrenatus genus:Atlapetes" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171843" ; Times: 1
+	Query: "Aplonis circumscripta" ; Times: 1
+	Query: "Osmaston 1907" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 846 download events in this period)
+Total number of records downloaded: 40205
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Norway ; Times: 14
+	Country: Philippines ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 31
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 8
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-20 ; Times: 12
+	Date: 2018-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "locality:Koliutschin country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "Wolverine" ; Times: 3
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "locality:Diomede country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "recordedby:Koren" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "zetek" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "acatlan puebla" ; Times: 1
+	Query: "specificepithet:gigas genus:Podilymbus" ; Times: 2
+	Query: "pithecophaga jefferyi" ; Times: 2
+	Query: "A. robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:brown year &gt;= 1906 year &lt;= 1906 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "locality:chaun country:&#34;Russia&#34;" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "locality:kolyma" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves preparations:egg institutioncode:USNM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "locality:kolymsk" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:anomalus genus:Eleothreptus class:aves" ; Times: 1
+	Query: "carlsbad cavern" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "locality:baranov country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "locality:nijni kolymsk country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus year &gt;= 1908 year &lt;= 1919" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "locality:sucharina country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "locality:wankarem country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+	Query: "Progne elegans" ; Times: 1
+	Query: "specificepithet:iliaca stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+
+
+End of report.
