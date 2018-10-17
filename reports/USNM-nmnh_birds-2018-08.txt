@@ -1,0 +1,923 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1346
+Number of records retrieved in searches: 17338
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 126
+	Country: Canada ; Times: 7
+	Country: Italy ; Times: 8
+	Country: Unknown ; Times: 25
+	Country: Panama ; Times: 4
+	Country: France ; Times: 27
+	Country: Peru ; Times: 65
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 13
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Germany ; Times: 48
+	Country: Belgium ; Times: 1
+	Country: Netherlands ; Times: 35
+	Country: Denmark ; Times: 7
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 811
+	Country: New Zealand ; Times: 9
+	Country: Russia ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 5
+	Country: Mexico ; Times: 53
+	Country: India ; Times: 27
+	Country: United Kingdom ; Times: 6
+	Country: Austria ; Times: 22
+	Country: Colombia ; Times: 26
+	Country: Cyprus ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 21
+	Date: 2018-08-31 ; Times: 21
+	Date: 2018-08-18 ; Times: 22
+	Date: 2018-08-19 ; Times: 14
+	Date: 2018-08-16 ; Times: 30
+	Date: 2018-08-23 ; Times: 19
+	Date: 2018-08-14 ; Times: 23
+	Date: 2018-08-15 ; Times: 30
+	Date: 2018-08-12 ; Times: 20
+	Date: 2018-08-13 ; Times: 48
+	Date: 2018-08-10 ; Times: 240
+	Date: 2018-08-11 ; Times: 30
+	Date: 2018-08-02 ; Times: 66
+	Date: 2018-08-08 ; Times: 39
+	Date: 2018-08-03 ; Times: 32
+	Date: 2018-08-17 ; Times: 18
+	Date: 2018-08-27 ; Times: 48
+	Date: 2018-08-26 ; Times: 8
+	Date: 2018-08-25 ; Times: 9
+	Date: 2018-08-24 ; Times: 26
+	Date: 2018-08-09 ; Times: 110
+	Date: 2018-08-22 ; Times: 40
+	Date: 2018-08-21 ; Times: 23
+	Date: 2018-08-20 ; Times: 86
+	Date: 2018-08-05 ; Times: 43
+	Date: 2018-08-04 ; Times: 22
+	Date: 2018-08-07 ; Times: 47
+	Date: 2018-08-06 ; Times: 91
+	Date: 2018-08-01 ; Times: 76
+	Date: 2018-08-29 ; Times: 25
+	Date: 2018-08-28 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Luscinia svecica Ladakh" ; Times: 1
+	Query: "pipreola riefferii" ; Times: 3
+	Query: "vntype:specimen genus:Corythaeola" ; Times: 3
+	Query: "49831" ; Times: 1
+	Query: "B41612" ; Times: 1
+	Query: "Hinche" ; Times: 1
+	Query: "lepidocolaptes albolineatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:guatemalae genus:otus" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivacea genus:stactolaema year &gt;= 1875 year &lt;= 2005" ; Times: 2
+	Query: "vntype:specimen specificepithet:olivaceus genus:Vireo class:Aves country:&#34;Brazil&#34; institutioncode:USNM" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "francolinus (skeleton)" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:kellers" ; Times: 2
+	Query: "genus:zimmerius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "Ara macao" ; Times: 5
+	Query: "ceyx aolae" ; Times: 1
+	Query: "class:AVES locality:amanzimtoti country:&#34;South Africa&#34;" ; Times: 1
+	Query: "catalognumber:554176" ; Times: 1
+	Query: "Chloroptera aves" ; Times: 3
+	Query: "Rallus aquaticus hibernans" ; Times: 1
+	Query: "arremonops sinaloae" ; Times: 1
+	Query: "pipreola riefferii occidentalis" ; Times: 7
+	Query: "catalognumber:553914" ; Times: 1
+	Query: "segoviensis vntype:specimen" ; Times: 1
+	Query: "catalognumber:165573 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago year &gt;= 1970" ; Times: 1
+	Query: "Mirafra cantillans India" ; Times: 3
+	Query: "usnm 546030" ; Times: 2
+	Query: "Phaethornis superciliosus muelleri" ; Times: 1
+	Query: "stateprovince:&#34;rakhine&#34; institutioncode:USNM" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 8
+	Query: "88945" ; Times: 1
+	Query: "Alcippe ludlowi" ; Times: 2
+	Query: "specificepithet:prasina genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "Mionectes oleagineus stateprovince:&#34;Cocle&#34;" ; Times: 1
+	Query: "Aphelocoma insularis 1875" ; Times: 1
+	Query: "345861" ; Times: 1
+	Query: "specificepithet:immutabilis class:aves year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "tarkington genus:Campephilus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:AVES locality:bluff country:&#34;South Africa&#34;" ; Times: 2
+	Query: "specificepithet:brevirostris class:aves stateprovince:&#34;alaska&#34; year &gt;= 1946 year &lt;= 1946" ; Times: 2
+	Query: "herpsilochmus exiguus" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:otus" ; Times: 1
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Congo&#34;" ; Times: 1
+	Query: "troglodytes kurilensis" ; Times: 1
+	Query: "locality:el morro stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "178185" ; Times: 1
+	Query: "usnm 584510" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; year &gt;= 1938 year &lt;= 1938 institutioncode:USNM" ; Times: 1
+	Query: "milvus migrans kashmir" ; Times: 1
+	Query: "catalognumber:509935 institutioncode:USNM" ; Times: 2
+	Query: "Nativitatis Christmas island" ; Times: 2
+	Query: "USNM 225436" ; Times: 2
+	Query: "catalognumber:554269" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 2
+	Query: "vntype:specimen specificepithet:chirindensis genus:apalis year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Poicephalus robustus" ; Times: 1
+	Query: "South Sentinel" ; Times: 1
+	Query: "genus:Pluvianellus" ; Times: 2
+	Query: "colinus virginianus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "coeligena violifer" ; Times: 4
+	Query: "specificepithet:aureola genus:rhipidura class:aves institutioncode:USNM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:krog year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "Piaya cayana boliviana" ; Times: 1
+	Query: "278416" ; Times: 1
+	Query: "manacus vitellinus" ; Times: 1
+	Query: "class:aves country:&#34;kyrgyzstan&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:poicilotis genus:HYlophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aegithalos niveogularis" ; Times: 2
+	Query: "613053 centropus" ; Times: 2
+	Query: "Aphelocoma insularis 1909" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:h. a. kline" ; Times: 3
+	Query: "sicalis olivascens" ; Times: 7
+	Query: "genus:Accipiter recordedby:Townsend" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "catalognumber:217190 institutioncode:USNM" ; Times: 2
+	Query: "Nicobar egg" ; Times: 2
+	Query: "rollandia rolland rolland" ; Times: 4
+	Query: "molothrus bonariensis cabanisii" ; Times: 1
+	Query: "genus:sterna catalognumber:162589" ; Times: 2
+	Query: "catalognumber:553920" ; Times: 1
+	Query: "B24105" ; Times: 1
+	Query: "egg clarke great slave lake" ; Times: 1
+	Query: "356675" ; Times: 2
+	Query: "vntype:specimen genus:Vireolanius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "colinus virginianus country:&#34;jamaica&#34;" ; Times: 2
+	Query: "class:AVES locality:mt edgecombe country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:velata genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:heteromirafra year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "genus:rhipidura country:&#34;vanuatu&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Psaltriparus year &gt;= 1903 year &lt;= 1903" ; Times: 2
+	Query: "class:aves locality:ngoye" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "class:AVES country:&#34;South Africa&#34; recordedby:H. Millar" ; Times: 1
+	Query: "catalognumber:562941 institutioncode:USNM" ; Times: 1
+	Query: "USNM-303528" ; Times: 1
+	Query: "USNM-303529" ; Times: 1
+	Query: "Poicephalus sudan" ; Times: 4
+	Query: "HARPACTES WARDI" ; Times: 1
+	Query: "specificepithet:adansonii genus:excalfactoria" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "curruca Kashmir" ; Times: 1
+	Query: "vntype:specimen specificepithet:myoptilus genus:schoutedenapus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "catalognumber:554282" ; Times: 1
+	Query: "genus:zimmerius country:&#34;guatemala&#34;" ; Times: 1
+	Query: "B39306" ; Times: 1
+	Query: "167625 institutioncode:USNM" ; Times: 1
+	Query: "pycnonotus simplex" ; Times: 3
+	Query: "gallirallus australis" ; Times: 1
+	Query: "genus:Asio recordedby:Townsend" ; Times: 1
+	Query: "catalognumber:438924 institutioncode:USNM" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Saltator coerulescens brevicaudus" ; Times: 1
+	Query: "vntype:specimen specificepithet:natalensis genus:caprimulgus year &gt;= 1855 year &lt;= 2005" ; Times: 3
+	Query: "82879" ; Times: 1
+	Query: "francolinus lathami (skeleton)" ; Times: 1
+	Query: "catalognumber:553921" ; Times: 1
+	Query: "genus:Buteo recordedby:Townsend" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "specificepithet:merula genus:turdus country:&#34;china&#34;" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:Kellers" ; Times: 1
+	Query: "304519" ; Times: 1
+	Query: "recordedby:balmer" ; Times: 1
+	Query: "Ekmani vntype:specimen" ; Times: 7
+	Query: "lepidocolaptes layardi" ; Times: 3
+	Query: "Aphelocoma insularis 1889" ; Times: 1
+	Query: "USNM 225525" ; Times: 2
+	Query: "genus:passer class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "catalognumber:292979 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:554319" ; Times: 1
+	Query: "specificepithet:euteles genus:Trichoglossus" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:otus" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "sicalis luteocephala" ; Times: 1
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen Leucippus fallax" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; collectioncode:birds institutioncode:USNM" ; Times: 8
+	Query: "doryfera johannae" ; Times: 2
+	Query: "ara ararauna" ; Times: 1
+	Query: "genus:carduelis country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen genus:Pogoniulus preparations:skeleton" ; Times: 1
+	Query: "genus:diomedea class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "trogon duidae" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus country:&#34;Canada&#34;" ; Times: 2
+	Query: "specificepithet:principalis genus:Campephilus year &gt;= 1904" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sicalis mendozae" ; Times: 2
+	Query: "atlapetes suttoni" ; Times: 1
+	Query: "Eudyptula albosignata" ; Times: 1
+	Query: "catalognumber:553913" ; Times: 1
+	Query: "zoonavena" ; Times: 2
+	Query: "genus:coccyzus stateprovince:&#34;nebraska&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:muscicapinus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:robertsi genus:prinia year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "USNM 288435" ; Times: 2
+	Query: "vntype:specimen specificepithet:olivascens genus:Sicalis" ; Times: 1
+	Query: "catalognumber:554233" ; Times: 1
+	Query: "zoothera interpres" ; Times: 1
+	Query: "393363" ; Times: 1
+	Query: "Newberry 1855" ; Times: 1
+	Query: "class:aves (mussau) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma insularis 1948" ; Times: 1
+	Query: "vntype:specimen specificepithet:sclateri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves locality:paul stateprovince:&#34;alaska&#34; year &gt;= 1919 year &lt;= 1919" ; Times: 1
+	Query: "USNM 225388" ; Times: 2
+	Query: "vntype:specimen locality:stella bush year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "class:Aves locality:port natal" ; Times: 1
+	Query: "Geronticus eremita" ; Times: 1
+	Query: "vntype:specimen specificepithet:vetula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "usnm 560659" ; Times: 2
+	Query: "Ciccaba huhula" ; Times: 1
+	Query: "genus:Troglodytes locality:St. Paul Island stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "recordedby:kellers" ; Times: 1
+	Query: "genus:Plegadis institutioncode:USNM" ; Times: 3
+	Query: "vntype:specimen specificepithet:irupero class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "41411" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "specificepithet:biarmicus genus:falco country:&#34;italy&#34;" ; Times: 6
+	Query: "catalognumber:554277" ; Times: 1
+	Query: "colinus virginianus country:&#34;haiti&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Colinus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "vimba vimba" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:durban country:&#34;South Africa&#34;" ; Times: 6
+	Query: "347536" ; Times: 1
+	Query: "catalognumber:467692" ; Times: 2
+	Query: "catalognumber:467693" ; Times: 1
+	Query: "catalognumber:467690" ; Times: 2
+	Query: "catalognumber:467691" ; Times: 3
+	Query: "hemispingus rufosuperciliaris" ; Times: 21
+	Query: "catalognumber:467694" ; Times: 3
+	Query: "Raw" ; Times: 1
+	Query: "catalognumber:553607" ; Times: 1
+	Query: "catalognumber:553608" ; Times: 1
+	Query: "bonobo" ; Times: 1
+	Query: "vntype:specimen specificepithet:shelleyi genus:nectarinia year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:pitta year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "CORVUS CULMINATUS" ; Times: 1
+	Query: "244493" ; Times: 1
+	Query: "Loxops chloris" ; Times: 2
+	Query: "B35444" ; Times: 2
+	Query: "Motacilla alba LAdakh" ; Times: 1
+	Query: "249468" ; Times: 1
+	Query: "genus:saxicola country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "genus:columba class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "389772" ; Times: 1
+	Query: "173164" ; Times: 3
+	Query: "catalognumber:553856" ; Times: 1
+	Query: "vntype:specimen specificepithet:souzae genus:lanius year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:anthus year &gt;= 1875 year &lt;= 1995" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; recordedby:Bailey year &gt;= 1938 year &lt;= 1938 institutioncode:USNM" ; Times: 1
+	Query: "Lampornis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "632521 USNM" ; Times: 1
+	Query: "180379" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:tucanus genus:Ramphastos" ; Times: 1
+	Query: "NESOSPINGUS" ; Times: 2
+	Query: "catalognumber:98641 institutioncode:USNM" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "Pterodroma sandwichensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:monticola class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "class:aves recordedby:handley" ; Times: 2
+	Query: "genus:coccothraustes country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:211269" ; Times: 1
+	Query: "Kashmir Falco" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:kline" ; Times: 2
+	Query: "specificepithet:Spencei genus:Heliangelus" ; Times: 2
+	Query: "catalognumber:290545" ; Times: 1
+	Query: "USNM 225452" ; Times: 2
+	Query: "genus:pyrrhula country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "USNM 225450" ; Times: 2
+	Query: "ARA ARARAUNA" ; Times: 6
+	Query: "genus:Setophaga class:aves stateprovince:&#34;alaska&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "B19279" ; Times: 1
+	Query: "crax alberti" ; Times: 2
+	Query: "usnm 584509" ; Times: 1
+	Query: "216116" ; Times: 1
+	Query: "genus:stercorarius class:aves year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "catalognumber:232950 institutioncode:USNM" ; Times: 2
+	Query: "Poicephalus juvenile" ; Times: 12
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "thamnophilus paraensis" ; Times: 1
+	Query: "catalognumber:553872" ; Times: 1
+	Query: "catalognumber:554273" ; Times: 1
+	Query: "cercomacra notata" ; Times: 1
+	Query: "Pithecophaga jefferyi" ; Times: 7
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "vntype:specimen specificepithet:simplex genus:Pycnonotus year &gt;= 1930 year &lt;= 1990" ; Times: 1
+	Query: "Plectrophenax nivalis insulae" ; Times: 1
+	Query: "garrulax semitorquatus" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "414111" ; Times: 1
+	Query: "vntype:specimen specificepithet:fringillaris genus:calandrella year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gouldiae year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "usnm 540711" ; Times: 2
+	Query: "vntype:specimen Leucippus fallax" ; Times: 2
+	Query: "class:AVES locality:kloof" ; Times: 3
+	Query: "class:aves locality:umlaas" ; Times: 1
+	Query: "pipreola riefferii chachapoyas" ; Times: 3
+	Query: "specificepithet:riefferii genus:Pipreola stateprovince:&#34;Huánuco&#34;" ; Times: 1
+	Query: "pogoniulus chrysoconus" ; Times: 1
+	Query: "specificepithet:immutabilis genus:diomedea class:aves stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "catalognumber:117386" ; Times: 1
+	Query: "catalognumber:553968" ; Times: 1
+	Query: "genus:emberiza country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "genus:phoenicurus class:aves country:&#34;china&#34; recordedby:wulsin institutioncode:USNM" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "Sturnella loyca" ; Times: 2
+	Query: "319276" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius institutioncode:USNM" ; Times: 1
+	Query: "coracina everetti" ; Times: 1
+	Query: "stateprovince:&#34;new britain&#34; country:&#34;papua new guinea&#34; collectioncode:birds" ; Times: 1
+	Query: "USNM 538583" ; Times: 1
+	Query: "cranioleuca dissita" ; Times: 1
+	Query: "Eudocimus ruber venezuela" ; Times: 2
+	Query: "CORVUS JAMMU" ; Times: 1
+	Query: "genus:coccothraustes class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "specificepithet:darnaudii genus:Trachyphonus" ; Times: 1
+	Query: "usnm 521496" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciolatus genus:circaetus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "genus:pinicola class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Leucippus fallax" ; Times: 6
+	Query: "Gallirallus striatus" ; Times: 1
+	Query: "Lanius Kashmir" ; Times: 2
+	Query: "Luscinia svecica Kashmir" ; Times: 1
+	Query: "Mellisuga helenae" ; Times: 2
+	Query: "catalognumber:553800" ; Times: 1
+	Query: "catalognumber:554295" ; Times: 1
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Birds" ; Times: 1
+	Query: "pipreola riefferii melanolaema" ; Times: 3
+	Query: "leucippus fallax" ; Times: 3
+	Query: "genus:Campephilus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Caprimulgus hazarae India" ; Times: 1
+	Query: "specificepithet:ciris genus:passerina class:aves stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Carpodacus erythrinus Kashmir" ; Times: 1
+	Query: "class:AVES country:&#34;South Africa&#34; year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "vntype:specimen genus:Muscipipra class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Branta recordedby:Townsend" ; Times: 4
+	Query: "specificepithet:rufigenis genus:tangara" ; Times: 1
+	Query: "USNM-288459" ; Times: 3
+	Query: "vntype:specimen specificepithet:guttata genus:zoothera year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "catalognumber:553931" ; Times: 1
+	Query: "catalognumber:553930" ; Times: 1
+	Query: "Goura cristata" ; Times: 3
+	Query: "genus:rhipidura country:&#34;new zealand&#34;" ; Times: 1
+	Query: "Xenospingus" ; Times: 2
+	Query: "thamnophilus oecotonophilus" ; Times: 1
+	Query: "genus:Troglodytes locality:St. George Island stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "45758 class:Aves" ; Times: 1
+	Query: "specificepithet:ciris genus:passerina class:aves stateprovince:&#34;kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves locality:paul stateprovince:&#34;alaska&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "sporophila colombiana" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 215
+	Query: "class:AVES locality:pinetown" ; Times: 1
+	Query: "USNM 29428" ; Times: 1
+	Query: "Donacobius atricapilla" ; Times: 2
+	Query: "Motacilla citreola Kashmir" ; Times: 1
+	Query: "vntype:specimen specificepithet:roboratus genus:otus" ; Times: 1
+	Query: "USNM 538863" ; Times: 1
+	Query: "henicophaps" ; Times: 1
+	Query: "specificepithet:minimus genus:Catharus year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "ceyx uropygialis" ; Times: 1
+	Query: "USNM 160630" ; Times: 2
+	Query: "class:Aves locality:Nilgiris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:livingstonei genus:erythrocercus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivaceus genus:vireo class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "USNM 288453" ; Times: 2
+	Query: "USNM 288452" ; Times: 2
+	Query: "sterna aleutica" ; Times: 3
+	Query: "johannae" ; Times: 3
+	Query: "vntype:specimen specificepithet:cinerea genus:xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:217194 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:homochroa genus:Catamenia institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:albolineatus genus:lepidocolaptes" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "genus:rhipidura country:&#34;new caledonia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 225469" ; Times: 1
+	Query: "USNM 225466" ; Times: 2
+	Query: "167625" ; Times: 1
+	Query: "genus:diomedea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "USNM 225547" ; Times: 2
+	Query: "USNM 225548" ; Times: 2
+	Query: "Pycnonotus xanthopygos" ; Times: 1
+	Query: "catalognumber:553957" ; Times: 1
+	Query: "catalognumber:554244" ; Times: 1
+	Query: "melanerpes leei" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Tauraco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "coracina culminata" ; Times: 1
+	Query: "specificepithet:grammacus genus:Chondestes year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "Psittacula Nicobar" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; collectioncode:birds institutioncode:USNM" ; Times: 1
+	Query: "Cinclus cinclus Ladakh" ; Times: 1
+	Query: "catalognumber:102593" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "vntype:specimen specificepithet:olivaceus genus:Vireo class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:AVES country:&#34;South Africa&#34; recordedby:Wilson" ; Times: 1
+	Query: "class:AVES locality:mt Edgecombe" ; Times: 1
+	Query: "passerina amoena x passerina cyanea" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "catalognumber:554326" ; Times: 1
+	Query: "USNM-494871" ; Times: 1
+	Query: "catalognumber:554324" ; Times: 1
+	Query: "catalognumber:290543" ; Times: 1
+	Query: "128101" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:otus" ; Times: 1
+	Query: "USNM 560805" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruddi genus:heteromirafra year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "sicalis olivascens mendozae" ; Times: 1
+	Query: "genus:carpodacus country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:553466" ; Times: 1
+	Query: "class:AVES locality:dondo" ; Times: 2
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34; institutioncode:USNM" ; Times: 4
+	Query: "genus:zimmerius continent:north america" ; Times: 3
+	Query: "catalognumber:98541 institutioncode:USNM" ; Times: 1
+	Query: "class:AVES locality:ndumu" ; Times: 1
+	Query: "vntype:specimen specificepithet:poicilotis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Psaltriparus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "ridgwayia pinicola veracruz" ; Times: 1
+	Query: "genus:loxia class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "553460" ; Times: 1
+	Query: "specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:232949 institutioncode:USNM" ; Times: 2
+	Query: "henicorhina anachoreta" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 2
+	Query: "class:AVES locality:umbilo country:&#34;South Africa&#34;" ; Times: 1
+	Query: "class:aves locality:eshowe" ; Times: 1
+	Query: "catalognumber:554195" ; Times: 1
+	Query: "catalognumber:554191" ; Times: 2
+	Query: "class:aves locality:paul stateprovince:&#34;alaska&#34; catalognumber:151788 institutioncode:USNM" ; Times: 1
+	Query: "Mionectes oleagineus stateprovince:&#34;Veraguas&#34;" ; Times: 1
+	Query: "tanysiptera meyeri" ; Times: 1
+	Query: "catalognumber:553383" ; Times: 1
+	Query: "vntype:specimen specificepithet:irupero genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "USNM 590030" ; Times: 1
+	Query: "genus:Parus recordedby:Townsend" ; Times: 3
+	Query: "oriturus superciliosus stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "Goura sclaterii" ; Times: 2
+	Query: "Metallura aeneocauda" ; Times: 1
+	Query: "numenius tenuirostris" ; Times: 28
+	Query: "bambusicola sonorivox" ; Times: 1
+	Query: "Saltator orenocensis" ; Times: 1
+	Query: "Aphelocoma insularis 1922" ; Times: 1
+	Query: "specificepithet:irupero genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:carpodacus class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:335508" ; Times: 1
+	Query: "automolus exsertus" ; Times: 2
+	Query: "amazilia lichtensteini" ; Times: 2
+	Query: "Diglossa baritula Honduras" ; Times: 4
+	Query: "genus:Anthus recordedby:Townsend" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 14
+	Query: "catalognumber:335507" ; Times: 1
+	Query: "genus:dicrurus country:&#34;solomon&#34;" ; Times: 2
+	Query: "Garrulax milnei" ; Times: 1
+	Query: "class:aves (chuuk)" ; Times: 1
+	Query: "specificepithet:malaitae genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:pyrrhula class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 1
+	Query: "troglodytes pullus" ; Times: 1
+	Query: "genus:Falco recordedby:Townsend" ; Times: 7
+	Query: "158365" ; Times: 1
+	Query: "vntype:specimen specificepithet:thoracicus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "drymodes superciliaris" ; Times: 3
+	Query: "B31371" ; Times: 2
+	Query: "class:AVES locality:berea" ; Times: 1
+	Query: "usnm 265004" ; Times: 2
+	Query: "peru specificepithet:derbianus genus:aulacorhynchus class:aves" ; Times: 1
+	Query: "Actitis macularia venezuela" ; Times: 1
+	Query: "lybius congicus" ; Times: 1
+	Query: "specificepithet:irupero class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sterna dougallii institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:165579 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:lapponica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "395954" ; Times: 1
+	Query: "USNM 225486" ; Times: 2
+	Query: "Scytalopus magellanicus" ; Times: 3
+	Query: "euops" ; Times: 2
+	Query: "553440" ; Times: 1
+	Query: "Motacilla flava KAshmir" ; Times: 1
+	Query: "specificepithet:longicaudus genus:stercorarius class:aves year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "vntype:specimen locality:dondo year &gt;= 1855 year &lt;= 2005" ; Times: 2
+	Query: "92685" ; Times: 2
+	Query: "Mergus octosetaceus" ; Times: 4
+	Query: "aye-aye" ; Times: 1
+	Query: "genus:saxicola class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "genus:Troglodytes recordedby:Townsend" ; Times: 3
+	Query: "specificepithet:semicinereus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "147781" ; Times: 1
+	Query: "Aphelocoma insularis 1866" ; Times: 1
+	Query: "scolopax saturata" ; Times: 1
+	Query: "388710" ; Times: 1
+	Query: "nativitatis christmas island" ; Times: 1
+	Query: "vntype:specimen specificepithet:semicinereus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "waigiuensis" ; Times: 1
+	Query: "heteralocha" ; Times: 2
+	Query: "class:aves locality:mtunzini" ; Times: 3
+	Query: "Melanerpes pygmaeus" ; Times: 2
+	Query: "vntype:specimen specificepithet:delegorguei genus:Columba year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "specificepithet:immer class:aves locality:aleknagik stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "rhipidura kubaryi" ; Times: 1
+	Query: "genus:Phaethon recordedby:Townsend" ; Times: 1
+	Query: "locality:inscription" ; Times: 1
+	Query: "specificepithet:hypoxanthus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "turdus mandarinus" ; Times: 1
+	Query: "egg specificepithet:krameri genus:Psittacula" ; Times: 1
+	Query: "111755" ; Times: 1
+	Query: "USNM-303533" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "genus:Plegadis year &gt;= 1990 year &lt;= 2018 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:coronatus genus:stephanoaetus class:AVES country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Psittacula andaman" ; Times: 2
+	Query: "genus:Gallinago recordedby:Townsend" ; Times: 2
+	Query: "specificepithet:virescens genus:Empidonax year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "Aphelocoma insularis Pitelka" ; Times: 1
+	Query: "catalognumber:553801" ; Times: 1
+	Query: "catalognumber:553538" ; Times: 1
+	Query: "catalognumber:553537" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 1
+	Query: "USNM 322681" ; Times: 1
+	Query: "specificepithet:ornatus genus:Calcarius stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:simplex genus:pycnonotus year &gt;= 1930" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigenis genus:tangara" ; Times: 1
+	Query: "USNM-288438" ; Times: 1
+	Query: "genus:Campephilus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:monticola country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "collocalia dodgei" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;kwazulu-natal&#34; recordedby:clancey" ; Times: 1
+	Query: "USNM-128800" ; Times: 2
+	Query: "USNM-128801" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 4
+	Query: "catalognumber:326403 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:hypoxanthus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:micropsitta class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "genus:Pluvialis recordedby:Townsend" ; Times: 2
+	Query: "genus:Rhodonessa" ; Times: 1
+	Query: "porphyrio pulverulentus" ; Times: 2
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898 startdayofyear &gt;= 174 enddayofyear &gt;= 174" ; Times: 1
+	Query: "genus:rhipidura country:&#34;new zealand&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "melanerpes subfusculus" ; Times: 3
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:clairmont" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "catalognumber:553902" ; Times: 2
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Uganda&#34;" ; Times: 2
+	Query: "specificepithet:ruficapilla recordedby:Townsend" ; Times: 1
+	Query: "usnm 546023" ; Times: 2
+	Query: "specificepithet:flammeus genus:Asio family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "buteo japonicus" ; Times: 1
+	Query: "genus:ardea class:aves country:&#34;china&#34; recordedby:wulsin institutioncode:USNM" ; Times: 1
+	Query: "class:AVES recordedby:bell Marley" ; Times: 4
+	Query: "genus:Cypseloides institutioncode:USNM" ; Times: 3
+	Query: "vntype:specimen specificepithet:ruddi genus:apalis year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "569415 USNM" ; Times: 1
+	Query: "arremonops inexpectatus" ; Times: 2
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "vntype:specimen genus:Colinus country:&#34;Haiti&#34;" ; Times: 1
+	Query: "specificepithet:immer class:aves locality:tolugak stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Gonave 1927" ; Times: 2
+	Query: "catalognumber:297723 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:trivirgatus genus:phylloscopus year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:smithornis year &gt;= 1875 year &lt;= 2005" ; Times: 3
+	Query: "genus:Pipilo recordedby:Townsend" ; Times: 2
+	Query: "Catamenia homochroa" ; Times: 1
+	Query: "353929" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "lophostrix wedeli" ; Times: 1
+	Query: "specificepithet:phaeopus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "195267" ; Times: 1
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Goura victoria" ; Times: 11
+	Query: "specificepithet:gnoma genus:Glaucidium family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:AVES locality:Sydenham country:&#34;South Africa&#34;" ; Times: 1
+	Query: "481240" ; Times: 1
+	Query: "USNM 225476" ; Times: 2
+	Query: "specificepithet:ruficeps genus:Aimophila order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cheniana genus:mirafra year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "catalognumber:292979" ; Times: 1
+	Query: "Podiceps cristatus vntype:specimen country:&#34;Netherlands&#34;" ; Times: 1
+	Query: "genus:passer country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;federal&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:atrocaerulea genus:hirundo year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "confusus" ; Times: 1
+	Query: "ceyx samarensis" ; Times: 1
+	Query: "catalognumber:586944 institutioncode:USNM" ; Times: 1
+	Query: "Burhinus bistriatus dominicensis" ; Times: 1
+	Query: "catalognumber:553575" ; Times: 1
+	Query: "iNSCRIPTION" ; Times: 2
+	Query: "genus:Troglodytes locality:Pribilof Islands stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 1
+	Query: "USNM 533293" ; Times: 2
+	Query: "&#34;pipreola riefferii riefferii&#34;" ; Times: 3
+	Query: "melanerpes pygmaeus" ; Times: 5
+	Query: "catalognumber:553479" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "catalognumber:554317" ; Times: 1
+	Query: "NMNH 166888" ; Times: 2
+	Query: "Aphelocoma insularis 1911" ; Times: 1
+	Query: "coracina ripleyi" ; Times: 1
+	Query: "Metopidius indicus India" ; Times: 2
+	Query: "specificepithet:vitellinus genus:Ramphastos institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:otus genus:Asio family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "egg grinnell j." ; Times: 1
+	Query: "USNM-537551" ; Times: 1
+	Query: "class:AVES locality:inanda" ; Times: 1
+	Query: "623420" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 4
+	Query: "genus:sterna catalognumber:162590" ; Times: 2
+	Query: "class:AVES locality:umhlanga country:&#34;South Africa&#34;" ; Times: 1
+	Query: "genus:Spizella recordedby:Townsend" ; Times: 4
+	Query: "Andaman egg" ; Times: 8
+	Query: "specificepithet:scutulata genus:Cairina" ; Times: 1
+	Query: "genus:Contopus recordedby:Townsend" ; Times: 2
+	Query: "parus michalowskii" ; Times: 1
+	Query: "buthraupis aureodorsalis" ; Times: 21
+	Query: "turdus beehleri" ; Times: 1
+	Query: "304579" ; Times: 1
+	Query: "microparra" ; Times: 1
+	Query: "Motacilla alba KAshmir" ; Times: 1
+	Query: "B33147 class:aves" ; Times: 1
+	Query: "catalognumber:326403" ; Times: 1
+	Query: "specificepithet:umbellus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1800 year &lt;= 1943" ; Times: 1
+	Query: "catalognumber:554182" ; Times: 1
+	Query: "Terenotriccus erythrurus hellmayri" ; Times: 1
+	Query: "catalognumber:587049 institutioncode:USNM" ; Times: 1
+	Query: "genus:Diomedea recordedby:Townsend" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:rhipidura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "USNM-303534" ; Times: 1
+	Query: "vntype:specimen genus:HYlophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Loxops virens" ; Times: 2
+	Query: "usnm 351245" ; Times: 2
+	Query: "porphyrio poliocephalus" ; Times: 1
+	Query: "county:&#34;Pottawattamie&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:platensis genus:cistothorus class:aves stateprovince:&#34;kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 3
+	Query: "specificepithet:riefferii genus:Pipreola" ; Times: 1
+	Query: "catalognumber:553574" ; Times: 1
+	Query: "399117" ; Times: 1
+	Query: "catalognumber:553873" ; Times: 1
+	Query: "genus:Hirundapus class:Aves (celebensis)" ; Times: 1
+	Query: "family:apodidae continent:Africa" ; Times: 1
+	Query: "USNM 538586" ; Times: 1
+	Query: "aye aye" ; Times: 2
+	Query: "sclerurus ennosiphyllus" ; Times: 1
+	Query: "catalognumber:553895" ; Times: 1
+	Query: "catalognumber:553959" ; Times: 1
+	Query: "133884" ; Times: 2
+	Query: "Piaya cayana hellmayri" ; Times: 1
+	Query: "porphyrio indicus" ; Times: 1
+	Query: "specificepithet:inornata recordedby:Townsend" ; Times: 1
+	Query: "vntype:specimen specificepithet:locustella genus:ortygospiza year &gt;= 1875 year &lt;= 1995" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "family:anatidae class:aves recordedby:handley" ; Times: 1
+	Query: "specificepithet:nebulosa genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:cuculus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "usnm 584529" ; Times: 2
+	Query: "USNM-243550" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "usnm 584523" ; Times: 2
+	Query: "usnm 584525" ; Times: 2
+	Query: "genus:lampornis country:&#34;panama&#34;" ; Times: 4
+	Query: "class:aves (616062) institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen genus:Cyclarhis class:Aves country:&#34;Brazil&#34; institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:cunicularia genus:Athene family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:derbianus genus:aulacorhynchus class:aves" ; Times: 2
+	Query: "Nativitatis" ; Times: 1
+	Query: "Ciconia stormi" ; Times: 2
+	Query: "melanerpes canescens" ; Times: 1
+	Query: "xenicus longipes" ; Times: 3
+	Query: "vntype:specimen genus:vireo class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "162279" ; Times: 1
+	Query: "nephelornis oneilli" ; Times: 3
+	Query: "specificepithet:lepidus genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "93971" ; Times: 1
+	Query: "specificepithet:myoptilus genus:schoutedenapus" ; Times: 1
+	Query: "catalognumber:204237 institutioncode:USNM" ; Times: 1
+	Query: "nesospingus" ; Times: 2
+	Query: "Kashmir milvus" ; Times: 1
+	Query: "589716" ; Times: 1
+	Query: "vntype:specimen specificepithet:meliphilus genus:indicator year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:otus" ; Times: 1
+	Query: "didunculus" ; Times: 3
+	Query: "vntype:specimen genus:Heteroxolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Namibia&#34; continent:Africa recordedby:HANDLEY" ; Times: 1
+	Query: "Puffinus mauretanicus" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1952 year &lt;= 1952 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "NMNH 372798" ; Times: 2
+	Query: "USNM 225660" ; Times: 2
+	Query: "B13397" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:anthus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "country:&#34;south america&#34; class:aves year &gt;= 1850 year &lt;= 1870" ; Times: 2
+	Query: "class:Aves locality:tongaat" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;méxico&#34;" ; Times: 2
+	Query: "ara macao" ; Times: 17
+	Query: "Aphelocoma insularis 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:signata genus:erythropygia year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Mionectes assimilis country:&#34;Panama&#34;" ; Times: 1
+	Query: "Cinclus cinclus Kashmir" ; Times: 1
+	Query: "specificepithet:isabellina genus:oenanthe class:aves country:&#34;china&#34;" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 1
+	Query: "genus:fringilla country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:290563" ; Times: 1
+	Query: "class:AVES locality:shongweni" ; Times: 2
+	Query: "genus:Ixoreus recordedby:Townsend" ; Times: 1
+	Query: "Psittacella madaraszi" ; Times: 2
+	Query: "Cuculus crassirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochraceiceps genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 131 (out of 1416 download events in this period)
+Total number of records downloaded: 44432
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 43
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 37
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 10
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 14
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 16
+	Date: 2018-08-12 ; Times: 6
+	Date: 2018-08-13 ; Times: 9
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 13
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-05 ; Times: 8
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;pipreola riefferii riefferii&#34;" ; Times: 1
+	Query: "Saltator coerulescens brevicaudus" ; Times: 1
+	Query: "sterna aleutica" ; Times: 3
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:otus" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ardea class:aves country:&#34;china&#34; recordedby:wulsin institutioncode:USNM" ; Times: 2
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "Ciccaba huhula" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "pipreola riefferii occidentalis" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "colinus virginianus country:&#34;haiti&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:gnoma genus:Glaucidium family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phaethornis superciliosus muelleri" ; Times: 1
+	Query: "genus:passer country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "genus:Troglodytes locality:Pribilof Islands stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "oaxaca" ; Times: 1
+	Query: "genus:coccothraustes country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "vntype:specimen genus:sterna county:&#34;orange&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:otus" ; Times: 1
+	Query: "genus:carpodacus country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "genus:loxia class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "genus:monticola class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "numenius tenuirostris" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "niue" ; Times: 1
+	Query: "buthraupis aureodorsalis" ; Times: 1
+	Query: "Saltator orenocensis" ; Times: 1
+	Query: "genus:carpodacus class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Poicephalus juvenile" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;Suriname&#34; year &gt;= 1980" ; Times: 1
+	Query: "Terenotriccus erythrurus hellmayri" ; Times: 1
+	Query: "genus:pyrrhula class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Loxops virens" ; Times: 1
+	Query: "genus:pyrrhula country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "colinus virginianus country:&#34;jamaica&#34;" ; Times: 2
+	Query: "pipreola riefferii chachapoyas" ; Times: 1
+	Query: "genus:emberiza country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "genus:phoenicurus class:aves country:&#34;china&#34; recordedby:wulsin institutioncode:USNM" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "genus:saxicola class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "hemispingus rufosuperciliaris" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "genus:coccothraustes class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "sicalis olivascens" ; Times: 1
+	Query: "genus:pinicola class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Leucippus fallax" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "scytalopus peru" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:monticola country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "genus:saxicola country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "genus:passer class:aves country:&#34;china&#34; recordedby:rock institutioncode:USNM" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "pipreola riefferii melanolaema" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:otus" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:otus" ; Times: 1
+	Query: "class:Aves country:&#34;Namibia&#34; continent:Africa recordedby:HANDLEY" ; Times: 1
+	Query: "vntype:specimen specificepithet:guatemalae genus:otus" ; Times: 1
+	Query: "specificepithet:otus genus:Asio family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:carduelis country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 2
+	Query: "accipiter poliogaster" ; Times: 1
+	Query: "genus:fringilla country:&#34;china&#34; recordedby:graham institutioncode:USNM" ; Times: 1
+	Query: "Donacobius atricapilla" ; Times: 1
+	Query: "specificepithet:biarmicus genus:falco country:&#34;italy&#34;" ; Times: 2
+	Query: "specificepithet:alexandrinus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:roboratus genus:otus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "oriturus superciliosus" ; Times: 1
+
+
+End of report.
