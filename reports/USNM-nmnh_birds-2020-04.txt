@@ -1,0 +1,2448 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5091
+Number of records retrieved in searches: 93869
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 102
+	Country: Turkey ; Times: 2
+	Country: Qatar ; Times: 1
+	Country: Italy ; Times: 6
+	Country: Canada ; Times: 22
+	Country: Unknown ; Times: 90
+	Country: Panama ; Times: 3
+	Country: Nepal ; Times: 2
+	Country: Costa Rica ; Times: 8
+	Country: France ; Times: 46
+	Country: Ireland ; Times: 11
+	Country: Argentina ; Times: 26
+	Country: Ecuador ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 33
+	Country: Thailand ; Times: 7
+	Country: Denmark ; Times: 7
+	Country: Cuba ; Times: 7
+	Country: United States ; Times: 2164
+	Country: Sweden ; Times: 34
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 5
+	Country: Uruguay ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 236
+	Country: United Kingdom ; Times: 2246
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 9
+	Country: Japan ; Times: 2
+	Country: Eswatini ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 887
+	Date: 2020-04-04 ; Times: 7
+	Date: 2020-04-23 ; Times: 84
+	Date: 2020-04-06 ; Times: 50
+	Date: 2020-04-22 ; Times: 112
+	Date: 2020-04-05 ; Times: 9
+	Date: 2020-04-20 ; Times: 244
+	Date: 2020-04-07 ; Times: 832
+	Date: 2020-04-26 ; Times: 40
+	Date: 2020-04-01 ; Times: 209
+	Date: 2020-04-24 ; Times: 39
+	Date: 2020-04-25 ; Times: 11
+	Date: 2020-04-28 ; Times: 180
+	Date: 2020-04-29 ; Times: 140
+	Date: 2020-04-08 ; Times: 218
+	Date: 2020-04-09 ; Times: 44
+	Date: 2020-04-27 ; Times: 217
+	Date: 2020-04-02 ; Times: 22
+	Date: 2020-04-03 ; Times: 351
+	Date: 2020-04-19 ; Times: 130
+	Date: 2020-04-18 ; Times: 114
+	Date: 2020-04-13 ; Times: 178
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 14
+	Date: 2020-04-10 ; Times: 118
+	Date: 2020-04-17 ; Times: 194
+	Date: 2020-04-16 ; Times: 192
+	Date: 2020-04-15 ; Times: 147
+	Date: 2020-04-14 ; Times: 263
+	Date: 2020-04-30 ; Times: 43
+
+List of queries that retrieved data from the resource: 
+	Query: "USNM 620290" ; Times: 2
+	Query: "San Martin Baja AND Goldman NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "Tyto rosenbergii" ; Times: 1
+	Query: "Hylophilus ochraceiceps usnm" ; Times: 1
+	Query: "San Martin Baja AND Goldman NOT Mountains NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "USNM 249649" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 9
+	Query: "NMNH 521473" ; Times: 3
+	Query: "Fulica atra" ; Times: 3
+	Query: "zosterops heinrichi" ; Times: 4
+	Query: "genus:Fratercula catalognumber:111792 institutioncode:USNM" ; Times: 2
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "NMNH 521479" ; Times: 3
+	Query: "NMNH 521478" ; Times: 1
+	Query: "Athene blewitti" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34; AND (NOT Luzon NOT Negros NOT Panay)" ; Times: 1
+	Query: "USNM 398948" ; Times: 2
+	Query: "USNM 458785" ; Times: 1
+	Query: "USNM 182239" ; Times: 2
+	Query: "USNM 402183" ; Times: 1
+	Query: "catalognumber:546209 institutioncode:USNM" ; Times: 1
+	Query: "USNM 56959" ; Times: 2
+	Query: "genus:Fratercula (111792 OR 381223 OR 381224 OR 381225 OR 381226 OR 396963 OR 396964 OR 524282) institutioncode:USNM" ; Times: 1
+	Query: "USNM 113861" ; Times: 2
+	Query: "USNM 56950" ; Times: 2
+	Query: "USNM 152808" ; Times: 2
+	Query: "USNM 255636" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 4
+	Query: "USNM 88668" ; Times: 2
+	Query: "USNM 326579" ; Times: 1
+	Query: "Tyto alba insularis" ; Times: 1
+	Query: "Tringa glareola" ; Times: 6
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Remington NOT British" ; Times: 1
+	Query: "USNM 329983" ; Times: 2
+	Query: "USNM 206836" ; Times: 2
+	Query: "Nelson AND Coronados AND 1905" ; Times: 1
+	Query: "USNM 342160" ; Times: 2
+	Query: "260296" ; Times: 2
+	Query: "USNM 448401" ; Times: 2
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "Wright AND Coronados AND Oceanodroma AND melania NOT CAS" ; Times: 1
+	Query: "USNM 372198" ; Times: 2
+	Query: "USNM 484232" ; Times: 1
+	Query: "usnm 411905" ; Times: 1
+	Query: "specificepithet:lanceolata genus:locustella country:&#34;philippines&#34;" ; Times: 1
+	Query: "usnm 411903" ; Times: 1
+	Query: "USNM 442925" ; Times: 1
+	Query: "USNM 108263" ; Times: 1
+	Query: "USNM 172919" ; Times: 2
+	Query: "USNM 472524" ; Times: 2
+	Query: "Turdus hortulorum" ; Times: 15
+	Query: "skeleton immature family:podicipedidae" ; Times: 2
+	Query: "USNM 244509" ; Times: 2
+	Query: "USNM 106615" ; Times: 2
+	Query: "Balaeniceps rex" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 2
+	Query: "260679" ; Times: 1
+	Query: "USNM 414997" ; Times: 2
+	Query: "Apus horus" ; Times: 3
+	Query: "Polystictus pectoralis" ; Times: 2
+	Query: "Peltohyas australis" ; Times: 2
+	Query: "Ciconia boyciana" ; Times: 4
+	Query: "Agriornis insolens" ; Times: 2
+	Query: "Chondrohierax wilsonii" ; Times: 1
+	Query: "USNM 448088" ; Times: 3
+	Query: "USNM 377016" ; Times: 1
+	Query: "USNM 451476" ; Times: 2
+	Query: "USNM 451473" ; Times: 2
+	Query: "Haliaeetus leucoryphus india" ; Times: 1
+	Query: "USNM 514732" ; Times: 2
+	Query: "Burhinus bistriatus vocifer" ; Times: 1
+	Query: "Crax daubentoni" ; Times: 7
+	Query: "USNM 405987" ; Times: 4
+	Query: "USNM 103658" ; Times: 2
+	Query: "Falco chicquera india" ; Times: 1
+	Query: "USNM 103654" ; Times: 2
+	Query: "USNM 317047" ; Times: 2
+	Query: "geobates" ; Times: 1
+	Query: "USNM 317048" ; Times: 2
+	Query: "USNM 56769" ; Times: 2
+	Query: "USNM 329669" ; Times: 2
+	Query: "coracina ripleyi" ; Times: 1
+	Query: "Oenanthe deserti India" ; Times: 2
+	Query: "USNM 395913" ; Times: 1
+	Query: "USNM 395910" ; Times: 1
+	Query: "USNM 102086" ; Times: 2
+	Query: "USNM 255936" ; Times: 2
+	Query: "USNM 300855" ; Times: 2
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "USNM 67373" ; Times: 2
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "USNM 217462" ; Times: 2
+	Query: "USNM 217463" ; Times: 2
+	Query: "Lophura edwardsi" ; Times: 3
+	Query: "specificepithet:cyanirostris genus:Knipolegus" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "USNM 106173" ; Times: 1
+	Query: "USNM 106174" ; Times: 1
+	Query: "USNM 234779" ; Times: 2
+	Query: "Houbaropsis bengalensis" ; Times: 1
+	Query: "USNM 85553" ; Times: 2
+	Query: "pavo cristatus" ; Times: 7
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "Abroscopus albogularis india" ; Times: 1
+	Query: "USNM 85792" ; Times: 2
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "USNM 32842" ; Times: 1
+	Query: "cryptospiza ruwenzori" ; Times: 4
+	Query: "Pycnonotus bimaculatus" ; Times: 1
+	Query: "USNM 532964" ; Times: 1
+	Query: "USNM 477532" ; Times: 2
+	Query: "USNM 331268" ; Times: 2
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "USNM 255642" ; Times: 2
+	Query: "USNM 255643" ; Times: 1
+	Query: "USNM 128722" ; Times: 1
+	Query: "USNM 128720" ; Times: 2
+	Query: "USNM 128721" ; Times: 1
+	Query: "specificepithet:varius family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pitta brachyura india" ; Times: 1
+	Query: "Anser albifrons" ; Times: 10
+	Query: "Phyllastrephus albigularis" ; Times: 4
+	Query: "catalognumber:461068 institutioncode:USNM" ; Times: 1
+	Query: "USNM 324626" ; Times: 1
+	Query: "catalognumber:104736 institutioncode:USNM" ; Times: 2
+	Query: "Alcedo atthis" ; Times: 4
+	Query: "Muscicapa muttui India" ; Times: 1
+	Query: "USNM 458208" ; Times: 1
+	Query: "Athene cunicularia boliviana" ; Times: 1
+	Query: "USNM 180314" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 7
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "San Martin Baja AND Goldman AND Birds NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 2
+	Query: "claravis godefrida" ; Times: 2
+	Query: "Anas formosa" ; Times: 13
+	Query: "habia affinis" ; Times: 1
+	Query: "USNM 426288" ; Times: 1
+	Query: "specificepithet:graciae class:Aves stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "USNM 106228" ; Times: 2
+	Query: "USNM 173065" ; Times: 1
+	Query: "USNM 309223" ; Times: 1
+	Query: "USNM 122959" ; Times: 2
+	Query: "USNM 487810" ; Times: 1
+	Query: "Vireo huttoni carolinae" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 3
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "USNM 198645" ; Times: 2
+	Query: "USNM 460242" ; Times: 1
+	Query: "USNM 460243" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 3
+	Query: "Grus antigone" ; Times: 7
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "Cutia nipalensis india" ; Times: 1
+	Query: "USNM 257139" ; Times: 2
+	Query: "USNM 360547" ; Times: 1
+	Query: "USNM 360541" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "tichodroma muraria india" ; Times: 1
+	Query: "USNM 616107" ; Times: 4
+	Query: "Gallicolumba jobiensis" ; Times: 10
+	Query: "Pteruthius melanotis India" ; Times: 2
+	Query: "USNM 487781" ; Times: 3
+	Query: "USNM 373253" ; Times: 1
+	Query: "USNM 487789" ; Times: 2
+	Query: "San Martin Baja AND Wright" ; Times: 1
+	Query: "Heterophasia pulchella india" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 3
+	Query: "Geotrygon versicolor" ; Times: 3
+	Query: "Ochthoeca leucometopa" ; Times: 2
+	Query: "phylum:chordata country:mozambique" ; Times: 1
+	Query: "USNM 58789" ; Times: 2
+	Query: "Piranga lutea" ; Times: 5
+	Query: "USNM 117773" ; Times: 1
+	Query: "specificepithet:helenae genus:hypothymis country:&#34;philippines&#34;" ; Times: 4
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "USNM 90894" ; Times: 2
+	Query: "Anthus sylvanus India" ; Times: 1
+	Query: "D. Sim" ; Times: 1
+	Query: "Perdicula asiatica" ; Times: 3
+	Query: "USNM 406169" ; Times: 3
+	Query: "Circaetus gallicus" ; Times: 2
+	Query: "USNM 406166" ; Times: 2
+	Query: "USNM 88669" ; Times: 2
+	Query: "USNM 264581" ; Times: 2
+	Query: "specificepithet:melanopezus genus:Automolus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "USNM 251427" ; Times: 2
+	Query: "Gallinago nigripennis" ; Times: 6
+	Query: "Dinornis giganteus" ; Times: 3
+	Query: "Ampeliceps coronatus india" ; Times: 1
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "USNM 359447" ; Times: 1
+	Query: "235170" ; Times: 1
+	Query: "Bugeranus carunculatus" ; Times: 4
+	Query: "Higginson California" ; Times: 1
+	Query: "USNM 449498" ; Times: 1
+	Query: "microbates albapiculus" ; Times: 1
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "USNM 337011" ; Times: 2
+	Query: "catalognumber:84365 institutioncode:USNM" ; Times: 2
+	Query: "USNM 250738" ; Times: 3
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "USNM 263447" ; Times: 2
+	Query: "USNM 369133" ; Times: 1
+	Query: "catalognumber:577311 institutioncode:USNM" ; Times: 1
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "USNM 263441" ; Times: 2
+	Query: "Emberiza rustica" ; Times: 8
+	Query: "USNM 424519" ; Times: 2
+	Query: "Anser indicus" ; Times: 5
+	Query: "Dendronanthus indicus India" ; Times: 1
+	Query: "USNM 607488" ; Times: 2
+	Query: "Haliaeetus pelagicus" ; Times: 7
+	Query: "Rallus aquaticus" ; Times: 7
+	Query: "USNM 115191" ; Times: 2
+	Query: "USNM 115192" ; Times: 2
+	Query: "USNM 244518" ; Times: 2
+	Query: "USNM 443466" ; Times: 2
+	Query: "USNM 215103" ; Times: 2
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "USNM 215105" ; Times: 2
+	Query: "Astrapia nigra" ; Times: 7
+	Query: "USNM 115517" ; Times: 2
+	Query: "USNM 366483" ; Times: 2
+	Query: "USNM 377464" ; Times: 2
+	Query: "Epimachus fastuosus" ; Times: 2
+	Query: "USNM 414983" ; Times: 2
+	Query: "Piranga rubriceps" ; Times: 3
+	Query: "USNM 328952" ; Times: 1
+	Query: "Turdus dissimilis India" ; Times: 1
+	Query: "Nagozruk 1928" ; Times: 7
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "Merganetta armata" ; Times: 5
+	Query: "Tachycineta leucopyga" ; Times: 7
+	Query: "Fringilla teydea" ; Times: 5
+	Query: "USNM 514185" ; Times: 1
+	Query: "Oreomystis bairdi" ; Times: 3
+	Query: "140425" ; Times: 1
+	Query: "USNM 404111" ; Times: 1
+	Query: "Prinia atrogularis India" ; Times: 1
+	Query: "USNM 388459" ; Times: 1
+	Query: "genus:limosa stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "USNM 519196" ; Times: 1
+	Query: "USNM 519193" ; Times: 1
+	Query: "pachyptila crassirostris" ; Times: 13
+	Query: "USNM 395909" ; Times: 1
+	Query: "USNM 238728" ; Times: 2
+	Query: "USNM 533488" ; Times: 1
+	Query: "USNM 519044" ; Times: 2
+	Query: "Athene cunicularia brachyptera" ; Times: 1
+	Query: "Sitta pusilla Bahama" ; Times: 2
+	Query: "USNM 192464" ; Times: 2
+	Query: "173959" ; Times: 1
+	Query: "USNM 471177" ; Times: 2
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "173957" ; Times: 1
+	Query: "173956" ; Times: 1
+	Query: "173951" ; Times: 1
+	Query: "USNM 240090" ; Times: 2
+	Query: "173953" ; Times: 1
+	Query: "173952" ; Times: 1
+	Query: "amazilia lichtensteini" ; Times: 1
+	Query: "USNM 126807" ; Times: 2
+	Query: "Garrulax jerdoni" ; Times: 1
+	Query: "USNM 213314" ; Times: 1
+	Query: "173736" ; Times: 1
+	Query: "USNM 365345" ; Times: 2
+	Query: "USNM 365346" ; Times: 2
+	Query: "Larus crassirostris" ; Times: 6
+	Query: "USNM 454897" ; Times: 2
+	Query: "class:Aves county:&#34;walker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "233035" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "Saxicola caprata India" ; Times: 4
+	Query: "USNM 474988" ; Times: 2
+	Query: "Nelson AND Goldman AND Island" ; Times: 1
+	Query: "USNM 109189" ; Times: 2
+	Query: "Turdus ruficollis India" ; Times: 1
+	Query: "USNM 391104" ; Times: 1
+	Query: "Hylophilus ochraceiceps usnm 22375" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Yuhina bakeri india" ; Times: 1
+	Query: "Mergus squamatus" ; Times: 5
+	Query: "USNM 485465" ; Times: 2
+	Query: "USNM 77832" ; Times: 2
+	Query: "USNM 454098" ; Times: 2
+	Query: "Criniger phaeocephalus" ; Times: 4
+	Query: "specificepithet:glaucus genus:Anodorhynchus" ; Times: 3
+	Query: "Bambusicola fytchii" ; Times: 2
+	Query: "121600" ; Times: 2
+	Query: "Bycanistes brevis" ; Times: 4
+	Query: "catalognumber:236676 institutioncode:USNM" ; Times: 1
+	Query: "USNM 385323" ; Times: 2
+	Query: "USNM 58313" ; Times: 2
+	Query: "Muscicapa ruficauda India" ; Times: 1
+	Query: "USNM 276889" ; Times: 1
+	Query: "USNM 284958" ; Times: 1
+	Query: "USNM 390214" ; Times: 2
+	Query: "preparations:Skeleton parabuteo" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Brachypteryx cruralis India" ; Times: 1
+	Query: "USNM 253822" ; Times: 1
+	Query: "USNM 253821" ; Times: 1
+	Query: "Garrulax galbanus india" ; Times: 1
+	Query: "USNM 401189" ; Times: 1
+	Query: "Tyto alba hellmayri" ; Times: 1
+	Query: "junco alberta egg" ; Times: 1
+	Query: "Lymnocryptes minimus" ; Times: 2
+	Query: "USNM 392729" ; Times: 1
+	Query: "USNM 254104" ; Times: 2
+	Query: "233348" ; Times: 1
+	Query: "Corvus splendens" ; Times: 9
+	Query: "Garrulax sannio" ; Times: 3
+	Query: "Phaetusa simplex" ; Times: 2
+	Query: "C. psittacula" ; Times: 6
+	Query: "specificepithet:obscurus genus:Myadestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 3
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Aegithalos bonvaloti" ; Times: 4
+	Query: "Paradoxornis flavirostris india" ; Times: 1
+	Query: "genus:culicicapa country:&#34;philippines&#34;" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Abbott Gilgit" ; Times: 1
+	Query: "USNM 256616" ; Times: 2
+	Query: "specificepithet:principalis genus:campephilus preparations:skeleton" ; Times: 1
+	Query: "USNM 283995" ; Times: 1
+	Query: "USNM 283994" ; Times: 1
+	Query: "USNM 283992" ; Times: 1
+	Query: "USNM 1504" ; Times: 2
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "Apus berliozi" ; Times: 3
+	Query: "Pelecanus thagus" ; Times: 3
+	Query: "E. Nelson AND Guadalupe" ; Times: 1
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Buteo polyosoma" ; Times: 5
+	Query: "USNM 437699" ; Times: 2
+	Query: "Aegithalos glaucogularis" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Passer ammodendri" ; Times: 8
+	Query: "USNM 275487" ; Times: 2
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "USNM 57155" ; Times: 2
+	Query: "vntype:specimen family:Spheniscidae institutioncode:USNM" ; Times: 1
+	Query: "Pterodroma defilippiana" ; Times: 8
+	Query: "USNM 273471" ; Times: 1
+	Query: "Phylloscopus griseolus" ; Times: 9
+	Query: "B6146" ; Times: 2
+	Query: "Wright AND Coronados AND Oceanodroma NOT CAS" ; Times: 1
+	Query: "Criniger ndussumensis" ; Times: 2
+	Query: "rhynchocyclus mirus" ; Times: 1
+	Query: "USNM 435693" ; Times: 2
+	Query: "USNM 435694" ; Times: 2
+	Query: "USNM 448379" ; Times: 2
+	Query: "USNM 443188" ; Times: 1
+	Query: "USNM 178322" ; Times: 2
+	Query: "San Martin Baja AND Anthony NOT Pedro AND 1888" ; Times: 2
+	Query: "USNM 372337" ; Times: 2
+	Query: "USNM 273505" ; Times: 1
+	Query: "USNM 218437" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "San Martin Baja AND Goldman NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "USNM 206786" ; Times: 2
+	Query: "USNM 264073" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "catalognumber:586923 institutioncode:USNM" ; Times: 1
+	Query: "USNM 133826" ; Times: 2
+	Query: "USNM 514688" ; Times: 3
+	Query: "USNM 189495" ; Times: 2
+	Query: "USNM 121309" ; Times: 2
+	Query: "Pelecanus philippensis country:&#34;China&#34;" ; Times: 1
+	Query: "W. Abbott AND Island" ; Times: 2
+	Query: "102423" ; Times: 1
+	Query: "USNM 467812" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:Augusta year &gt;= 2003 year &lt;= 2003 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter trivirgatus india" ; Times: 1
+	Query: "Ibidorhyncha struthersii" ; Times: 2
+	Query: "catalognumber:36809 institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "class:aves country:mozambique" ; Times: 1
+	Query: "USNM 169370" ; Times: 1
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "USNM 137945" ; Times: 4
+	Query: "chambers aves canyon egg" ; Times: 1
+	Query: "Stachyris oglei india" ; Times: 1
+	Query: "GABON BURGER" ; Times: 2
+	Query: "USNM 519223" ; Times: 2
+	Query: "USNM 518906" ; Times: 1
+	Query: "USNM 448208" ; Times: 1
+	Query: "Garrulax merulinus india" ; Times: 1
+	Query: "Passer cinnamomeus India" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 2
+	Query: "class:aves country:&#34;Rhodesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Yuhina gularis india" ; Times: 2
+	Query: "Phalacrocorax fuscicollis" ; Times: 4
+	Query: "USNM 519051" ; Times: 2
+	Query: "173960" ; Times: 1
+	Query: "173961" ; Times: 1
+	Query: "173965" ; Times: 1
+	Query: "173966" ; Times: 1
+	Query: "173967" ; Times: 1
+	Query: "USNM 435994" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 4
+	Query: "USNM 435990" ; Times: 1
+	Query: "USNM 178812" ; Times: 2
+	Query: "USNM 217625" ; Times: 5
+	Query: "Afrotis afra" ; Times: 3
+	Query: "USNM 514733" ; Times: 3
+	Query: "USNM 35449" ; Times: 1
+	Query: "USNM 377695" ; Times: 2
+	Query: "USNM 377696" ; Times: 2
+	Query: "USNM 391823" ; Times: 1
+	Query: "USNM 391826" ; Times: 1
+	Query: "San Martin Baja AND Goldman" ; Times: 1
+	Query: "USNM 148752" ; Times: 2
+	Query: "Sitta formosa india" ; Times: 1
+	Query: "Bubo bubo india" ; Times: 2
+	Query: "skeleton specificepithet:cristatus genus:podiceps" ; Times: 1
+	Query: "USNM 96539" ; Times: 1
+	Query: "USNM 328157" ; Times: 2
+	Query: "astrapia nigra" ; Times: 3
+	Query: "USNM pachyptila crassirostris" ; Times: 1
+	Query: "catalognumber:345540 institutioncode:USNM" ; Times: 2
+	Query: "pelecanoides georgicus" ; Times: 2
+	Query: "USNM 357235" ; Times: 2
+	Query: "Neomorphus salvini" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "169550" ; Times: 1
+	Query: "Pseudonestor xanthophrys" ; Times: 3
+	Query: "Pseudibis papillosa" ; Times: 1
+	Query: "genus:rollandia (skeleton)" ; Times: 2
+	Query: "USNM 284985" ; Times: 2
+	Query: "USNM 9180" ; Times: 4
+	Query: "Garrulax albogularis india" ; Times: 1
+	Query: "Progne chalybea" ; Times: 7
+	Query: "USNM 401474" ; Times: 2
+	Query: "USNM 351804" ; Times: 1
+	Query: "Athene cunicularia guadeloupensis" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "USNM 473189" ; Times: 2
+	Query: "USNM 446695" ; Times: 1
+	Query: "Turdus mupinensis" ; Times: 9
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "USNM 193855" ; Times: 2
+	Query: "USNM 145168" ; Times: 1
+	Query: "Pellorneum palustre india" ; Times: 1
+	Query: "USNM 326243" ; Times: 1
+	Query: "USNM 148446" ; Times: 2
+	Query: "Xanthopsar flavus" ; Times: 3
+	Query: "Garrulax virgatus india" ; Times: 1
+	Query: "genus:Fratercula arctica institutioncode:USNM" ; Times: 3
+	Query: "USNM 34879" ; Times: 1
+	Query: "B. marmoratus" ; Times: 5
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "cardinalis littoralis" ; Times: 1
+	Query: "USNM 233794" ; Times: 2
+	Query: "USNM 233795" ; Times: 3
+	Query: "oriolus oriolus India" ; Times: 6
+	Query: "USNM 252301" ; Times: 2
+	Query: "USNM 275353" ; Times: 2
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "USNM 487121" ; Times: 3
+	Query: "USNM 487126" ; Times: 2
+	Query: "Phalacrocorax bougainvillii" ; Times: 4
+	Query: "Sicalis olivascens" ; Times: 5
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "USNM 151144" ; Times: 2
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34; month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "Cisticola fulvicapilla" ; Times: 3
+	Query: "USNM 436170" ; Times: 4
+	Query: "USNM 159399" ; Times: 1
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "USNM 368594" ; Times: 5
+	Query: "USNM 483868" ; Times: 2
+	Query: "Tachycineta albiventer" ; Times: 7
+	Query: "USNM 113858" ; Times: 2
+	Query: "catalognumber:82721 institutioncode:USNM" ; Times: 2
+	Query: "Gyps himalayensis" ; Times: 4
+	Query: "Psittirostra psittacea" ; Times: 3
+	Query: "Icterus auratus" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 8
+	Query: "Phalacrocorax capillatus" ; Times: 4
+	Query: "Prinia bairdii" ; Times: 8
+	Query: "Dicaeum trigonostigma" ; Times: 4
+	Query: "USNM 313771" ; Times: 1
+	Query: "garrodia nereis" ; Times: 1
+	Query: "catalognumber:182740" ; Times: 1
+	Query: "Pycnonotus finlaysoni" ; Times: 4
+	Query: "Tyto capensis" ; Times: 1
+	Query: "Urocissa erythrorhyncha India" ; Times: 1
+	Query: "USNM 161776" ; Times: 1
+	Query: "USNM 161777" ; Times: 2
+	Query: "USNM 442918" ; Times: 1
+	Query: "USNM 442916" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "USNM 423098" ; Times: 1
+	Query: "Tarsiger cyanurus India" ; Times: 1
+	Query: "Athene cunicularia rostrata" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "genus:fratercula year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Loxops caeruleirostris" ; Times: 2
+	Query: "USNM 448523" ; Times: 2
+	Query: "USNM 264067" ; Times: 2
+	Query: "Sylvia curruca india" ; Times: 1
+	Query: "USNM 160001" ; Times: 1
+	Query: "USNM 121317" ; Times: 2
+	Query: "Gallinago stricklandii" ; Times: 4
+	Query: "Hirundapus giganteus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 9
+	Query: "pterodroma leucoptera year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:mystaceus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Phylloscopus schwarzi" ; Times: 10
+	Query: "USNM 88298" ; Times: 2
+	Query: "Psittacula himalayana india" ; Times: 1
+	Query: "Rallus caerulescens" ; Times: 1
+	Query: "Tremoleras" ; Times: 2
+	Query: "Grus leucogeranus" ; Times: 4
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "USNM 80335" ; Times: 2
+	Query: "specificepithet:bicolor genus:lonchura country:&#34;kenya&#34;" ; Times: 1
+	Query: "USNM 420383" ; Times: 2
+	Query: "specificepithet:tyrannus genus:Tyrannus country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "USNM 335764" ; Times: 1
+	Query: "USNM 164255" ; Times: 1
+	Query: "San Martin Baja AND Goldman AND Birds NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "USNM 335763" ; Times: 1
+	Query: "Psittacula roseata india" ; Times: 1
+	Query: "USNM 121408" ; Times: 2
+	Query: "Buceros bicornis" ; Times: 2
+	Query: "USNM 264113" ; Times: 2
+	Query: "USNM 264114" ; Times: 1
+	Query: "USNM 206373" ; Times: 2
+	Query: "Pomatorhinus ruficollis india" ; Times: 1
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "USNM 484065" ; Times: 2
+	Query: "catalognumber:163274" ; Times: 1
+	Query: "specificepithet:punensis genus:phrygilus" ; Times: 1
+	Query: "173970" ; Times: 1
+	Query: "Seicercus affinis" ; Times: 4
+	Query: "Enicurus scouleri India" ; Times: 1
+	Query: "USNM 264591" ; Times: 2
+	Query: "USNM 264593" ; Times: 2
+	Query: "USNM 216215" ; Times: 2
+	Query: "USNM 213997" ; Times: 2
+	Query: "USNM 217611" ; Times: 2
+	Query: "catalognumber:484015 institutioncode:USNM" ; Times: 1
+	Query: "USNM 213998" ; Times: 1
+	Query: "USNM 129579" ; Times: 2
+	Query: "Abbott Haramosh leucogenys" ; Times: 1
+	Query: "leucogenys Kashmir" ; Times: 1
+	Query: "USNM 277096" ; Times: 2
+	Query: "USNM 485554" ; Times: 2
+	Query: "USNM 484114" ; Times: 1
+	Query: "San Martin AND Wright" ; Times: 1
+	Query: "Cairina moschata" ; Times: 8
+	Query: "chlorothraupis magnirostris" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 6
+	Query: "Gymnomystax mexicanus" ; Times: 2
+	Query: "catalognumber:577300 institutioncode:USNM" ; Times: 1
+	Query: "USNM 255509" ; Times: 1
+	Query: "USNM 279006" ; Times: 2
+	Query: "USNM 279008" ; Times: 2
+	Query: "USNM 420722" ; Times: 1
+	Query: "USNM 279395" ; Times: 4
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "USNM 459360" ; Times: 2
+	Query: "napothera bakeri" ; Times: 1
+	Query: "catalognumber:543303 institutioncode:USNM" ; Times: 1
+	Query: "Gallinago gallinago faeroeensis" ; Times: 1
+	Query: "skeleton specificepithet:minor family:phoenicopteridae" ; Times: 1
+	Query: "USNM 384580" ; Times: 1
+	Query: "USNM 279132" ; Times: 2
+	Query: "USNM 279134" ; Times: 2
+	Query: "USNM 279135" ; Times: 2
+	Query: "USNM 158709" ; Times: 2
+	Query: "USNM 279137" ; Times: 2
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Poospiza thoracica" ; Times: 3
+	Query: "USNM 109457" ; Times: 1
+	Query: "USNM 333123" ; Times: 1
+	Query: "USNM 473191" ; Times: 2
+	Query: "175761" ; Times: 1
+	Query: "USNM 155242" ; Times: 5
+	Query: "USNM 254126" ; Times: 1
+	Query: "USNM 278024" ; Times: 2
+	Query: "USNM 155247" ; Times: 2
+	Query: "Catharus guttatus minnesota" ; Times: 1
+	Query: "Garrulax rufogularis india" ; Times: 1
+	Query: "USNM 254129" ; Times: 1
+	Query: "Anguilla bicolor" ; Times: 1
+	Query: "Paroreomyza montana" ; Times: 8
+	Query: "Terpsiphone atrocaudata" ; Times: 4
+	Query: "USNM 454100" ; Times: 2
+	Query: "USNM 276825" ; Times: 2
+	Query: "USNM 148451" ; Times: 1
+	Query: "USNM 460169" ; Times: 7
+	Query: "USNM 159498" ; Times: 1
+	Query: "Phylloscopus occipitalis" ; Times: 7
+	Query: "Alcedo hercules india" ; Times: 1
+	Query: "USNM 392056" ; Times: 1
+	Query: "Zoothera dixoni india" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 4
+	Query: "Ardea goliath" ; Times: 2
+	Query: "genus:Pseudocolopteryx country:&#34;Chile&#34;" ; Times: 1
+	Query: "183611" ; Times: 1
+	Query: "183610" ; Times: 1
+	Query: "183613" ; Times: 1
+	Query: "USNM 376677" ; Times: 2
+	Query: "Campylorhynchus griseus" ; Times: 1
+	Query: "Ixobrychus minutus" ; Times: 5
+	Query: "232908" ; Times: 1
+	Query: "USNM 222237" ; Times: 2
+	Query: "USNM 487119" ; Times: 2
+	Query: "Sporopipes frontalis" ; Times: 8
+	Query: "catalognumber:67001 institutioncode:USNM" ; Times: 3
+	Query: "Enicurus leschenaulti India" ; Times: 1
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "specificepithet:cinerea genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "USNM 114450" ; Times: 1
+	Query: "USNM 436169" ; Times: 1
+	Query: "catalognumber:19125 institutioncode:USNM" ; Times: 2
+	Query: "USNM 256963" ; Times: 2
+	Query: "USNM 483870" ; Times: 2
+	Query: "USNM 483871" ; Times: 2
+	Query: "USNM 56910" ; Times: 2
+	Query: "USNM 487373" ; Times: 2
+	Query: "USNM 487377" ; Times: 2
+	Query: "Hieraaetus pennatus india" ; Times: 1
+	Query: "andropadus nigriceps" ; Times: 1
+	Query: "Graminicola bengalensis india" ; Times: 1
+	Query: "genus:Dendrocygna stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; recordedby:mearns year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Lalage tricolor" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "USNM 115675" ; Times: 2
+	Query: "USNM 191408" ; Times: 2
+	Query: "USNM 140471" ; Times: 1
+	Query: "San Martin Baja AND Anthony" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 12
+	Query: "USNM 460407" ; Times: 1
+	Query: "USNM 151049" ; Times: 2
+	Query: "Dinopium javanense india" ; Times: 1
+	Query: "USNM 446113" ; Times: 2
+	Query: "Turdus philomelos" ; Times: 15
+	Query: "USNM 151145" ; Times: 2
+	Query: "USNM 446116" ; Times: 2
+	Query: "skeleton specificepithet:major genus:podiceps" ; Times: 1
+	Query: "USNM 244490" ; Times: 2
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "USNM 329968" ; Times: 2
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "USNM 284454" ; Times: 1
+	Query: "genus:Fratercula catalognumber:111794 institutioncode:USNM" ; Times: 1
+	Query: "USNM 329962" ; Times: 2
+	Query: "year &gt;= 1990 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "Tyto alba bargei" ; Times: 2
+	Query: "USNM 213418" ; Times: 2
+	Query: "USNM 462662" ; Times: 3
+	Query: "habia alfaroana" ; Times: 1
+	Query: "skeleton juvenile family:podicipedidae" ; Times: 3
+	Query: "USNM 462667" ; Times: 2
+	Query: "USNM 356537" ; Times: 2
+	Query: "Coenocorypha" ; Times: 1
+	Query: "USNM 119087" ; Times: 1
+	Query: "Heterophasia picaoides india" ; Times: 1
+	Query: "USNM 464995" ; Times: 2
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "USNM 276348" ; Times: 2
+	Query: "USNM 160015" ; Times: 1
+	Query: "USNM 161016" ; Times: 2
+	Query: "USNM 303032" ; Times: 2
+	Query: "Erythrogenys mcclellandi india" ; Times: 1
+	Query: "USNM 372552" ; Times: 1
+	Query: "USNM 148023" ; Times: 2
+	Query: "Ochthoeca polionota" ; Times: 1
+	Query: "catalognumber:76938 institutioncode:USNM" ; Times: 1
+	Query: "362272" ; Times: 1
+	Query: "catalognumber:390016 institutioncode:USNM" ; Times: 1
+	Query: "Harpactes wardi" ; Times: 1
+	Query: "199167" ; Times: 2
+	Query: "USNM 463222" ; Times: 2
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "genus:Harpia country:&#34;Panama&#34;" ; Times: 1
+	Query: "bicknelli vntype:specimen institutioncode:USNM" ; Times: 1
+	Query: "USNM 255198" ; Times: 1
+	Query: "USNM 255196" ; Times: 1
+	Query: "Hirundapus caudacutus" ; Times: 2
+	Query: "USNM 425635" ; Times: 1
+	Query: "USNM 425636" ; Times: 1
+	Query: "Falco severus india" ; Times: 1
+	Query: "Spelaeornis chocolatinus india" ; Times: 1
+	Query: "USNM 452986" ; Times: 2
+	Query: "USNM 93647" ; Times: 2
+	Query: "USNM 174168" ; Times: 2
+	Query: "USNM 174164" ; Times: 1
+	Query: "USNM 515046" ; Times: 2
+	Query: "USNM 129544" ; Times: 2
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "USNM 408295" ; Times: 2
+	Query: "USNM 484129" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Ammodramus savannarum floridanus" ; Times: 1
+	Query: "USNM 474970" ; Times: 2
+	Query: "USNM 132764" ; Times: 2
+	Query: "USNM 181117" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 8
+	Query: "USNM 444279" ; Times: 1
+	Query: "USNM 444278" ; Times: 1
+	Query: "Aethopyga ignicauda India" ; Times: 1
+	Query: "USNM 126871" ; Times: 2
+	Query: "Hydrochous gigas" ; Times: 4
+	Query: "Apus nipalensis" ; Times: 3
+	Query: "monster" ; Times: 2
+	Query: "USNM 401393" ; Times: 1
+	Query: "USNM 401460" ; Times: 2
+	Query: "catalognumber:134976 institutioncode:USNM" ; Times: 2
+	Query: "Pluvialis apricaria" ; Times: 2
+	Query: "USNM 279101" ; Times: 2
+	Query: "USNM 1423" ; Times: 4
+	Query: "USNM 1422" ; Times: 1
+	Query: "tolmomyias paraensis" ; Times: 2
+	Query: "stateprovince:&#34;alberta&#34; recordedby:wilby" ; Times: 1
+	Query: "USNM 307750" ; Times: 2
+	Query: "Arborophila torqueola" ; Times: 2
+	Query: "USNM 271962" ; Times: 2
+	Query: "vntype:specimen genus:tersina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 3
+	Query: "USNM 350806" ; Times: 2
+	Query: "Sitta himalayensis india" ; Times: 1
+	Query: "USNM 153768" ; Times: 1
+	Query: "Aviceda jerdoni india" ; Times: 1
+	Query: "Columba oenas" ; Times: 3
+	Query: "genus:Fratercula catalognumber:381218 institutioncode:USNM" ; Times: 1
+	Query: "Pithecophaga jefferyi" ; Times: 1
+	Query: "USNM 351775" ; Times: 1
+	Query: "USNM 351774" ; Times: 1
+	Query: "USNM 337017" ; Times: 2
+	Query: "Todus angustirostris" ; Times: 4
+	Query: "USNM 337015" ; Times: 1
+	Query: "USNM 337013" ; Times: 2
+	Query: "USNM 337010" ; Times: 4
+	Query: "USNM 449499" ; Times: 1
+	Query: "USNM 234669" ; Times: 2
+	Query: "Calliope calliope India" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "USNM 120849" ; Times: 3
+	Query: "USNM 153618" ; Times: 1
+	Query: "calandrella blanfordi" ; Times: 3
+	Query: "pinus brutia" ; Times: 1
+	Query: "Scolopax rochussenii" ; Times: 2
+	Query: "usnm 24963" ; Times: 1
+	Query: "USNM 328197" ; Times: 1
+	Query: "climacteris meridionalis" ; Times: 1
+	Query: "Botaurus lentiginosus Texas" ; Times: 1
+	Query: "myiarchus platyrhynchus" ; Times: 2
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "USNM 222220" ; Times: 2
+	Query: "USNM 461628" ; Times: 1
+	Query: "catalognumber:577292 institutioncode:USNM" ; Times: 1
+	Query: "Tarsiger cyanurus" ; Times: 4
+	Query: "Cinclidium frontale India" ; Times: 1
+	Query: "USNM 355051" ; Times: 2
+	Query: "Criniger flaveolus" ; Times: 4
+	Query: "USNM 330464" ; Times: 1
+	Query: "USNM 151137" ; Times: 2
+	Query: "USNM 353849" ; Times: 2
+	Query: "specificepithet:gigas genus:podilymbus (skeleton)" ; Times: 1
+	Query: "Alcippe poioicephala india" ; Times: 3
+	Query: "Ficedula albicollis" ; Times: 9
+	Query: "61477" ; Times: 1
+	Query: "Fregata aquila" ; Times: 3
+	Query: "catalognumber:84363 institutioncode:USNM" ; Times: 2
+	Query: "thryothorus magdalenae" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "USNM 201340" ; Times: 1
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "Buteo augur" ; Times: 4
+	Query: "USNM 201343" ; Times: 2
+	Query: "USNM 115643" ; Times: 2
+	Query: "USNM 406238" ; Times: 2
+	Query: "psittacina specificepithet:cyanea genus:chlorophonia" ; Times: 1
+	Query: "Pinus brutia mappable:1" ; Times: 2
+	Query: "USNM 402061" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 7
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "USNM 111417" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "USNM 244484" ; Times: 2
+	Query: "USNM 244485" ; Times: 2
+	Query: "USNM 244483" ; Times: 2
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Dendrocitta formosae" ; Times: 9
+	Query: "USNM 329970" ; Times: 2
+	Query: "USNM 329971" ; Times: 2
+	Query: "USNM 329975" ; Times: 2
+	Query: "USNM 333782" ; Times: 2
+	Query: "USNM 413538" ; Times: 1
+	Query: "genus:atlapetes country:&#34;guatemala&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 3
+	Query: "USNM 186003" ; Times: 2
+	Query: "56798" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 14
+	Query: "Tarsiger rufilatus India" ; Times: 2
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "USNM 457816" ; Times: 2
+	Query: "tolmomyias duidae" ; Times: 2
+	Query: "Macroagelaius imthurni" ; Times: 2
+	Query: "Netta rufina" ; Times: 6
+	Query: "Podoces hendersoni" ; Times: 8
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "catalognumber:303295 institutioncode:USNM" ; Times: 2
+	Query: "USNM 340820" ; Times: 2
+	Query: "Panguitch" ; Times: 1
+	Query: "USNM 178002" ; Times: 2
+	Query: "USNM 161002" ; Times: 2
+	Query: "Cygnus olor" ; Times: 10
+	Query: "USNM 275479" ; Times: 2
+	Query: "USNM 275478" ; Times: 2
+	Query: "Corvus corone" ; Times: 9
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "USNM 216944" ; Times: 2
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "catalognumber:519725 institutioncode:USNM" ; Times: 1
+	Query: "Ochthoeca superciliosa" ; Times: 1
+	Query: "USNM 100555" ; Times: 2
+	Query: "USNM 84059" ; Times: 2
+	Query: "Burhinus vermiculatus" ; Times: 2
+	Query: "USNM 360548" ; Times: 1
+	Query: "101040" ; Times: 1
+	Query: "genus:Fratercula catalognumber:381216 institutioncode:USNM" ; Times: 1
+	Query: "582371" ; Times: 1
+	Query: "USNM 469974" ; Times: 2
+	Query: "USNM 329016" ; Times: 1
+	Query: "specificepithet:rosea year &gt;= 1879 year &lt;= 1879" ; Times: 1
+	Query: "USNM 373368" ; Times: 2
+	Query: "USNM 421944" ; Times: 2
+	Query: "USNM 88384" ; Times: 2
+	Query: "USNM 518066" ; Times: 2
+	Query: "Loxops mana" ; Times: 8
+	Query: "USNM 168610" ; Times: 2
+	Query: "Pauxi pauxi" ; Times: 3
+	Query: "Aegithalos iredalei india" ; Times: 2
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "Spilornis cheela" ; Times: 7
+	Query: "USNM 466592" ; Times: 2
+	Query: "genus:Fratercula (111792) institutioncode:USNM" ; Times: 1
+	Query: "Chondrohierax Cuba" ; Times: 1
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "USNM 103280" ; Times: 2
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "Bubo coromandus india" ; Times: 1
+	Query: "USNm 251835" ; Times: 1
+	Query: "Pitta cucullata Thailand" ; Times: 1
+	Query: "USNM 408285" ; Times: 2
+	Query: "USNM 484131" ; Times: 2
+	Query: "USNM 408282" ; Times: 2
+	Query: "USNM 470712" ; Times: 2
+	Query: "USNM 373215" ; Times: 2
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "USNM 451357" ; Times: 4
+	Query: "pseudoscops grammicus" ; Times: 4
+	Query: "Crax rubra" ; Times: 3
+	Query: "USNM 455505" ; Times: 2
+	Query: "USNM 455504" ; Times: 2
+	Query: "Todus todus" ; Times: 3
+	Query: "specificepithet:ruficollis genus:tachybaptus (skeleton)" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "USNM 422254" ; Times: 2
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Gallinago macrodactyla" ; Times: 1
+	Query: "specificepithet:boltoni genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 2
+	Query: "Emberiza fucata" ; Times: 8
+	Query: "USNM 370323" ; Times: 2
+	Query: "USNM 308952" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 3
+	Query: "USNM 250664" ; Times: 2
+	Query: "Ciconia ciconia" ; Times: 6
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "USNM 391077" ; Times: 2
+	Query: "USNM 337155" ; Times: 2
+	Query: "USNM 279119" ; Times: 2
+	Query: "Taccocua leschenaultii" ; Times: 3
+	Query: "USNM 308788" ; Times: 2
+	Query: "USNM 245865" ; Times: 1
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 6
+	Query: "Sturnus vulgaris india" ; Times: 2
+	Query: "catalognumber:348515 institutioncode:USNM" ; Times: 3
+	Query: "Scolopax mira" ; Times: 1
+	Query: "USNM 392820" ; Times: 1
+	Query: "knud jonsson" ; Times: 2
+	Query: "USNM 18931" ; Times: 2
+	Query: "Creagrus furcatus" ; Times: 6
+	Query: "Emberiza pusilla" ; Times: 8
+	Query: "P. aleuticus" ; Times: 6
+	Query: "USNM 278375" ; Times: 2
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Egretta intermedia" ; Times: 9
+	Query: "USNM 106473" ; Times: 2
+	Query: "Gallinago stenura" ; Times: 6
+	Query: "USNM 485553" ; Times: 1
+	Query: "leucometopa" ; Times: 1
+	Query: "phoebetria palpebrata" ; Times: 1
+	Query: "catalognumber:626628 institutioncode:USNM" ; Times: 3
+	Query: "specificepithet:dauurica genus:muscicapa country:&#34;philippines&#34;" ; Times: 1
+	Query: "USNM 213661" ; Times: 3
+	Query: "USNM 184644" ; Times: 2
+	Query: "USNM 437307" ; Times: 2
+	Query: "USNM 39220" ; Times: 2
+	Query: "USNM 460146" ; Times: 3
+	Query: "Turdus nigrescens" ; Times: 9
+	Query: "catalognumber:586912 institutioncode:USNM" ; Times: 2
+	Query: "USNM 328180" ; Times: 2
+	Query: "catalognumber:81155 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:basilanica genus:ficedula country:&#34;philippines&#34;" ; Times: 1
+	Query: "262275" ; Times: 1
+	Query: "USNM 331377" ; Times: 1
+	Query: "Lophura ignita" ; Times: 3
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "USNM 117784" ; Times: 1
+	Query: "Lophura inornata" ; Times: 3
+	Query: "Tilmatura dupontii" ; Times: 3
+	Query: "Cnemotriccus fuscatus duidae" ; Times: 1
+	Query: "class:Aves catalognumber:171739" ; Times: 1
+	Query: "genus:Fratercula catalognumber:381217 institutioncode:USNM" ; Times: 2
+	Query: "USNM 460370" ; Times: 1
+	Query: "USNM 257140" ; Times: 2
+	Query: "Amazilia millerii" ; Times: 3
+	Query: "USNM 141505" ; Times: 2
+	Query: "Sylviparus modestus India" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 4
+	Query: "Larus vegae" ; Times: 3
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "USNM 201370" ; Times: 2
+	Query: "francolinus francolinus india" ; Times: 3
+	Query: "Ploceus benghalensis India" ; Times: 1
+	Query: "Gallinago nemoricola" ; Times: 1
+	Query: "USNM 406229" ; Times: 2
+	Query: "specificepithet:primigenius genus:aethopyga country:&#34;philippines&#34;" ; Times: 1
+	Query: "Prinia subflava" ; Times: 6
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "Nelson AND Goldman AND Island AND 1905" ; Times: 1
+	Query: "USNM 251836" ; Times: 1
+	Query: "USNM 251834" ; Times: 1
+	Query: "Calandrella acutirostris India" ; Times: 2
+	Query: "USNM 151264" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 11
+	Query: "Turdus reevei" ; Times: 9
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "Turdus helleri" ; Times: 9
+	Query: "oressinoma specificepithet:xanthogaster genus:euphonia" ; Times: 1
+	Query: "locality:Arno Atoll country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "lophostrix wedeli" ; Times: 1
+	Query: "GABON PORTER" ; Times: 1
+	Query: "Criniger calurus" ; Times: 5
+	Query: "Myadestes myadestinus" ; Times: 5
+	Query: "specificepithet:speciosa genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "caprimulgus maculicaudus" ; Times: 4
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:ruficauda country:&#34;philippines&#34;" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 4
+	Query: "Liocichla phoenicea india" ; Times: 2
+	Query: "USNM 358781" ; Times: 2
+	Query: "USNM 358782" ; Times: 2
+	Query: "USNM 244231" ; Times: 2
+	Query: "Pycnonotus flavescens India" ; Times: 1
+	Query: "USNM 244235" ; Times: 2
+	Query: "USNM 244234" ; Times: 3
+	Query: "Hypergerus atriceps" ; Times: 7
+	Query: "catalognumber:110606 institutioncode:USNM" ; Times: 2
+	Query: "USNM 255206" ; Times: 1
+	Query: "Drepanornis albertisi" ; Times: 17
+	Query: "90476" ; Times: 1
+	Query: "stateprovince:&#34;baja&#34; country:&#34;mexico&#34; recordedby:goldman year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:price" ; Times: 5
+	Query: "Batrachostomus hodgsoni" ; Times: 1
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "F. domesticus" ; Times: 5
+	Query: "USNM 457978" ; Times: 2
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "Brachypteryx leucophrys India" ; Times: 1
+	Query: "USNM 373352" ; Times: 2
+	Query: "USNM 373356" ; Times: 2
+	Query: "USNM 84193" ; Times: 1
+	Query: "Delichon dasypus India" ; Times: 1
+	Query: "catalognumber:461884 institutioncode:USNM" ; Times: 2
+	Query: "calandrella erlangeri" ; Times: 2
+	Query: "Garrulax cineraceus" ; Times: 15
+	Query: "Turdus obscurus India" ; Times: 1
+	Query: "phyllastrephus xavieri" ; Times: 2
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "USNM 210670" ; Times: 1
+	Query: "USNM 463217" ; Times: 2
+	Query: "USNM 210674" ; Times: 2
+	Query: "genus:anas stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Enicurus maculatus India" ; Times: 2
+	Query: "USNM 385280" ; Times: 2
+	Query: "USNM 532901" ; Times: 2
+	Query: "USNM 296135" ; Times: 2
+	Query: "Leucopternis melanops" ; Times: 7
+	Query: "Cisticola cantans" ; Times: 7
+	Query: "Eriocnemis mirabilis" ; Times: 1
+	Query: "Oenanthe isabellina India" ; Times: 1
+	Query: "USNM 451360" ; Times: 2
+	Query: "Ortalis cinereiceps" ; Times: 3
+	Query: "USNM 213870" ; Times: 2
+	Query: "USNM 85801" ; Times: 1
+	Query: "San Martin Baja AND Goldman NOT Peromyscus NOT Mountains NOT Mts NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:miller year &gt;= 1896 year &lt;= 1897" ; Times: 1
+	Query: "USNM 405563" ; Times: 1
+	Query: "Minla cyanouroptera" ; Times: 3
+	Query: "USNM 111505" ; Times: 2
+	Query: "USNM 405568" ; Times: 1
+	Query: "USNM 405569" ; Times: 2
+	Query: "catalognumber:36809 institutioncode:USNM" ; Times: 2
+	Query: "USNM 444216" ; Times: 1
+	Query: "Coracina melaschistos" ; Times: 4
+	Query: "vultur gryphus" ; Times: 3
+	Query: "164255" ; Times: 1
+	Query: "USNM 190319" ; Times: 2
+	Query: "USNM 151668" ; Times: 2
+	Query: "84344" ; Times: 1
+	Query: "USNM 390247" ; Times: 2
+	Query: "Phalacrocorax capensis" ; Times: 4
+	Query: "USNM 216715" ; Times: 1
+	Query: "IXOS mcclellandii India" ; Times: 1
+	Query: "Saltator similis" ; Times: 5
+	Query: "Hypsipetes leucocephalus" ; Times: 4
+	Query: "USNM 250699" ; Times: 1
+	Query: "USNM 135483" ; Times: 2
+	Query: "USNM 336362" ; Times: 3
+	Query: "stateprovince:&#34;baja california&#34; recordedby:price" ; Times: 1
+	Query: "Turdus atrogularis India" ; Times: 1
+	Query: "pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "173507" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 4
+	Query: "Amazilia edward" ; Times: 3
+	Query: "Oriolus oriolus india" ; Times: 1
+	Query: "knud" ; Times: 2
+	Query: "Rhytipterna immunda" ; Times: 1
+	Query: "USNM 461737" ; Times: 2
+	Query: "USNM 327624" ; Times: 1
+	Query: "Amandava amandava India" ; Times: 1
+	Query: "USNM 216443" ; Times: 2
+	Query: "USNM 333044" ; Times: 2
+	Query: "USNM 216445" ; Times: 4
+	Query: "USNM 477930" ; Times: 2
+	Query: "USNM 477931" ; Times: 2
+	Query: "USNM 405580" ; Times: 8
+	Query: "Urocissa flavirostris India" ; Times: 1
+	Query: "Tor tor" ; Times: 9
+	Query: "Tachycineta albilinea" ; Times: 7
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "USNM 153631" ; Times: 2
+	Query: "USNM 246080" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "Muscicapa dauurica India" ; Times: 1
+	Query: "USNM 364913" ; Times: 2
+	Query: "USNM 177697" ; Times: 2
+	Query: "USNM 166072" ; Times: 5
+	Query: "specificepithet:atrocaudata genus:terpsiphone country:&#34;philippines&#34;" ; Times: 1
+	Query: "Haliaeetus albicilla india" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Eremophila alpestris India" ; Times: 2
+	Query: "USNM 283703" ; Times: 2
+	Query: "USNM 283704" ; Times: 2
+	Query: "Turdus niveiceps" ; Times: 9
+	Query: "USNM 284567" ; Times: 1
+	Query: "USNM 436130" ; Times: 2
+	Query: "USNM 426192" ; Times: 2
+	Query: "USNM 426193" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "colius rhodesiae" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "Athene cunicularia troglodytes" ; Times: 1
+	Query: "USNM 152761" ; Times: 3
+	Query: "USNM 152760" ; Times: 3
+	Query: "244897" ; Times: 1
+	Query: "Tarsiger indicus India" ; Times: 1
+	Query: "USNM 177585" ; Times: 2
+	Query: "USNM 159997" ; Times: 2
+	Query: "USNM 215096" ; Times: 3
+	Query: "genus:Dendrocygna stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "USNM 215099" ; Times: 2
+	Query: "USNM 326574" ; Times: 1
+	Query: "USNM 237347" ; Times: 2
+	Query: "catalognumber:109591 institutioncode:USNM" ; Times: 2
+	Query: "USNM 406211" ; Times: 2
+	Query: "Anas platyrhynchos lifestage:immature sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Charadrius placidus" ; Times: 2
+	Query: "USNM 208607" ; Times: 2
+	Query: "Amazilia violiceps" ; Times: 3
+	Query: "181465" ; Times: 1
+	Query: "Zenker Cameroon" ; Times: 1
+	Query: "USNM 448300" ; Times: 1
+	Query: "vntype:specimen specificepithet:castro country:&#34;united states&#34;" ; Times: 3
+	Query: "USNM 184641" ; Times: 2
+	Query: "USNM 284466" ; Times: 1
+	Query: "Wright AND San Martin Island" ; Times: 2
+	Query: "USNM 52391" ; Times: 2
+	Query: "USNM 325476" ; Times: 1
+	Query: "USNM 284460" ; Times: 2
+	Query: "Megalurus punctatus" ; Times: 3
+	Query: "Ptyonoprogne rupestris India" ; Times: 1
+	Query: "USNM 329996" ; Times: 2
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Strix leptogrammica india" ; Times: 1
+	Query: "San Martin Baja AND Goldman NOT Neotoma" ; Times: 1
+	Query: "Tinamus castaneiceps" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "USNM 437308" ; Times: 12
+	Query: "USNM 460145" ; Times: 2
+	Query: "Nothocrax urumutum" ; Times: 3
+	Query: "catalognumber:461883 institutioncode:USNM" ; Times: 1
+	Query: "Apus barbatus" ; Times: 3
+	Query: "USNM 60531" ; Times: 2
+	Query: "Dives dives" ; Times: 2
+	Query: "Phalacrocorax harrisi" ; Times: 4
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Buteo japonicus" ; Times: 4
+	Query: "USNM 462382" ; Times: 2
+	Query: "Apus melba" ; Times: 7
+	Query: "631622" ; Times: 1
+	Query: "USNM 147216" ; Times: 1
+	Query: "catalognumber:449311 institutioncode:USNM" ; Times: 1
+	Query: "173737" ; Times: 1
+	Query: "Ficedula zanthopygia" ; Times: 5
+	Query: "Rimator malacoptilus india" ; Times: 1
+	Query: "Garrulax nuchalis india" ; Times: 1
+	Query: "USNM 456342" ; Times: 1
+	Query: "USNM 456343" ; Times: 1
+	Query: "USNM 162824" ; Times: 3
+	Query: "USNM 446149" ; Times: 2
+	Query: "USNM 446148" ; Times: 1
+	Query: "USNM 313735" ; Times: 1
+	Query: "USNM 313734" ; Times: 1
+	Query: "catalognumber:134977 institutioncode:USNM" ; Times: 1
+	Query: "USNM 446146" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "USNM 211646" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 3
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "USNM 313047" ; Times: 2
+	Query: "USNM 313046" ; Times: 2
+	Query: "skeleton immature family:phoenicopteridae" ; Times: 1
+	Query: "USNM 153625" ; Times: 1
+	Query: "Dicaeum erythrorhynchos India" ; Times: 1
+	Query: "regulus caucasicus" ; Times: 2
+	Query: "Drepanornis" ; Times: 1
+	Query: "catalognumber:582409 institutioncode:USNM" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 4
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "oceanites oceanicus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "USNM 44786" ; Times: 2
+	Query: "Acridotheres albocinctus india" ; Times: 1
+	Query: "Monticola gularis" ; Times: 4
+	Query: "USNM 469824" ; Times: 1
+	Query: "USNM 388548" ; Times: 1
+	Query: "usnm Veracruz mirador mexico" ; Times: 3
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "Bubo nipalensis india" ; Times: 1
+	Query: "specificepithet:bicolor genus:conirostrum" ; Times: 1
+	Query: "USNM 213462" ; Times: 1
+	Query: "Aethopyga gouldiae India" ; Times: 1
+	Query: "Turdus kessleri" ; Times: 15
+	Query: "USNM 419205" ; Times: 2
+	Query: "USNM 23756" ; Times: 1
+	Query: "canirallus" ; Times: 1
+	Query: "USNM 109738" ; Times: 2
+	Query: "Nesopsar nigerrimus" ; Times: 3
+	Query: "USNM 454102" ; Times: 2
+	Query: "Lanius collurioides India" ; Times: 1
+	Query: "USNM 276444" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "USNM 455451" ; Times: 2
+	Query: "Vanellus leucurus" ; Times: 1
+	Query: "USNM 253627" ; Times: 3
+	Query: "catalognumber:131914 institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "USNM 279172" ; Times: 2
+	Query: "USNM 462716" ; Times: 2
+	Query: "USNM 175641" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Falco columbarius india" ; Times: 1
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "Motacilla maderaspatensis India" ; Times: 1
+	Query: "specificepithet:narcissina country:&#34;philippines&#34;" ; Times: 1
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "USNM 460494" ; Times: 2
+	Query: "genus:Dendrocygna stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "USNM 132763" ; Times: 2
+	Query: "Fringilla montifringilla" ; Times: 5
+	Query: "USNM 327348" ; Times: 1
+	Query: "pterodroma arminjoniana" ; Times: 1
+	Query: "USNM 159290" ; Times: 2
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "USNM 353906" ; Times: 2
+	Query: "USNM 278086" ; Times: 2
+	Query: "USNM 278085" ; Times: 2
+	Query: "USNM 278083" ; Times: 2
+	Query: "USNM 278082" ; Times: 2
+	Query: "Turdus plebejus" ; Times: 9
+	Query: "USNM 278088" ; Times: 1
+	Query: "Amazona agilis" ; Times: 1
+	Query: "USNM 32779" ; Times: 1
+	Query: "Abbott Haramosh" ; Times: 1
+	Query: "Campylorhynchus griseus griseus" ; Times: 1
+	Query: "171739" ; Times: 2
+	Query: "catalognumber:148902 institutioncode:USNM" ; Times: 2
+	Query: "USNM 212608" ; Times: 2
+	Query: "catalognumber:525811 institutioncode:USNM" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Empidonax traillii egg cochise arizona" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "Nelson AND Goldman AND COronados AND 1905" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Circus cyaneus india" ; Times: 1
+	Query: "Ploceus megarhynchus India" ; Times: 1
+	Query: "specificepithet:immutabilis family:Diomedeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Fratercula (111792 OR 381223 OR 381224) institutioncode:USNM" ; Times: 1
+	Query: "Buteo hemilasius" ; Times: 6
+	Query: "specificepithet:palustris genus:Quiscalus institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 383380" ; Times: 1
+	Query: "USNM 181631" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "USNM 181632" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "genus:Dendrocygna stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "USNM 215081" ; Times: 3
+	Query: "180276" ; Times: 2
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "USNM 326569" ; Times: 2
+	Query: "Geositta saxicolina" ; Times: 1
+	Query: "USNM 335117" ; Times: 3
+	Query: "USNM 257636" ; Times: 6
+	Query: "USNM 479218" ; Times: 4
+	Query: "specificepithet:murina family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "USNM 487797" ; Times: 1
+	Query: "USNM 406204" ; Times: 2
+	Query: "USNM 406205" ; Times: 2
+	Query: "USNM 71531" ; Times: 2
+	Query: "USNM 110205" ; Times: 2
+	Query: "dade county georgia" ; Times: 2
+	Query: "Lanius isabellinus India" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 7
+	Query: "USNM 346829" ; Times: 1
+	Query: "Tyto alba guatemalae" ; Times: 1
+	Query: "Apus niansae" ; Times: 3
+	Query: "USNM 148157" ; Times: 1
+	Query: "USNM 119683" ; Times: 2
+	Query: "catalognumber:577309 institutioncode:USNM" ; Times: 1
+	Query: "Ficedula strophiata India" ; Times: 2
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; year &gt;= 1896 year &lt;= 1897" ; Times: 2
+	Query: "Anthus rubescens Baja California Sur" ; Times: 1
+	Query: "Anomalospiza imberbis" ; Times: 8
+	Query: "USNM 147208" ; Times: 2
+	Query: "USNM 147209" ; Times: 2
+	Query: "Leucosticte brandti" ; Times: 8
+	Query: "Heterophasia capistrata india" ; Times: 2
+	Query: "USNM 147206" ; Times: 2
+	Query: "USNM 147205" ; Times: 2
+	Query: "USNM 134252" ; Times: 3
+	Query: "Leptoptilos dubius" ; Times: 1
+	Query: "USNM 359690" ; Times: 2
+	Query: "pterodroma neglecta year &gt;= 1989 year &lt;= 2019" ; Times: 1
+	Query: "USNM 359360" ; Times: 2
+	Query: "USNM 322640" ; Times: 2
+	Query: "vntype:specimen genus:Busarellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "USNM 313722" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitidus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Apus pacificus" ; Times: 10
+	Query: "Carpodacus grandis" ; Times: 3
+	Query: "puffinus assimilis kermadec" ; Times: 1
+	Query: "USNM 220224" ; Times: 1
+	Query: "Pycnonotus leucogenys India" ; Times: 2
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Turdus pelios" ; Times: 9
+	Query: "Napothera epilepidota india" ; Times: 1
+	Query: "USNM 456719" ; Times: 1
+	Query: "vntype:specimen family:Spheniscidae catalognumber:1823 institutioncode:USNM" ; Times: 1
+	Query: "J. cuello" ; Times: 1
+	Query: "Cistothorus palustris Baja California Sur" ; Times: 1
+	Query: "catalognumber:582280 institutioncode:USNM" ; Times: 1
+	Query: "USNM 456716" ; Times: 1
+	Query: "USNM 449846" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Chrysocolaptes festivus india" ; Times: 1
+	Query: "skeleton specificepithet:occipitalis genus:podiceps" ; Times: 1
+	Query: "USNM 469831" ; Times: 1
+	Query: "Numenius phaeopus India" ; Times: 1
+	Query: "Halcyon coromanda india" ; Times: 1
+	Query: "USNM 484162" ; Times: 2
+	Query: "Buteo jamaicensis harlani California" ; Times: 1
+	Query: "Gampsorhynchus rufulus india" ; Times: 1
+	Query: "Apus affinis" ; Times: 3
+	Query: "Branta bernicla" ; Times: 5
+	Query: "USNM 116798" ; Times: 3
+	Query: "USNM 116799" ; Times: 2
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Terpsiphone viridis" ; Times: 4
+	Query: "Columba rupestris" ; Times: 3
+	Query: "netta rufina egg" ; Times: 1
+	Query: "Wright AND Coronados AND Oceanodroma" ; Times: 3
+	Query: "USNM 514992" ; Times: 1
+	Query: "specificepithet:noguchii genus:Sapheopipo" ; Times: 2
+	Query: "Hirundo smithii India" ; Times: 1
+	Query: "Emberiza bruniceps India" ; Times: 1
+	Query: "Leucopternis kuhli" ; Times: 7
+	Query: "usnm 458789" ; Times: 1
+	Query: "MENTOCREX" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "atrirostris" ; Times: 1
+	Query: "Wright AND San Martin" ; Times: 1
+	Query: "genus:Harpia country:&#34;Costa Rica&#34;" ; Times: 4
+	Query: "USNM 214913" ; Times: 1
+	Query: "USNM 306687" ; Times: 2
+	Query: "Aethopyga nipalensis India" ; Times: 2
+	Query: "USNM-464476" ; Times: 1
+	Query: "USNM; JUNCO HYEMALIS" ; Times: 1
+	Query: "USNM 213920" ; Times: 2
+	Query: "USNM 425410" ; Times: 1
+	Query: "USNM 216943" ; Times: 2
+	Query: "Anthus similis India" ; Times: 1
+	Query: "USNM 405838" ; Times: 1
+	Query: "USNM 405839" ; Times: 1
+	Query: "Phylloscopus cantator India" ; Times: 1
+	Query: "USNM 141478" ; Times: 3
+	Query: "USNM 128470" ; Times: 2
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Brown NOT USA NOT Tres NOT Remington NOT British" ; Times: 1
+	Query: "Buteo rufinus india" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 9
+	Query: "specificepithet:bernicla genus:Branta stateprovince:&#34;Alaska&#34; year &gt;= 1917 year &lt;= 1917" ; Times: 2
+	Query: "country:&#34;Paraguay&#34; (willim) year &gt;= 1941 month &gt;= 4" ; Times: 1
+	Query: "zosterops kasaicus" ; Times: 1
+	Query: "USNM 109716" ; Times: 2
+	Query: "Psalidoprocne pristoptera" ; Times: 7
+	Query: "USNM 326823" ; Times: 1
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "USNM 513087" ; Times: 2
+	Query: "USNM 326776" ; Times: 4
+	Query: "pelecanoides garnotii" ; Times: 8
+	Query: "USNM 253764" ; Times: 4
+	Query: "class:Aves country:&#34;Burkina Faso&#34;" ; Times: 1
+	Query: "USNM 253761" ; Times: 1
+	Query: "USNM 445787" ; Times: 1
+	Query: "Leiothrix lutea india" ; Times: 3
+	Query: "USNM 278091" ; Times: 2
+	Query: "USNM 253296" ; Times: 2
+	Query: "USNM 324559" ; Times: 2
+	Query: "USNM 216199" ; Times: 3
+	Query: "vntype:specimen genus:Milvago class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas diazi lifestage:Immature sex:male" ; Times: 1
+	Query: "USNM 149319" ; Times: 2
+	Query: "Amazilia candida" ; Times: 3
+	Query: "Anas strepera" ; Times: 13
+	Query: "USNM 472037" ; Times: 1
+	Query: "USNM 484167" ; Times: 1
+	Query: "Sphenocichla roberti india" ; Times: 1
+	Query: "USNM 279140" ; Times: 2
+	Query: "USNM 279143" ; Times: 5
+	Query: "USNM 317196" ; Times: 1
+	Query: "USNM 254127" ; Times: 1
+	Query: "Ochthoeca poliogastra" ; Times: 1
+	Query: "Spelaeornis longicaudatus india" ; Times: 1
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "Tachycineta euchrysea" ; Times: 4
+	Query: "USNM 461665" ; Times: 1
+	Query: "USNM 278780" ; Times: 2
+	Query: "USNM 176077" ; Times: 2
+	Query: "Acridotheres ginginianus India" ; Times: 2
+	Query: "USNM 405657" ; Times: 2
+	Query: "USNM 405650" ; Times: 2
+	Query: "Polystictus pectoralis brevipennis" ; Times: 1
+	Query: "USNM 423486" ; Times: 1
+	Query: "USNM 75288" ; Times: 2
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Remington" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 9
+	Query: "USNM 256265" ; Times: 1
+	Query: "USNM 256264" ; Times: 1
+	Query: "genus:Harpia country:&#34;Nicaragua&#34;" ; Times: 3
+	Query: "USNM 159088" ; Times: 1
+	Query: "USNM 159086" ; Times: 1
+	Query: "USNM 406276" ; Times: 2
+	Query: "USNM 406275" ; Times: 2
+	Query: "USNM 406272" ; Times: 2
+	Query: "USNM 406271" ; Times: 2
+	Query: "USNM 71509" ; Times: 2
+	Query: "pseudocolopteryx" ; Times: 3
+	Query: "Colaptes fernandinae" ; Times: 2
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Poospiza lateralis" ; Times: 3
+	Query: "Serinus canaria" ; Times: 3
+	Query: "cathartes hasmedia:1" ; Times: 2
+	Query: "Pteruthius rufiventer India" ; Times: 1
+	Query: "USNM 116385" ; Times: 1
+	Query: "173958" ; Times: 1
+	Query: "USNM 346830" ; Times: 1
+	Query: "USNM 443112" ; Times: 2
+	Query: "catalognumber:577286 institutioncode:USNM" ; Times: 1
+	Query: "Vireo huttoni insularis" ; Times: 1
+	Query: "todirostrum annectens" ; Times: 1
+	Query: "surniculus dicruroides" ; Times: 2
+	Query: "USNM 311336" ; Times: 2
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "USNM 119696" ; Times: 2
+	Query: "USNM 148146" ; Times: 2
+	Query: "genus:contopus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "USNM 179893" ; Times: 1
+	Query: "USNM 115593" ; Times: 2
+	Query: "USNM 115592" ; Times: 2
+	Query: "USNM 179895" ; Times: 1
+	Query: "USNM 543303" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "Chionis minor" ; Times: 2
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "USNM 146924" ; Times: 2
+	Query: "Phylloscopus armandii" ; Times: 9
+	Query: "USNM 189428" ; Times: 2
+	Query: "catalognumber:163323" ; Times: 1
+	Query: "A. cristatella" ; Times: 6
+	Query: "USNM 209446" ; Times: 2
+	Query: "USNM 110523" ; Times: 2
+	Query: "USNM 181402" ; Times: 2
+	Query: "surniculus lugubris" ; Times: 1
+	Query: "100852" ; Times: 2
+	Query: "streptopelia comorensis" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "Sarothrura" ; Times: 1
+	Query: "Amazona collaria" ; Times: 1
+	Query: "Zoothera marginata india" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Tarsiger chrysaeus India" ; Times: 1
+	Query: "USNM 335106" ; Times: 2
+	Query: "USNM 335107" ; Times: 7
+	Query: "USNM 332679" ; Times: 2
+	Query: "Pericrocotus ethologus" ; Times: 4
+	Query: "USNM 264178" ; Times: 2
+	Query: "Apkawaruk" ; Times: 2
+	Query: "USNM 160401" ; Times: 1
+	Query: "USNM 178130" ; Times: 2
+	Query: "USNM 120649" ; Times: 3
+	Query: "USNM 178137" ; Times: 2
+	Query: "country:&#34;GABON&#34; year &gt;= 2002 year &lt;= 2002 month &gt;= 2 month &lt;= 3 institutioncode:USNM" ; Times: 2
+	Query: "USNM 456700" ; Times: 1
+	Query: "USNM 357637" ; Times: 1
+	Query: "USNM 372433" ; Times: 1
+	Query: "USNM 148360" ; Times: 2
+	Query: "USNM 244200" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "USNM 487099" ; Times: 3
+	Query: "Sitta insularis" ; Times: 1
+	Query: "Apus pallidus" ; Times: 3
+	Query: "Transcaspian" ; Times: 1
+	Query: "Ploceus ocularis" ; Times: 8
+	Query: "Cyanochen cyanopterus" ; Times: 13
+	Query: "260158" ; Times: 2
+	Query: "Carpodacus erythrinus India" ; Times: 3
+	Query: "Ceyx argentatus" ; Times: 2
+	Query: "hypothymis coelestis" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 5
+	Query: "USNM 192596" ; Times: 2
+	Query: "Scolopax celebensis" ; Times: 1
+	Query: "Aegithalos concinnus india" ; Times: 2
+	Query: "Garrulax gularis india" ; Times: 1
+	Query: "USNM 127128" ; Times: 2
+	Query: "class:Aves catalognumber:61477" ; Times: 1
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "USNM 19042" ; Times: 2
+	Query: "Nelson AND San MArtin" ; Times: 1
+	Query: "USNM 372659" ; Times: 2
+	Query: "USNM 250731" ; Times: 2
+	Query: "USNM 145824" ; Times: 1
+	Query: "USNM 103029" ; Times: 2
+	Query: "specificepithet:cirrhata genus:fratercula year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "specificepithet:cirrhata genus:fratercula year &gt;= 1983 year &lt;= 1987" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:carpenter year &gt;= 1920 year &lt;= 1925" ; Times: 1
+	Query: "genus:Fluvicola country:&#34;Peru&#34;" ; Times: 9
+	Query: "USNM 458456" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "USNM 329638" ; Times: 2
+	Query: "USNM 390266" ; Times: 2
+	Query: "USNM 128802" ; Times: 2
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "Aerodramus salangana" ; Times: 3
+	Query: "USNM 82430" ; Times: 2
+	Query: "USNM 513895" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 4
+	Query: "Elminia longicauda" ; Times: 4
+	Query: "USNM 216053" ; Times: 1
+	Query: "USNM 455498" ; Times: 2
+	Query: "Leucopternis princeps" ; Times: 4
+	Query: "USNM 102193" ; Times: 2
+	Query: "Gallinago andina" ; Times: 1
+	Query: "Pakistan leucogenys" ; Times: 2
+	Query: "Rallicula forbesi" ; Times: 1
+	Query: "USNM 255203" ; Times: 1
+	Query: "USNM 159271" ; Times: 2
+	Query: "USNM 327369" ; Times: 1
+	Query: "USNM 305189" ; Times: 2
+	Query: "USNM 300113" ; Times: 2
+	Query: "catalognumber:631622 institutioncode:USNM" ; Times: 1
+	Query: "Syrmaticus humiae" ; Times: 3
+	Query: "USNM 370492" ; Times: 1
+	Query: "USNM 460457" ; Times: 2
+	Query: "Paradigalla carunculata" ; Times: 2
+	Query: "catalognumber:553670 institutioncode:USNM" ; Times: 1
+	Query: "Tityra pelzelni" ; Times: 1
+	Query: "USNM 277482" ; Times: 2
+	Query: "333703" ; Times: 1
+	Query: "USNM 275352" ; Times: 2
+	Query: "Hemicircus india" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "USNM 239994" ; Times: 3
+	Query: "USNM 173381" ; Times: 2
+	Query: "USNM 456428" ; Times: 1
+	Query: "Zoothera monticola india" ; Times: 1
+	Query: "USNM 410711" ; Times: 1
+	Query: "Quelea quelea" ; Times: 8
+	Query: "USNM 405669" ; Times: 1
+	Query: "USNM 178731" ; Times: 1
+	Query: "Tachyeres brachypterus" ; Times: 6
+	Query: "Vireo huttoni victoria" ; Times: 1
+	Query: "USNM 173016" ; Times: 1
+	Query: "USNM 405660" ; Times: 2
+	Query: "USNM 405667" ; Times: 1
+	Query: "USNM 391101" ; Times: 1
+	Query: "Buteo solitarius" ; Times: 4
+	Query: "microbates unicus" ; Times: 1
+	Query: "USNM 280052" ; Times: 2
+	Query: "genus:Colaptes class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:erythronota" ; Times: 1
+	Query: "Metallura eupogon" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 2
+	Query: "USNM 487735" ; Times: 2
+	Query: "Aerodramus brevirostris" ; Times: 3
+	Query: "USNM 513091" ; Times: 3
+	Query: "Prinia sylvatica India" ; Times: 1
+	Query: "USNM 159309" ; Times: 2
+	Query: "USNM 179460" ; Times: 1
+	Query: "Cephalopyrus flammiceps India" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Pseudopodoces humilis" ; Times: 4
+	Query: "USNM 159090" ; Times: 1
+	Query: "USNM 71515" ; Times: 2
+	Query: "locality:Arno country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Stiphrornis class:Aves institutioncode:USNM" ; Times: 1
+	Query: "Aegithalos leucogenys" ; Times: 6
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Cladorhynchus leucocephalus" ; Times: 2
+	Query: "USNM 367219" ; Times: 2
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;brazil&#34;" ; Times: 1
+	Query: "E. Nelson AND Guadalupe NOT Texas NOT Rosa NOT New" ; Times: 1
+	Query: "USNM 437700" ; Times: 2
+	Query: "Emberiza flaviventris" ; Times: 3
+	Query: "Tyto alba tuidara" ; Times: 1
+	Query: "specificepithet:xanthonotus genus:oriolus country:&#34;philippines&#34;" ; Times: 1
+	Query: "USNM 182297" ; Times: 1
+	Query: "USNM 212409" ; Times: 2
+	Query: "USNM 243029" ; Times: 2
+	Query: "USNM 237736" ; Times: 2
+	Query: "USNM 237737" ; Times: 2
+	Query: "sclerurus ennosiphyllus" ; Times: 1
+	Query: "USNM 151136" ; Times: 2
+	Query: "USNM 119261" ; Times: 2
+	Query: "USNM 428270" ; Times: 2
+	Query: "USNM 315150" ; Times: 1
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "USNM 465175" ; Times: 2
+	Query: "USNM 349589" ; Times: 2
+	Query: "vntype:specimen specificepithet:mexicanus genus:Quiscalus institutioncode:USNM" ; Times: 1
+	Query: "USNM 483616" ; Times: 2
+	Query: "Hemicircus canente india" ; Times: 1
+	Query: "USNM 168795" ; Times: 2
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "USNM 256962" ; Times: 2
+	Query: "genus:podiceps country:&#34;argentina&#34; (skeleton)" ; Times: 1
+	Query: "USNM 358128" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:price year &gt;= 1896 year &lt;= 1897" ; Times: 1
+	Query: "genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "USNM 219066" ; Times: 2
+	Query: "USNM 255635" ; Times: 2
+	Query: "ramphocinclus" ; Times: 1
+	Query: "USNM 468039" ; Times: 2
+	Query: "Melospiza melodia salt lake utah egg" ; Times: 1
+	Query: "houbaropsis bengalensis" ; Times: 1
+	Query: "USNM 443105" ; Times: 2
+	Query: "Criniger ochraceus" ; Times: 4
+	Query: "USNM 514269" ; Times: 1
+	Query: "USNM 120650" ; Times: 1
+	Query: "USNM 245788" ; Times: 2
+	Query: "USNM 483694" ; Times: 2
+	Query: "USNM 264341" ; Times: 2
+	Query: "USNM 264343" ; Times: 1
+	Query: "USNM 264342" ; Times: 1
+	Query: "Pseudoleistes virescens" ; Times: 3
+	Query: "stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; recordedby:price" ; Times: 1
+	Query: "Anas diazi lifestage:Adult sex:Male" ; Times: 1
+	Query: "Fort Clark 1893" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Garrulax perspicillatus" ; Times: 3
+	Query: "vntype:specimen genus:Mesembrinibis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "USNM 307972" ; Times: 1
+	Query: "Pelecanus crispus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Dolospingus fringilloides" ; Times: 1
+	Query: "USNM 408275" ; Times: 2
+	Query: "Arborophila rufogularis" ; Times: 4
+	Query: "Alcedo meninting country:&#34;India&#34;" ; Times: 1
+	Query: "usnm 118619" ; Times: 1
+	Query: "USNM 435755" ; Times: 1
+	Query: "USNM 255570" ; Times: 1
+	Query: "Phalacrocorax featherstoni" ; Times: 4
+	Query: "173504" ; Times: 1
+	Query: "specificepithet:obscurus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "USNM 192726" ; Times: 2
+	Query: "USNM 213082" ; Times: 1
+	Query: "catalognumber:484014 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:cyanirostris genus:Knipolegus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "USNM 148220" ; Times: 2
+	Query: "USNM 192729" ; Times: 2
+	Query: "Tyto alba nigrescens" ; Times: 1
+	Query: "USNM 255599" ; Times: 1
+	Query: "Anser fabalis" ; Times: 5
+	Query: "Platalea leucorodia" ; Times: 3
+	Query: "specificepithet:ruficeps genus:orthotomus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:lalage country:&#34;philippines&#34;" ; Times: 1
+	Query: "Chionis alba" ; Times: 3
+	Query: "specificepithet:griseocephalus genus:Dendropicos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 458467" ; Times: 1
+	Query: "San Martin Baja AND Goldman NOT Haematopus NOT Peromyscus NOT Mountains NOT Mts NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 5
+	Query: "Hypsipetes amaurotis" ; Times: 4
+	Query: "USNM 213581" ; Times: 1
+	Query: "specificepithet:sorghophilus genus:acrocephalus country:&#34;philippines&#34;" ; Times: 2
+	Query: "USNM 109173" ; Times: 2
+	Query: "USNM 109171" ; Times: 2
+	Query: "USNM 145253" ; Times: 2
+	Query: "specificepithet:taczanowskii genus:podiceps" ; Times: 1
+	Query: "specificepithet:hypoleuca genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "USNM 463002" ; Times: 2
+	Query: "catalognumber:163166 institutioncode:USNM" ; Times: 2
+	Query: "Lanius vittatus India" ; Times: 2
+	Query: "Turdus ruficollis" ; Times: 9
+	Query: "USNM 317794" ; Times: 2
+	Query: "USNM 326847" ; Times: 1
+	Query: "USNM 326845" ; Times: 1
+	Query: "genus:rhinomyias country:&#34;philippines&#34;" ; Times: 2
+	Query: "Gyps fulvus" ; Times: 4
+	Query: "USNM 326848" ; Times: 1
+	Query: "oceanites oceanicus USNM year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "Ninox superciliaris" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "USNM 140472" ; Times: 1
+	Query: "Phoenicurus hodgsoni India" ; Times: 1
+	Query: "USNM 287004" ; Times: 2
+	Query: "USNM 32031" ; Times: 1
+	Query: "USNM 32030" ; Times: 1
+	Query: "genus:Anodorhynchus" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 5
+	Query: "Streptopelia orientalis" ; Times: 3
+	Query: "Aix galericulata" ; Times: 2
+	Query: "catalognumber:458658 institutioncode:USNM" ; Times: 1
+	Query: "L. canus" ; Times: 6
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "USNM 159996" ; Times: 2
+	Query: "Buteo jamaicensis krideri" ; Times: 1
+	Query: "Tragopan temminckii" ; Times: 7
+	Query: "588666 institutioncode:USNM" ; Times: 1
+	Query: "Coturnix coromandelica" ; Times: 1
+	Query: "USNM 449520" ; Times: 2
+	Query: "USNM 449521" ; Times: 2
+	Query: "USNM 114426" ; Times: 1
+	Query: "USNM 460203" ; Times: 1
+	Query: "USNM 280040" ; Times: 2
+	Query: "Anthus richardi India" ; Times: 1
+	Query: "USNM 109191" ; Times: 2
+	Query: "recordedby:w. w. price" ; Times: 3
+	Query: "USNM 268405" ; Times: 2
+	Query: "111653" ; Times: 1
+	Query: "pachyptila desolata kerguelen" ; Times: 2
+	Query: "San Martin Baja AND Goldman NOT Mountains NOT Mts NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "USNM 223203" ; Times: 1
+	Query: "San Martin Baja AND Goldman NOT Mountains NOT Mtns NOT Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "Tyto alba furcata" ; Times: 1
+	Query: "Garrulax caerulatus india" ; Times: 1
+	Query: "specificepithet:severus genus:falco country:&#34;philippines&#34;" ; Times: 1
+	Query: "USNM 406253" ; Times: 2
+	Query: "baja california sur Geothlypis trichas" ; Times: 1
+	Query: "Amazilia rutila" ; Times: 7
+	Query: "USNM 148423" ; Times: 3
+	Query: "USNM 114514" ; Times: 2
+	Query: "Anthus godlewskii India" ; Times: 1
+	Query: "USNM 256805" ; Times: 2
+	Query: "USNM 385288" ; Times: 2
+	Query: "catalognumber:304848 institutioncode:USNM" ; Times: 2
+	Query: "Lipaugus unirufus mexico" ; Times: 1
+	Query: "USNM 130011" ; Times: 2
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "USNM 298182" ; Times: 2
+	Query: "Tarsiger hyperythrus India" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 5
+	Query: "specificepithet:tyrannus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "USNM 256645" ; Times: 1
+	Query: "Ketupa zeylonensis india" ; Times: 1
+	Query: "Passer montanus India" ; Times: 1
+	Query: "Rallus wetmorei" ; Times: 1
+	Query: "USNM 71679" ; Times: 2
+	Query: "USNM 212411" ; Times: 2
+	Query: "USNM 409338" ; Times: 1
+	Query: "USNM 212414" ; Times: 2
+	Query: "USNM 212415" ; Times: 4
+	Query: "USNM 212417" ; Times: 2
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "vntype:specimen recordedby:Picchi" ; Times: 1
+	Query: "USNM 110986" ; Times: 3
+	Query: "USNM 147251" ; Times: 2
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "Gyps fulvus india" ; Times: 1
+	Query: "USNM 30094" ; Times: 1
+	Query: "Gallinago imperialis" ; Times: 1
+	Query: "Seicercus burkii" ; Times: 4
+	Query: "USNM 263678" ; Times: 1
+	Query: "USNM 170760" ; Times: 1
+	Query: "Anthus campestris India" ; Times: 2
+	Query: "(49095)" ; Times: 1
+	Query: "USNM 372701" ; Times: 2
+	Query: "USNM 372700" ; Times: 2
+	Query: "Athene cunicularia amaura" ; Times: 1
+	Query: "USNM 372707" ; Times: 2
+	Query: "F. corniculata" ; Times: 6
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "USNM 213876" ; Times: 1
+	Query: "USNM 148692" ; Times: 2
+	Query: "1823 institutioncode:USNM" ; Times: 1
+	Query: "USNM 111121" ; Times: 2
+	Query: "Nipponia nippon" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34; recordedby:harllee" ; Times: 1
+	Query: "strigops" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 6
+	Query: "ploceus neumanni" ; Times: 4
+	Query: "Phyllastrephus icterinus" ; Times: 4
+	Query: "USNM 184857" ; Times: 2
+	Query: "USNM 342151" ; Times: 2
+	Query: "Aquila rapax india" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:phillips basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "E. Nelson AND Guadalupe NOT Texas NOT Rosa" ; Times: 1
+	Query: "USNM 255345" ; Times: 2
+	Query: "USNM 255346" ; Times: 2
+	Query: "Anas platyrhynchos lifestage:immature sex:male AND (NOT diazi)" ; Times: 1
+	Query: "Circus pygargus india" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "genus:Fratercula catalognumber:111796 institutioncode:USNM" ; Times: 2
+	Query: "Sitta castanea Jammu" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 5
+	Query: "USNM 333702" ; Times: 1
+	Query: "USNM 333703" ; Times: 1
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "USNM 514676" ; Times: 1
+	Query: "USNM 169252" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "Gallinago nigripennis angolensis" ; Times: 1
+	Query: "genus:antilophia" ; Times: 1
+	Query: "Quiscalus palustris" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 3
+	Query: "USNM 388508" ; Times: 1
+	Query: "Tringa guttifer" ; Times: 1
+	Query: "Tachycineta cyaneoviridis" ; Times: 4
+	Query: "India leucogenys" ; Times: 2
+	Query: "USNM 390720" ; Times: 1
+	Query: "USNM 255297" ; Times: 2
+	Query: "Pycnonotus xanthorrhous" ; Times: 7
+	Query: "USNM 255294" ; Times: 2
+	Query: "skeleton family:podicipedidae lifestage:juvenile" ; Times: 1
+	Query: "Pycnonotus taivanus" ; Times: 4
+	Query: "USNM 182972" ; Times: 2
+	Query: "USNM 250712" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 5
+	Query: "USNM 111125" ; Times: 1
+	Query: "USNM 329657" ; Times: 2
+	Query: "bulweria fallax" ; Times: 1
+	Query: "USNM 359865" ; Times: 2
+	Query: "346084 institutioncode:USNM" ; Times: 1
+	Query: "Pnoepyga pusilla India" ; Times: 3
+	Query: "USNM 213919" ; Times: 2
+	Query: "USNM 411281" ; Times: 3
+	Query: "Anas diazi" ; Times: 1
+	Query: "USNM 515035" ; Times: 1
+	Query: "USNM 461504" ; Times: 4
+	Query: "USNM 461505" ; Times: 2
+	Query: "USNM 336145" ; Times: 2
+	Query: "Agapornis nigrigenis" ; Times: 1
+	Query: "Apus apus pekinensis" ; Times: 2
+	Query: "Saxicola jerdoni India" ; Times: 1
+	Query: "USNM 213353" ; Times: 2
+	Query: "USNM 154576" ; Times: 2
+	Query: "USNM 317231" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Apalis flavida" ; Times: 4
+	Query: "USNM 465887" ; Times: 2
+	Query: "USNM 254230" ; Times: 1
+	Query: "USNM 254231" ; Times: 1
+	Query: "catalognumber:631622" ; Times: 1
+	Query: "Pellorneum tickelli india" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "USNM 477277" ; Times: 1
+	Query: "USNM 255634" ; Times: 2
+	Query: "USNM 331038" ; Times: 2
+	Query: "USNM 218309" ; Times: 1
+	Query: "Circus melanoleucos" ; Times: 4
+	Query: "Columba palumbus" ; Times: 3
+	Query: "USNM 308497" ; Times: 2
+	Query: "catalognumber:110511 institutioncode:USNM" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 1
+	Query: "USNM 188756" ; Times: 1
+	Query: "USNM 324566" ; Times: 3
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "maracana" ; Times: 1
+	Query: "USNM 236619" ; Times: 2
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "USNM 413108" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Ficedula albicilla" ; Times: 9
+	Query: "USNM 234613" ; Times: 2
+	Query: "Athene brama" ; Times: 2
+	Query: "USNM 275372" ; Times: 2
+	Query: "Loxioides bailleui" ; Times: 3
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "USNM 179027" ; Times: 2
+	Query: "USNM 238071" ; Times: 1
+	Query: "USNM 147210" ; Times: 2
+	Query: "Motacilla alba" ; Times: 5
+	Query: "USNM 167022" ; Times: 2
+	Query: "gypaetus" ; Times: 3
+	Query: "USNM 437389" ; Times: 1
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "San Martin Baja AND Goldman AND Birds AND Arenaria NOT Neotoma NOT Phoca" ; Times: 1
+	Query: "Empidonax Schaldach" ; Times: 1
+	Query: "USNM 405689" ; Times: 2
+	Query: "genus:luscinia country:&#34;philippines&#34;" ; Times: 1
+	Query: "144863" ; Times: 1
+	Query: "USNM 151331" ; Times: 4
+	Query: "USNM 64649" ; Times: 2
+	Query: "USNM 150244" ; Times: 2
+	Query: "Nagozruk 1928-06-24" ; Times: 3
+	Query: "Orkney egg" ; Times: 2
+	Query: "Chionis" ; Times: 1
+	Query: "Seicercus grammiceps" ; Times: 7
+	Query: "USNM 204007" ; Times: 2
+	Query: "catalognumber:577277 institutioncode:USNM" ; Times: 1
+	Query: "Chaetornis striata India" ; Times: 1
+	Query: "USNM 360530" ; Times: 1
+	Query: "Vanellus leucurus India" ; Times: 1
+	Query: "USNM 393490" ; Times: 2
+	Query: "USNM 393491" ; Times: 2
+	Query: "Xema sabini" ; Times: 6
+	Query: "USNM 406249" ; Times: 2
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "USNM 406242" ; Times: 2
+	Query: "USNM 406241" ; Times: 3
+	Query: "Anas falcata" ; Times: 13
+	Query: "Tichodroma muraria india" ; Times: 1
+	Query: "Oceanodroma furcata USNM" ; Times: 2
+	Query: "Baeopogon indicator" ; Times: 4
+	Query: "USNM 368437" ; Times: 2
+	Query: "USNM 150337" ; Times: 2
+	Query: "USNM 113730" ; Times: 2
+	Query: "USNM 130006" ; Times: 2
+	Query: "Cinclus pallasii india" ; Times: 1
+	Query: "chloropsis flavipennis" ; Times: 1
+	Query: "locality:robinson county:&#34;chatham&#34;" ; Times: 2
+	Query: "USNM 49496" ; Times: 2
+	Query: "catalognumber:528401 institutioncode:USNM" ; Times: 2
+	Query: "USNM 356827" ; Times: 2
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Birds" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "USNM 357386" ; Times: 2
+	Query: "USNM 71662" ; Times: 2
+	Query: "Calandrella brachydactyla India" ; Times: 1
+	Query: "USNM 329899" ; Times: 2
+	Query: "USNM 56999" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "USNM 151113" ; Times: 2
+	Query: "specificepithet:glaucus genus:anodorhynchus" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "USNM 446511" ; Times: 2
+	Query: "catalognumber:587303 institutioncode:USNM" ; Times: 2
+	Query: "Aythya ferina" ; Times: 11
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Aratinga acuticaudata" ; Times: 3
+	Query: "USNM 98116" ; Times: 2
+	Query: "genus:Fratercula catalognumber:381220 institutioncode:USNM" ; Times: 1
+	Query: "(enola)" ; Times: 1
+	Query: "USNM 313767" ; Times: 1
+	Query: "Heliopais personata" ; Times: 1
+	Query: "Zoothera dauma india" ; Times: 1
+	Query: "USNM 443166" ; Times: 1
+	Query: "Hymenolaimus malacorhynchos" ; Times: 11
+	Query: "specificepithet:novaehollandiae genus:tachybaptus (skeleton)" ; Times: 1
+	Query: "USNM 263783" ; Times: 2
+	Query: "specificepithet:montana genus:brachypteryx country:&#34;philippines&#34;" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "USNM 388663" ; Times: 2
+	Query: "Turdus eunomus" ; Times: 15
+	Query: "USNM 191921" ; Times: 2
+	Query: "USNM 285766" ; Times: 2
+	Query: "USNM 325775" ; Times: 1
+	Query: "USNM 255354" ; Times: 2
+	Query: "USNM 211853" ; Times: 2
+	Query: "genus:tolmomyias family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "USNM 251149" ; Times: 2
+	Query: "Dendrocitta frontalis India" ; Times: 1
+	Query: "Veracruz mirador mexico" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "USNM 116866" ; Times: 1
+	Query: "USNM 211327" ; Times: 1
+	Query: "USNM 396260" ; Times: 2
+	Query: "USNM 169247" ; Times: 1
+	Query: "asio flammeus india" ; Times: 2
+	Query: "Vimba vimba" ; Times: 12
+	Query: "Amazilia viridicauda" ; Times: 3
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "Phoenicurus frontalis India" ; Times: 2
+	Query: "USNM 404019" ; Times: 1
+	Query: "Larus atricilla" ; Times: 6
+	Query: "USNM 255753" ; Times: 2
+	Query: "USNM 425230" ; Times: 2
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "USNM 255755" ; Times: 2
+	Query: "USNM 255286" ; Times: 2
+	Query: "USNM 255282" ; Times: 1
+	Query: "Gecinulus grantia india" ; Times: 1
+	Query: "USNM 515951" ; Times: 1
+	Query: "naungmungensis" ; Times: 1
+	Query: "USNM 451458" ; Times: 1
+	Query: "USNM 284541" ; Times: 1
+	Query: "USNM 116269" ; Times: 2
+	Query: "catalognumber:226032" ; Times: 1
+	Query: "Gorsachius goisagi" ; Times: 9
+	Query: "USNM 179290" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 7
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Dicaeum agile India" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "USNM 249062" ; Times: 2
+	Query: "USNM 391819" ; Times: 2
+	Query: "Gallinago nigripennis nigripennis" ; Times: 1
+	Query: "Hemispingus frontalis" ; Times: 2
+	Query: "USNM 484037" ; Times: 2
+	Query: "Buteo ridgwayi" ; Times: 7
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "USNM 411700" ; Times: 2
+	Query: "harlow egg" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 6
+	Query: "Scolopax saturata" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "USNM 385751" ; Times: 1
+	Query: "USNM 255625" ; Times: 1
+	Query: "USNM 354760" ; Times: 3
+	Query: "USNM 351845" ; Times: 1
+	Query: "USNM 410814" ; Times: 2
+	Query: "USNM 350862" ; Times: 2
+	Query: "USNM 337098" ; Times: 2
+	Query: "USNM 410813" ; Times: 4
+	Query: "Ortalis guttata" ; Times: 3
+	Query: "USNM 132758" ; Times: 2
+	Query: "Campephilus principalis bairdii" ; Times: 1
+	Query: "Turdus unicolor India" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "USNM 284579" ; Times: 1
+	Query: "USNM 377458" ; Times: 2
+	Query: "USNM 433495" ; Times: 1
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "usnm 515291" ; Times: 2
+	Query: "Chondrohierax" ; Times: 3
+	Query: "Indicator xanthonotus india" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Anas penelope" ; Times: 11
+	Query: "USNM 405691" ; Times: 3
+	Query: "USNM 444129" ; Times: 1
+	Query: "Lampropsar tanagrinus" ; Times: 3
+	Query: "specificepithet:plumbeiceps family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Orochelidon murina" ; Times: 1
+	Query: "USNM 444126" ; Times: 1
+	Query: "USNM 180240" ; Times: 1
+	Query: "Phoenicurus ochruros" ; Times: 4
+	Query: "Aegithalos fuliginosus" ; Times: 4
+	Query: "USNM 180465" ; Times: 2
+	Query: "USNM 180464" ; Times: 2
+	Query: "USNM 375890" ; Times: 1
+	Query: "catalognumber:32170 institutioncode:USNM" ; Times: 2
+	Query: "Vireo huttoni 1891" ; Times: 1
+	Query: "USNM 148409" ; Times: 3
+	Query: "Rallus madagascariensis" ; Times: 1
+	Query: "USNM 283905" ; Times: 1
+	Query: "USNM 148407" ; Times: 2
+	Query: "3830 medius" ; Times: 1
+	Query: "Sitta castanea Kashmir" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "206916" ; Times: 1
+	Query: "cyanolimnas cerverai" ; Times: 1
+	Query: "USNM 181754" ; Times: 2
+	Query: "Phegornis mitchellii" ; Times: 4
+	Query: "Muscisaxicola fluviatilis" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 9
+	Query: "Sitta pusilla insularis" ; Times: 2
+	Query: "zosterops richmondi" ; Times: 1
+	Query: "specificepithet:sericeus genus:orthotomus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 10
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "USNM 113036" ; Times: 2
+	Query: "NMNH 521480" ; Times: 1
+	Query: "Phalacrocorax fuscescens" ; Times: 4
+	Query: "543659 USNM" ; Times: 2
+	Query: "Arborophila atrogularis" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:phillips" ; Times: 1
+	Query: "USNM 256532" ; Times: 2
+	Query: "PORTER country:&#34;GABON&#34; year &gt;= 2002 year &lt;= 2002 month &gt;= 2 month &lt;= 3 institutioncode:USNM" ; Times: 2
+	Query: "St Lucia year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "USNM 487096" ; Times: 2
+	Query: "USNM 487097" ; Times: 2
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT USA NOT Tres NOT Remington NOT British" ; Times: 1
+	Query: "USNM 283872" ; Times: 3
+	Query: "USNM 110455" ; Times: 1
+	Query: "USNM 161797" ; Times: 1
+	Query: "USNM 146817" ; Times: 2
+	Query: "USNM 169346" ; Times: 1
+	Query: "USNM 514727" ; Times: 2
+	Query: "Dicaeum chrysorrheum India" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "Grus monacha" ; Times: 1
+	Query: "USNM 251150" ; Times: 2
+	Query: "USNM 121223" ; Times: 2
+	Query: "USNM 325982" ; Times: 4
+	Query: "USNM 119728" ; Times: 2
+	Query: "usnm Veracruz sartorius" ; Times: 3
+	Query: "USNM 435646" ; Times: 2
+	Query: "Turdus bewsheri" ; Times: 1
+	Query: "USNM 377309" ; Times: 1
+	Query: "corvus enca" ; Times: 1
+	Query: "San Martin Baja AND Anthony NOT Pedro" ; Times: 3
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "USNM 201253" ; Times: 2
+	Query: "USNM 178136" ; Times: 2
+	Query: "Criniger chloronotus" ; Times: 4
+	Query: "USNM 515292" ; Times: 1
+	Query: "USNM 66296" ; Times: 3
+	Query: "Tyto alba contempta" ; Times: 1
+	Query: "USNM 465844" ; Times: 1
+	Query: "USNM 296140" ; Times: 2
+	Query: "Apus caffer" ; Times: 3
+	Query: "USNM 166073" ; Times: 2
+	Query: "USNM 313134" ; Times: 2
+	Query: "USNM 313684" ; Times: 1
+	Query: "country:&#34;Panama&#34; collectioncode:Birds institutioncode:USNM" ; Times: 8
+	Query: "Gypaetus barbatus india" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Oreophasis derbianus" ; Times: 4
+	Query: "USNM 240093" ; Times: 2
+	Query: "USNM 192711" ; Times: 1
+	Query: "Minla ignotincta india" ; Times: 1
+	Query: "Phalacrocorax neglectus" ; Times: 4
+	Query: "Monticola rufiventris India" ; Times: 2
+	Query: "USNM 100641" ; Times: 2
+	Query: "USNM 405996" ; Times: 3
+	Query: "USNM 405995" ; Times: 3
+	Query: "USNM 405992" ; Times: 2
+	Query: "168093" ; Times: 1
+	Query: "Heterophasia gracilis india" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "USNM 184944" ; Times: 2
+	Query: "USNM 329670" ; Times: 2
+	Query: "USNM 206331" ; Times: 1
+	Query: "Actitis hypoleucos" ; Times: 6
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Cypsiurus balasiensis" ; Times: 3
+	Query: "Heterophasia melanoleuca" ; Times: 3
+	Query: "Pitta sordida Thailand" ; Times: 2
+	Query: "phyllastrephus icterinus" ; Times: 8
+	Query: "USNM 108671" ; Times: 2
+	Query: "specificepithet:dominicus genus:tachybaptus (skeleton)" ; Times: 1
+	Query: "USNM 487794" ; Times: 1
+	Query: "USNM 261813" ; Times: 2
+	Query: "USNM 424751" ; Times: 2
+	Query: "USNM 424754" ; Times: 2
+	Query: "Rhea americana" ; Times: 3
+	Query: "USNM 261818" ; Times: 2
+	Query: "class:Aves country:&#34;Burkina&#34; continent:Africa" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "county:&#34;brevard&#34; recordedby:court" ; Times: 3
+	Query: "USNM 480529" ; Times: 2
+	Query: "Pnoepyga albiventer India" ; Times: 2
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "specificepithet:amethystina genus:Calliphlox country:&#34;Peru&#34;" ; Times: 1
+	Query: "USNM 377867" ; Times: 2
+	Query: "lurocalis" ; Times: 1
+	Query: "USNM 149028" ; Times: 1
+	Query: "USNM 433553" ; Times: 2
+	Query: "phaethornis hyalinus" ; Times: 1
+	Query: "USNM 372720" ; Times: 2
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "USNM 385762" ; Times: 1
+	Query: "USNM 462819" ; Times: 2
+	Query: "USNM 212201" ; Times: 2
+	Query: "catalognumber:390017 institutioncode:USNM" ; Times: 2
+	Query: "Circus macrourus india" ; Times: 1
+	Query: "USNM 404267" ; Times: 4
+	Query: "USNM 425576" ; Times: 1
+	Query: "USNM 279041" ; Times: 1
+	Query: "oceanites oceanicus antarctica" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "USNM 278113" ; Times: 2
+	Query: "USNM 476239" ; Times: 1
+	Query: "USNM 394240" ; Times: 2
+	Query: "USNM 278118" ; Times: 2
+	Query: "USNM 211719" ; Times: 1
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "chloropsis palawanensis" ; Times: 2
+	Query: "Anthus trivialis India" ; Times: 2
+	Query: "USNM 277422" ; Times: 2
+	Query: "USNM 327234" ; Times: 1
+	Query: "Pomatorhinus ochraceiceps india" ; Times: 1
+	Query: "Garrulus bispecularis India" ; Times: 1
+	Query: "Conirostrum albifrons" ; Times: 3
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "USNM 385945" ; Times: 2
+	Query: "USNM 360550" ; Times: 2
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "Amazilia lactea" ; Times: 4
+	Query: "Buteo rufofuscus" ; Times: 4
+	Query: "USNM 487796" ; Times: 2
+	Query: "USNM 487795" ; Times: 3
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "USNM 487793" ; Times: 1
+	Query: "USNM 341424" ; Times: 6
+	Query: "USNM 487790" ; Times: 3
+	Query: "catalognumber:304585 institutioncode:USNM" ; Times: 2
+	Query: "USNM 487799" ; Times: 1
+	Query: "USNM 487798" ; Times: 2
+	Query: "Higginson California Berkeley" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Falco jugger india" ; Times: 1
+	Query: "specificepithet:major genus:podiceps (skeleton)" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 169 (out of 1171 download events in this period)
+Total number of records downloaded: 14593
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 116
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-07 ; Times: 7
+	Date: 2020-04-22 ; Times: 12
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 9
+	Date: 2020-04-21 ; Times: 27
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 16
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 17
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-18 ; Times: 9
+	Date: 2020-04-13 ; Times: 4
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 14
+	Date: 2020-04-16 ; Times: 14
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "class:Aves country:&#34;Burkina Faso&#34;" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Gallinago nigripennis angolensis" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Gallinago andina" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Tyto alba hellmayri" ; Times: 2
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Gallinago nemoricola" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Fratercula (111792 OR 381223 OR 381224 OR 381225 OR 381226 OR 396963 OR 396964 OR 524282) institutioncode:USNM" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Tyto alba nigrescens" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "Rallicula forbesi" ; Times: 1
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;himachal pradesh&#34; country:&#34;india&#34;" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "canirallus" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Polystictus pectoralis brevipennis" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Tyto alba insularis" ; Times: 1
+	Query: "specificepithet:erythronota" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "Gallinago gallinago faeroeensis" ; Times: 1
+	Query: "Athene cunicularia guadeloupensis" ; Times: 2
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "Tyto alba contempta" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Tyto novaehollandiae" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 2
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "geobates" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Gallinago macrodactyla" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "vntype:specimen family:Spheniscidae institutioncode:USNM" ; Times: 1
+	Query: "Scolopax saturata" ; Times: 1
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 1
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Nipponia nippon" ; Times: 2
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Burhinus bistriatus vocifer" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+	Query: "Campylorhynchus griseus" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Athene brama" ; Times: 1
+	Query: "Gallinago hardwickii" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Scolopax mira" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Scolopax rochussenii" ; Times: 1
+	Query: "Amazona collaria" ; Times: 1
+	Query: "Aves Jammu" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Botaurus lentiginosus Texas" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Tyto capensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Tyto alba tuidara" ; Times: 1
+	Query: "Tyto rosenbergii" ; Times: 1
+	Query: "specificepithet:bernicla genus:Branta stateprovince:&#34;Alaska&#34; year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34; continent:Africa" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "Rallus wetmorei" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Athene cunicularia brachyptera" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Butler" ; Times: 1
+	Query: "Rhytipterna immunda" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Gallinago imperialis" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Gallinago stricklandii" ; Times: 1
+	Query: "MENTOCREX" ; Times: 1
+	Query: "hypothymis coelestis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Tyto alba bargei" ; Times: 1
+	Query: "Athene cunicularia amaura" ; Times: 1
+	Query: "phyllastrephus icterinus" ; Times: 1
+	Query: "Scolopax celebensis" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Cnemotriccus fuscatus duidae" ; Times: 1
+	Query: "USNM; JUNCO HYEMALIS" ; Times: 1
+	Query: "Tyto alba furcata" ; Times: 1
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Tyto alba guatemalae" ; Times: 1
+	Query: "Rallus caerulescens" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Dolospingus fringilloides" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "Gallinago media" ; Times: 1
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "Rallus madagascariensis" ; Times: 1
+	Query: "Amazona agilis" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Athene cunicularia troglodytes" ; Times: 1
+	Query: "Campylorhynchus griseus griseus" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+
+End of report.
