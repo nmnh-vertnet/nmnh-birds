@@ -1,0 +1,561 @@
+Report for Institution Code USNM, Resource nmnh_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 563
+Number of records retrieved in searches: 6231
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 47
+	Country: Italy ; Times: 4
+	Country: Peru ; Times: 89
+	Country: Unknown ; Times: 42
+	Country: France ; Times: 18
+	Country: Ireland ; Times: 6
+	Country: Argentina ; Times: 8
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Dominican Republic ; Times: 4
+	Country: United States ; Times: 144
+	Country: Sweden ; Times: 34
+	Country: Uruguay ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 60
+	Country: Cuba ; Times: 3
+	Country: India ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 43
+	Country: Austria ; Times: 8
+	Country: Vietnam ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Paraguay ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-19 ; Times: 8
+	Date: 2020-06-08 ; Times: 54
+	Date: 2020-06-09 ; Times: 27
+	Date: 2020-06-06 ; Times: 25
+	Date: 2020-06-07 ; Times: 15
+	Date: 2020-06-04 ; Times: 70
+	Date: 2020-06-05 ; Times: 40
+	Date: 2020-06-02 ; Times: 61
+	Date: 2020-06-03 ; Times: 33
+	Date: 2020-06-01 ; Times: 28
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 156
+	Date: 2020-06-11 ; Times: 24
+	Date: 2020-06-12 ; Times: 6
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "100399 aves" ; Times: 1
+	Query: "catalognumber:288868" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "tinamus major" ; Times: 1
+	Query: "specificepithet:alberti order:galliformes" ; Times: 1
+	Query: "USNM 316677" ; Times: 2
+	Query: "Mearnsia" ; Times: 1
+	Query: "USNM 316679" ; Times: 2
+	Query: "USNM 316678" ; Times: 2
+	Query: "Cairina moschata" ; Times: 3
+	Query: "zosterops heinrichi" ; Times: 1
+	Query: "Aerodramus whiteheadi" ; Times: 1
+	Query: "catalognumber:258138" ; Times: 1
+	Query: "USNM 560468" ; Times: 2
+	Query: "Ara macao" ; Times: 2
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "B43329" ; Times: 2
+	Query: "arremonops sinaloae" ; Times: 2
+	Query: "catalognumber:512268 institutioncode:USNM" ; Times: 1
+	Query: "Tangara peruviana" ; Times: 1
+	Query: "Strix leptogrammica india" ; Times: 1
+	Query: "USNM 75970" ; Times: 2
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:USNM" ; Times: 1
+	Query: "drepanornis albertisi" ; Times: 6
+	Query: "USNM 568660" ; Times: 1
+	Query: "vanellus macropterus" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Plocepasser" ; Times: 2
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "USNM 568618" ; Times: 1
+	Query: "USNM 568619" ; Times: 2
+	Query: "USNM 568616" ; Times: 1
+	Query: "USNM 568617" ; Times: 1
+	Query: "USNM 568610" ; Times: 1
+	Query: "usnm 286469" ; Times: 2
+	Query: "USNM 192299" ; Times: 1
+	Query: "USNM 192298" ; Times: 1
+	Query: "USNM 192297" ; Times: 1
+	Query: "USNM 192296" ; Times: 1
+	Query: "hypothymis personata" ; Times: 2
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 5
+	Query: "USNM 193673" ; Times: 2
+	Query: "USNM 193674" ; Times: 2
+	Query: "Tenasserim" ; Times: 1
+	Query: "specificepithet:cinctus order:galliformes" ; Times: 2
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "Aerodramus inquieta" ; Times: 1
+	Query: "specificepithet:hodgsoniae order:galliformes" ; Times: 1
+	Query: "specificepithet:hypoleucus locality:Guadalupe" ; Times: 4
+	Query: "USNM 73187" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 2
+	Query: "USNM 418570" ; Times: 1
+	Query: "usnm 346310" ; Times: 1
+	Query: "USNM 270912" ; Times: 1
+	Query: "USNM 525607" ; Times: 1
+	Query: "USNM 525608" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "nigra indiana" ; Times: 1
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 2
+	Query: "USNM 390016" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "usnm 298178" ; Times: 2
+	Query: "Aerodramus bartschi" ; Times: 3
+	Query: "vntype:specimen specificepithet:albogularis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "USNM 560466" ; Times: 2
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "Anas melleri" ; Times: 1
+	Query: "Chlorothraupis olivacea" ; Times: 1
+	Query: "(&#34;Grey-headed Bulbul&#34; OR &#34;Pycnonotus priocephalus&#34;)" ; Times: 3
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;Nova Scotia&#34;" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Micrastur country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "class:aves continent:africa recordedby:goss" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "Aerodramus germani" ; Times: 1
+	Query: "specificepithet:semitorquatus genus:Micrastur country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "class:Aves county:&#34;Och&#34;" ; Times: 1
+	Query: "vanellus lugubris" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "Hirundapus celebensis" ; Times: 1
+	Query: "catalognumber:316725" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "USNM 69935" ; Times: 1
+	Query: "genus:spizaetus country:&#34;pARAGUAY&#34;" ; Times: 2
+	Query: "RT 286" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 1
+	Query: "Sturnella defilippii" ; Times: 1
+	Query: "vanellus MELANOCEPHALUS" ; Times: 3
+	Query: "solor" ; Times: 1
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 2
+	Query: "schoutedenapus" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "Hirundapus cochinchinensis" ; Times: 1
+	Query: "USNM 325160" ; Times: 2
+	Query: "vanellus cinereus" ; Times: 1
+	Query: "catalognumber:232850 institutioncode:USNM" ; Times: 1
+	Query: "USNM 269005" ; Times: 1
+	Query: "USNM 269004" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "catalognumber:288874" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "Drepanornis albertisi" ; Times: 3
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:USNM" ; Times: 1
+	Query: "USNM 60058" ; Times: 2
+	Query: "NMNH 69935" ; Times: 1
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "catalognumber:568576" ; Times: 1
+	Query: "Apus niansae" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "specificepithet:ORNATus family:accipitridae country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "USNM 178976" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Osh&#34;" ; Times: 5
+	Query: "Apus nipalensis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "catalognumber:316689" ; Times: 1
+	Query: "catalognumber:316685" ; Times: 1
+	Query: "catalognumber:316686" ; Times: 1
+	Query: "catalognumber:316687" ; Times: 1
+	Query: "catalognumber:211069" ; Times: 1
+	Query: "stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "catalognumber:229747" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:USNM" ; Times: 2
+	Query: "Buteogallus anthracinus Chihuahua" ; Times: 1
+	Query: "specificepithet:bruijnii order:galliformes" ; Times: 5
+	Query: "collocalia affinis" ; Times: 1
+	Query: "vanellus crassirostris" ; Times: 3
+	Query: "ramphocelus limatus" ; Times: 1
+	Query: "Hemithraupis guira" ; Times: 1
+	Query: "Drepanornis albertisi albertisi" ; Times: 1
+	Query: "genus:synthliboramphus locality:Guadalupe" ; Times: 1
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "specificepithet:buffoni genus:circus country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "USNM 418569" ; Times: 2
+	Query: "usnm 286524" ; Times: 2
+	Query: "Campephilus pollens" ; Times: 1
+	Query: "Anas falcata" ; Times: 6
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "vanellus duvaucelii" ; Times: 2
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "MERGUS OCTOSETACEUS" ; Times: 1
+	Query: "Falco columbarius insignis" ; Times: 1
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "USNM 418567" ; Times: 2
+	Query: "attila phoenicurus" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 2
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Birds" ; Times: 2
+	Query: "USNM 192304" ; Times: 1
+	Query: "USNM 192301" ; Times: 1
+	Query: "USNM 192300" ; Times: 1
+	Query: "USNM 192303" ; Times: 1
+	Query: "USNM 192302" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Quiscalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 6
+	Query: "USNM 76883" ; Times: 1
+	Query: "USNM 568634" ; Times: 2
+	Query: "RT 318" ; Times: 1
+	Query: "Pinguinus impennis preparations:Skeleton" ; Times: 1
+	Query: "USNM 342868" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Buteo rufinus india" ; Times: 1
+	Query: "passer simplex" ; Times: 2
+	Query: "USNM 69925" ; Times: 1
+	Query: "USNM 548450" ; Times: 2
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Hirundapus giganteus" ; Times: 1
+	Query: "catalognumber: 196268" ; Times: 1
+	Query: "Aerodramus nuditarsus" ; Times: 3
+	Query: "USNM 298846" ; Times: 2
+	Query: "Falco jugger" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "catalognumber:71586 institutioncode:USNM" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "USNM 490534" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mellisuga helenae" ; Times: 2
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "coccyzus americanus Panama" ; Times: 1
+	Query: "batis minor" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 3
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "vanellus gregarius" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "specificepithet:inornata order:galliformes" ; Times: 1
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "trece aguas" ; Times: 2
+	Query: "Chondrohierax Cuba" ; Times: 1
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bubo coromandus india" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "calyptura" ; Times: 3
+	Query: "USNM 298931" ; Times: 1
+	Query: "USNM 298930" ; Times: 1
+	Query: "Apus berliozi" ; Times: 1
+	Query: "USNM 345178" ; Times: 1
+	Query: "vntype:specimen specificepithet:bouvreuil genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "Carduelis yarrellii" ; Times: 1
+	Query: "buteo ridgwayi" ; Times: 5
+	Query: "acrocephalus arundinaceus" ; Times: 5
+	Query: "Anas penelope" ; Times: 6
+	Query: "specificepithet:cinereiceps order:galliformes" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "specificepithet:fuscoolivaceus genus:Atlapetes" ; Times: 1
+	Query: "Microhierax caerulescens" ; Times: 3
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "trichastoma celebense" ; Times: 1
+	Query: "specificepithet:ocellata genus:Rheinardia" ; Times: 2
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "Asio flammeus india" ; Times: 1
+	Query: "catalognumber:316691" ; Times: 1
+	Query: "specificepithet:barbatus order:galliformes" ; Times: 1
+	Query: "callacanthis" ; Times: 3
+	Query: "specificepithet:meninting genus:Alcedo country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 4
+	Query: "catalognumber:117715 institutioncode:USNM" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "genus:Glaucidium preparations:Skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "usnm 346056" ; Times: 1
+	Query: "Batis senegalensis" ; Times: 2
+	Query: "specificepithet:malacense order:galliformes" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Epimachus" ; Times: 14
+	Query: "genus:daption country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoptera genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aerodramus mearnsi" ; Times: 2
+	Query: "class:aves country:&#34;china&#34; recordedby:wilder" ; Times: 1
+	Query: "USNM 120787" ; Times: 1
+	Query: "USNM 120788" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "catalognumber:398603 institutioncode:USNM" ; Times: 2
+	Query: "vanellus superciliosus" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "230140" ; Times: 1
+	Query: "locality:Apache stateprovince:&#34;Arizona&#34; recordedby:Henshaw" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "USNM 247446" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "specificepithet:swainsoni genus:myiarchus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "recordedby:knobloch year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "usnm 193287" ; Times: 2
+	Query: "Otus spilocephalus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "genus:geranospiza country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 4
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "258276" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "Anas luzonica" ; Times: 3
+	Query: "astrapia nigra" ; Times: 1
+	Query: "USNM 538259" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "specificepithet:furcatus genus:Hemitriccus" ; Times: 1
+	Query: "catalognumber:512255 institutioncode:USNM" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi)" ; Times: 1
+	Query: "catalognumber:512262 institutioncode:USNM" ; Times: 1
+	Query: "Psittacula Rock 1923" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 2
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 4
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "genus:Camptorhynchus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:512272 institutioncode:USNM" ; Times: 1
+	Query: "genus:bubalornis class:aves country:&#34;ethiopia&#34;" ; Times: 2
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 2
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "B24297" ; Times: 1
+	Query: "genus:Parus locality:Apache stateprovince:&#34;Arizona&#34; recordedby:Henshaw" ; Times: 1
+	Query: "Melanerpes Chihuahua" ; Times: 1
+	Query: "catalognumber:512270 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:meleagrides order:galliformes" ; Times: 1
+	Query: "catalognumber:196268 institutioncode:USNM" ; Times: 1
+	Query: "Neafrapus boehmi" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "usnm 286374" ; Times: 2
+	Query: "usnm 70050" ; Times: 1
+	Query: "Aerodramus brevirostris" ; Times: 1
+	Query: "piranga savannarum" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Herpetotheres country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:USNM" ; Times: 1
+	Query: "USNM 298929" ; Times: 1
+	Query: "class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 2
+	Query: "USNM 222323" ; Times: 2
+	Query: "USNM 222322" ; Times: 2
+	Query: "USNM 525611" ; Times: 2
+	Query: "USNM 525610" ; Times: 1
+	Query: "USNM 525612" ; Times: 2
+	Query: "coccyzus americanus Cuba" ; Times: 1
+	Query: "genus:Chondestes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "coccyzus americanus Colombia" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "V-1132" ; Times: 1
+	Query: "Eleothreptus anomalus" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "USNM 298814" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 4
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "genus:Gampsonyx country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; recordedby:Henshaw" ; Times: 2
+	Query: "USNM 568655" ; Times: 2
+	Query: "catalognumber:568575" ; Times: 1
+	Query: "USNM 568659" ; Times: 2
+	Query: "catalognumber:343190" ; Times: 1
+	Query: "catalognumber:343191" ; Times: 1
+	Query: "Aerodramus unicolor" ; Times: 1
+	Query: "genus:Parus class:Aves recordedby:Aiken" ; Times: 1
+	Query: "B45791 Aves" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "USNM 343281" ; Times: 1
+	Query: "USNM 343282" ; Times: 4
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 2
+	Query: "xenicus longipes" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Icterus stateprovince:&#34;Campeche&#34;" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "USNM 600577" ; Times: 1
+	Query: "USNM 568609" ; Times: 1
+	Query: "Bubo coromandus" ; Times: 1
+	Query: "vntype:specimen genus:Hypopyrrhus" ; Times: 2
+	Query: "specificepithet:pipile order:galliformes" ; Times: 2
+	Query: "specificepithet:guira genus:Hemithraupis stateprovince:&#34;Rio de Janeiro&#34;" ; Times: 1
+	Query: "USNM 316682" ; Times: 4
+	Query: "USNM 316683" ; Times: 2
+	Query: "USNM 316680" ; Times: 2
+	Query: "USNM 316681" ; Times: 1
+	Query: "USNM 316684" ; Times: 2
+	Query: "USNM 80905" ; Times: 1
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "USNM 325159" ; Times: 2
+	Query: "catalognumber:126793" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 474 download events in this period)
+Total number of records downloaded: 9989
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 33
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 59
+	Country: Austria ; Times: 3
+	Country: Dominican Republic ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 3
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-06 ; Times: 6
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-10 ; Times: 69
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "specificepithet:alberti order:galliformes" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:furcatus genus:Hemitriccus" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi)" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "Tangara peruviana" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "specificepithet:cruentus order:galliformes" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:USNM" ; Times: 1
+	Query: "recordedby:Hornung J. basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:inornata order:galliformes" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "specificepithet:meleagrides order:galliformes" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:USNM" ; Times: 1
+	Query: "buteo ridgwayi" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:cinereiceps order:galliformes" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "specificepithet:hodgsoniae order:galliformes" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "Eleothreptus anomalus" ; Times: 1
+	Query: "specificepithet:ocellata genus:Rheinardia" ; Times: 1
+	Query: "specificepithet:barbatus order:galliformes" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "locality:Rossel country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "specificepithet:malacense order:galliformes" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 2
+	Query: "class:aves country:&#34;china&#34; recordedby:wilder" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "class:aves country:&#34;eritrea&#34; recordedby:schrader" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "genus:bubalornis class:aves country:&#34;ethiopia&#34;" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "Sturnella defilippii" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
